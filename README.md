@@ -12,7 +12,6 @@ It contains script for crawling the craft/龍刻 details from wikia, classifying
 - `numpy`
 - `pandas`
 - `re`
-- `urllib3`
 - `requests-futures`
 
 # Usage
