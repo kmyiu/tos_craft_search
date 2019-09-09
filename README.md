@@ -13,6 +13,7 @@ It contains script for crawling the craft/龍刻 details from wikia, classifying
 - `pandas`
 - `re`
 - `urllib3`
+- `requests-futures`
 
 # Usage
 `get_craft_info.ipynb`
