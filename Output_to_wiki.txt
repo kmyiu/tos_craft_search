@@ -1,330 +1,435 @@
-<div data-id="1" data-star="1" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|01}}</div>
-<div data-id="2" data-star="1" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|02}}</div>
-<div data-id="3" data-star="1" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|03}}</div>
-<div data-id="4" data-star="2" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="2" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|04}}</div>
-<div data-id="5" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|05}}</div>
-<div data-id="6" data-star="2" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|06}}</div>
-<div data-id="7" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|07}}</div>
-<div data-id="8" data-star="2" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|08}}</div>
-<div data-id="9" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="10" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|09}}</div>
-<div data-id="10" data-star="3" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="7" data-skilltype="14 1" data-skilltype2="14 1">{{CraftDesc|10}}</div>
-<div data-id="11" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="8" data-skilltype="15 1" data-skilltype2="15 1">{{CraftDesc|11}}</div>
-<div data-id="12" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="7" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|12}}</div>
-<div data-id="13" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="9" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|13}}</div>
-<div data-id="14" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|14}}</div>
-<div data-id="15" data-star="2" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|15}}</div>
-<div data-id="16" data-star="2" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|16}}</div>
-<div data-id="17" data-star="1" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="9" data-skilltype="1" data-skilltype2="1">{{CraftDesc|17}}</div>
-<div data-id="18" data-star="2" data-attribute="0" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|18}}</div>
-<div data-id="19" data-star="2" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|19}}</div>
-<div data-id="20" data-star="2" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="10" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|20}}</div>
-<div data-id="21" data-star="2" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="9" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|21}}</div>
-<div data-id="22" data-star="2" data-attribute="0" data-racialtype="5" data-mode="1" data-charge="7" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|22}}</div>
-<div data-id="23" data-star="2" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="10" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|23}}</div>
-<div data-id="24" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|24}}</div>
-<div data-id="25" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="3" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|25}}</div>
-<div data-id="26" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="4" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|26}}</div>
-<div data-id="27" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="2 4 1" data-skilltype2="2 4 1">{{CraftDesc|27}}</div>
-<div data-id="28" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="2 4 1" data-skilltype2="2 4 1">{{CraftDesc|28}}</div>
-<div data-id="29" data-star="2" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="7" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|29}}</div>
-<div data-id="30" data-star="2" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="9" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|30}}</div>
-<div data-id="31" data-star="2" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|31}}</div>
-<div data-id="32" data-star="2" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="10" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|32}}</div>
-<div data-id="33" data-star="2" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="7" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|33}}</div>
-<div data-id="34" data-star="2" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|34}}</div>
-<div data-id="35" data-star="1" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="7" data-skilltype="1" data-skilltype2="1">{{CraftDesc|35}}</div>
-<div data-id="36" data-star="2" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|36}}</div>
-<div data-id="37" data-star="2" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="8" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|37}}</div>
-<div data-id="38" data-star="2" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|38}}</div>
-<div data-id="39" data-star="2" data-attribute="0" data-racialtype="4" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|39}}</div>
-<div data-id="40" data-star="2" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|40}}</div>
-<div data-id="41" data-star="2" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="8" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|41}}</div>
-<div data-id="42" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|42}}</div>
-<div data-id="43" data-star="2" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|43}}</div>
-<div data-id="44" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="4" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|44}}</div>
-<div data-id="45" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|45}}</div>
-<div data-id="46" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|46}}</div>
-<div data-id="47" data-star="3" data-attribute="1" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="15 1" data-skilltype2="15 1">{{CraftDesc|47}}</div>
-<div data-id="48" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="8" data-skilltype="14 1" data-skilltype2="14 1">{{CraftDesc|48}}</div>
-<div data-id="49" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|49}}</div>
-<div data-id="50" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|50}}</div>
-<div data-id="51" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|51}}</div>
-<div data-id="52" data-star="3" data-attribute="1" data-racialtype="3" data-mode="3" data-charge="2" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|52}}</div>
-<div data-id="53" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|53}}</div>
-<div data-id="54" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|54}}</div>
-<div data-id="55" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="7 8 1" data-skilltype2="7 8 1">{{CraftDesc|55}}</div>
-<div data-id="56" data-star="3" data-attribute="5" data-racialtype="3" data-mode="2" data-charge="6" data-skilltype="7 8 1" data-skilltype2="7 8 1">{{CraftDesc|56}}</div>
-<div data-id="57" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="8" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|57}}</div>
-<div data-id="58" data-star="1" data-attribute="0" data-racialtype="0" data-mode="5" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|58}}</div>
-<div data-id="59" data-star="2" data-attribute="1" data-racialtype="0" data-mode="5" data-charge="2" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|59}}</div>
-<div data-id="60" data-star="2" data-attribute="2" data-racialtype="0" data-mode="5" data-charge="3" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|60}}</div>
-<div data-id="61" data-star="2" data-attribute="3" data-racialtype="0" data-mode="5" data-charge="4" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|61}}</div>
-<div data-id="62" data-star="2" data-attribute="4" data-racialtype="0" data-mode="5" data-charge="5" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|62}}</div>
-<div data-id="63" data-star="2" data-attribute="5" data-racialtype="0" data-mode="5" data-charge="6" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|63}}</div>
-<div data-id="64" data-star="3" data-attribute="0" data-racialtype="3" data-mode="5" data-charge="10" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|64}}</div>
-<div data-id="65" data-star="2" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|65}}</div>
-<div data-id="66" data-star="2" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="3" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|66}}</div>
-<div data-id="67" data-star="2" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|67}}</div>
-<div data-id="68" data-star="2" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|68}}</div>
-<div data-id="69" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|69}}</div>
-<div data-id="70" data-star="3" data-attribute="1" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|70}}</div>
-<div data-id="71" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="1" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|71}}</div>
-<div data-id="72" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|72}}</div>
-<div data-id="73" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|73}}</div>
-<div data-id="74" data-star="3" data-attribute="2" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="4 1" data-skilltype2="4 1">{{CraftDesc|74}}</div>
-<div data-id="75" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|75}}</div>
-<div data-id="76" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|76}}</div>
-<div data-id="77" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|77}}</div>
-<div data-id="78" data-star="2" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|78}}</div>
-<div data-id="79" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|79}}</div>
-<div data-id="80" data-star="2" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|80}}</div>
-<div data-id="81" data-star="3" data-attribute="1" data-racialtype="6" data-mode="6" data-charge="2" data-skilltype="3 8 1" data-skilltype2="3 8 1">{{CraftDesc|81}}</div>
-<div data-id="82" data-star="3" data-attribute="0" data-racialtype="5" data-mode="6" data-charge="7" data-skilltype="2 7 5 27" data-skilltype2="2 7 5 27">{{CraftDesc|82}}</div>
-<div data-id="83" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|83}}</div>
-<div data-id="84" data-star="3" data-attribute="0" data-racialtype="1" data-mode="6" data-charge="10" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|84}}</div>
-<div data-id="85" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|85}}</div>
-<div data-id="86" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|86}}</div>
-<div data-id="87" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|87}}</div>
-<div data-id="88" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|88}}</div>
-<div data-id="89" data-star="2" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|89}}</div>
-<div data-id="90" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="7" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|90}}</div>
-<div data-id="91" data-star="3" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="10" data-skilltype="12 3 6 1" data-skilltype2="12 3 6 1">{{CraftDesc|91}}</div>
-<div data-id="92" data-star="3" data-attribute="2" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|92}}</div>
-<div data-id="93" data-star="3" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="10 1" data-skilltype2="10 1">{{CraftDesc|93}}</div>
-<div data-id="94" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="2 8 1" data-skilltype2="2 8 1">{{CraftDesc|94}}</div>
-<div data-id="95" data-star="3" data-attribute="0" data-racialtype="2" data-mode="1" data-charge="8" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|95}}</div>
-<div data-id="96" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|96}}</div>
-<div data-id="97" data-star="2" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|97}}</div>
-<div data-id="98" data-star="2" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|98}}</div>
-<div data-id="99" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|99}}</div>
-<div data-id="100" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|100}}</div>
-<div data-id="101" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="15 2 1" data-skilltype2="15 2 1">{{CraftDesc|101}}</div>
-<div data-id="102" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="10" data-skilltype="3 6 1" data-skilltype2="3 6 1">{{CraftDesc|102}}</div>
-<div data-id="103" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="8" data-skilltype="7 4 1" data-skilltype2="7 4 1">{{CraftDesc|103}}</div>
-<div data-id="104" data-star="3" data-attribute="4" data-racialtype="6" data-mode="1" data-charge="5" data-skilltype="7 4 1" data-skilltype2="7 4 1">{{CraftDesc|104}}</div>
-<div data-id="105" data-star="3" data-attribute="5" data-racialtype="6" data-mode="4" data-charge="6" data-skilltype="7 4 1" data-skilltype2="7 4 1">{{CraftDesc|105}}</div>
-<div data-id="106" data-star="3" data-attribute="3" data-racialtype="4" data-mode="2" data-charge="4" data-skilltype="12 3 1" data-skilltype2="12 3 1">{{CraftDesc|106}}</div>
-<div data-id="107" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="10" data-skilltype="3 16 1" data-skilltype2="3 16 1">{{CraftDesc|107}}</div>
-<div data-id="108" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="14 8 1" data-skilltype2="14 8 1">{{CraftDesc|108}}</div>
-<div data-id="109" data-star="3" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="8" data-skilltype="10 6 1" data-skilltype2="10 6 1">{{CraftDesc|109}}</div>
-<div data-id="110" data-star="3" data-attribute="0" data-racialtype="5" data-mode="5" data-charge="10" data-skilltype="2 5 33 1" data-skilltype2="2 5 33 1">{{CraftDesc|110}}</div>
-<div data-id="111" data-star="3" data-attribute="0" data-racialtype="1" data-mode="5" data-charge="10" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|111}}</div>
-<div data-id="112" data-star="1" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|112}}</div>
-<div data-id="113" data-star="2" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="2" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|113}}</div>
-<div data-id="114" data-star="2" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|114}}</div>
-<div data-id="115" data-star="2" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|115}}</div>
-<div data-id="116" data-star="2" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="5" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|116}}</div>
-<div data-id="117" data-star="2" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="6" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|117}}</div>
-<div data-id="118" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|118}}</div>
-<div data-id="119" data-star="3" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="5 3 27 1" data-skilltype2="5 3 27 1">{{CraftDesc|119}}</div>
-<div data-id="120" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="1" data-skilltype="2 8 1" data-skilltype2="2 8 1">{{CraftDesc|120}}</div>
-<div data-id="121" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="6" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|121}}</div>
-<div data-id="122" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="14 6 1" data-skilltype2="14 6 1">{{CraftDesc|122}}</div>
-<div data-id="123" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="8" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|123}}</div>
-<div data-id="124" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="3 6 1" data-skilltype2="3 6 1">{{CraftDesc|124}}</div>
-<div data-id="125" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="3 6 1" data-skilltype2="3 6 1">{{CraftDesc|125}}</div>
-<div data-id="126" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="11 5 3 25" data-skilltype2="11 5 3 25">{{CraftDesc|126}}</div>
-<div data-id="127" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="14 21 1" data-skilltype2="14 21 1">{{CraftDesc|127}}</div>
-<div data-id="128" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="5 7 1" data-skilltype2="5 7 1">{{CraftDesc|128}}</div>
-<div data-id="129" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="5 7 1" data-skilltype2="5 7 1">{{CraftDesc|129}}</div>
-<div data-id="130" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="3 6 1" data-skilltype2="3 6 1">{{CraftDesc|130}}</div>
-<div data-id="131" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|131}}</div>
-<div data-id="132" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="19 3 1" data-skilltype2="19 3 1">{{CraftDesc|132}}</div>
-<div data-id="133" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="7" data-skilltype="2 5 13 12 39" data-skilltype2="2 5 13 12 39">{{CraftDesc|133}}</div>
-<div data-id="134" data-star="3" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="10" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|134}}</div>
-<div data-id="135" data-star="3" data-attribute="0" data-racialtype="4" data-mode="7" data-charge="1" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|135}}</div>
-<div data-id="136" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="14 10 6 1" data-skilltype2="14 10 6 1">{{CraftDesc|136}}</div>
-<div data-id="137" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="16 5 27 1" data-skilltype2="16 5 27 1">{{CraftDesc|137}}</div>
-<div data-id="138" data-star="3" data-attribute="5" data-racialtype="1" data-mode="1" data-charge="6" data-skilltype="12 13 8 1" data-skilltype2="12 13 8 1">{{CraftDesc|138}}</div>
-<div data-id="139" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="5 2 15 30 1" data-skilltype2="5 2 15 30 1">{{CraftDesc|139}}</div>
-<div data-id="140" data-star="3" data-attribute="5" data-racialtype="6" data-mode="1" data-charge="6" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|140}}</div>
-<div data-id="141" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="10" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|141}}</div>
-<div data-id="142" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|142}}</div>
-<div data-id="143" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="11 6 1" data-skilltype2="11 6 1">{{CraftDesc|143}}</div>
-<div data-id="144" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="3 33 5 8" data-skilltype2="3 33 5 8">{{CraftDesc|144}}</div>
-<div data-id="145" data-star="3" data-attribute="2" data-racialtype="6" data-mode="1" data-charge="3" data-skilltype="14 20 1" data-skilltype2="14 20 1">{{CraftDesc|145}}</div>
-<div data-id="146" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="15 32 5 1" data-skilltype2="15 32 5 1">{{CraftDesc|146}}</div>
-<div data-id="147" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="6 11 4 1" data-skilltype2="6 11 4 1">{{CraftDesc|147}}</div>
-<div data-id="148" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="1" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|148}}</div>
-<div data-id="149" data-star="3" data-attribute="0" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="7 2 3 1" data-skilltype2="7 2 3 1">{{CraftDesc|149}}</div>
-<div data-id="150" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="28 5 6 1" data-skilltype2="28 5 6 1">{{CraftDesc|150}}</div>
-<div data-id="151" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="29 5 6 1" data-skilltype2="29 5 6 1">{{CraftDesc|151}}</div>
-<div data-id="152" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|152}}</div>
-<div data-id="153" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="31 9 5 1" data-skilltype2="31 9 5 1">{{CraftDesc|153}}</div>
-<div data-id="154" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="6" data-skilltype="9 7 1" data-skilltype2="9 7 1">{{CraftDesc|154}}</div>
-<div data-id="155" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="11 2 1" data-skilltype2="11 2 1">{{CraftDesc|155}}</div>
-<div data-id="156" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="7 8 1" data-skilltype2="7 8 1">{{CraftDesc|156}}</div>
-<div data-id="157" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="10 5 1 23" data-skilltype2="10 5 1 23">{{CraftDesc|157}}</div>
-<div data-id="158" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="2 7" data-skilltype2="2 7">{{CraftDesc|158}}</div>
-<div data-id="159" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="10" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|159}}</div>
-<div data-id="160" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="1" data-skilltype="15 5 24 1" data-skilltype2="15 5 24 1">{{CraftDesc|160}}</div>
-<div data-id="161" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="3" data-skilltype="29 5 3 1" data-skilltype2="29 5 3 1">{{CraftDesc|161}}</div>
-<div data-id="162" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|162}}</div>
-<div data-id="163" data-star="3" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="10" data-skilltype="15 26 5 7" data-skilltype2="15 26 5 7">{{CraftDesc|163}}</div>
-<div data-id="164" data-star="3" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="8" data-skilltype="10 1" data-skilltype2="10 1">{{CraftDesc|164}}</div>
-<div data-id="165" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="15 7 1" data-skilltype2="15 7 1">{{CraftDesc|165}}</div>
-<div data-id="166" data-star="3" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="8" data-skilltype="5 7 25 1" data-skilltype2="5 7 25 1">{{CraftDesc|166}}</div>
-<div data-id="167" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="9" data-skilltype="31 5 7 1" data-skilltype2="31 5 7 1">{{CraftDesc|167}}</div>
-<div data-id="168" data-star="3" data-attribute="0" data-racialtype="2" data-mode="7" data-charge="10" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|168}}</div>
-<div data-id="169" data-star="3" data-attribute="5" data-racialtype="5" data-mode="4" data-charge="7" data-skilltype="5 8 27 1" data-skilltype2="5 8 27 1">{{CraftDesc|169}}</div>
-<div data-id="170" data-star="3" data-attribute="1" data-racialtype="2" data-mode="1" data-charge="1" data-skilltype="14 9 1" data-skilltype2="14 9 1">{{CraftDesc|170}}</div>
-<div data-id="171" data-star="1" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|171}}</div>
-<div data-id="172" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|172}}</div>
-<div data-id="173" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="1" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|173}}</div>
-<div data-id="174" data-star="3" data-attribute="0" data-racialtype="3" data-mode="8" data-charge="8" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|174}}</div>
-<div data-id="175" data-star="3" data-attribute="1" data-racialtype="0" data-mode="8" data-charge="2" data-skilltype="14 5 22 1" data-skilltype2="14 5 22 1">{{CraftDesc|175}}</div>
-<div data-id="176" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="12 1" data-skilltype2="12 1">{{CraftDesc|176}}</div>
-<div data-id="177" data-star="3" data-attribute="4" data-racialtype="0" data-mode="8" data-charge="5" data-skilltype="15 5 25 1" data-skilltype2="15 5 25 1">{{CraftDesc|177}}</div>
-<div data-id="178" data-star="3" data-attribute="0" data-racialtype="6" data-mode="8" data-charge="10" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|178}}</div>
-<div data-id="179" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|179}}</div>
-<div data-id="180" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="1" data-skilltype2="1">{{CraftDesc|180}}</div>
-<div data-id="181" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="2" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|181}}</div>
-<div data-id="182" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="3" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|182}}</div>
-<div data-id="183" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="4" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|183}}</div>
-<div data-id="184" data-star="3" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="6" data-skilltype="15 26 5 1" data-skilltype2="15 26 5 1">{{CraftDesc|184}}</div>
-<div data-id="185" data-star="3" data-attribute="0" data-racialtype="6" data-mode="6" data-charge="8" data-skilltype="10 6 1" data-skilltype2="10 6 1">{{CraftDesc|185}}</div>
-<div data-id="186" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="31 11 5 7" data-skilltype2="31 11 5 7">{{CraftDesc|186}}</div>
-<div data-id="187" data-star="3" data-attribute="0" data-racialtype="4" data-mode="6" data-charge="10" data-skilltype="7 5 24 1" data-skilltype2="7 5 24 1">{{CraftDesc|187}}</div>
-<div data-id="188" data-star="3" data-attribute="0" data-racialtype="3" data-mode="6" data-charge="10" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|188}}</div>
-<div data-id="189" data-star="3" data-attribute="0" data-racialtype="2" data-mode="6" data-charge="1" data-skilltype="29 5 7 8" data-skilltype2="29 5 7 8">{{CraftDesc|189}}</div>
-<div data-id="190" data-star="3" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="5 22 16 1" data-skilltype2="5 22 16 1">{{CraftDesc|190}}</div>
-<div data-id="191" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="7 5 22 1" data-skilltype2="7 5 22 1">{{CraftDesc|191}}</div>
-<div data-id="192" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="15 28 5 6" data-skilltype2="15 28 5 6">{{CraftDesc|192}}</div>
-<div data-id="193" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="7 5 1 23" data-skilltype2="7 5 1 23">{{CraftDesc|193}}</div>
-<div data-id="194" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="29 5 7 10" data-skilltype2="29 5 7 10">{{CraftDesc|194}}</div>
-<div data-id="195" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="7 5 24 1" data-skilltype2="7 5 24 1">{{CraftDesc|195}}</div>
-<div data-id="196" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="9" data-skilltype="16 5 30" data-skilltype2="16 5 30">{{CraftDesc|196}}</div>
-<div data-id="197" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="5 7 25 1" data-skilltype2="5 7 25 1">{{CraftDesc|197}}</div>
-<div data-id="198" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="31 11 5 3" data-skilltype2="31 11 5 3">{{CraftDesc|198}}</div>
-<div data-id="199" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="7" data-skilltype="26 5 7 1" data-skilltype2="26 5 7 1">{{CraftDesc|199}}</div>
-<div data-id="200" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="5 11 32 13 12" data-skilltype2="5 11 32 13 12">{{CraftDesc|200}}</div>
-<div data-id="201" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="15 7 1" data-skilltype2="15 7 1">{{CraftDesc|201}}</div>
-<div data-id="202" data-star="3" data-attribute="5" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="7 4 1" data-skilltype2="7 4 1">{{CraftDesc|202}}</div>
-<div data-id="203" data-star="3" data-attribute="1" data-racialtype="5" data-mode="3" data-charge="2" data-skilltype="10 5 22 1" data-skilltype2="10 5 22 1">{{CraftDesc|203}}</div>
-<div data-id="204" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="15 26 5 1" data-skilltype2="15 26 5 1">{{CraftDesc|204}}</div>
-<div data-id="205" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|205}}</div>
-<div data-id="206" data-star="3" data-attribute="3" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="5 30 6 1" data-skilltype2="5 30 6 1">{{CraftDesc|206}}</div>
-<div data-id="207" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="10" data-skilltype="15 7 1" data-skilltype2="15 7 1">{{CraftDesc|207}}</div>
-<div data-id="208" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="8" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|208}}</div>
-<div data-id="209" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|209}}</div>
-<div data-id="210" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="1" data-skilltype="11 5 7 27" data-skilltype2="11 5 7 27">{{CraftDesc|210}}</div>
-<div data-id="211" data-star="3" data-attribute="0" data-racialtype="5" data-mode="7" data-charge="1" data-skilltype="33 5 6 1" data-skilltype2="33 5 6 1">{{CraftDesc|211}}</div>
-<div data-id="212" data-star="3" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="10 13 12 1" data-skilltype2="10 13 12 1">{{CraftDesc|212}}</div>
-<div data-id="213" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="5 22 1 2" data-skilltype2="5 22 1 2">{{CraftDesc|213}}</div>
-<div data-id="214" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="7 5 8 22" data-skilltype2="7 5 8 22">{{CraftDesc|214}}</div>
-<div data-id="215" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="11 12 1" data-skilltype2="11 12 1">{{CraftDesc|215}}</div>
-<div data-id="216" data-star="3" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|216}}</div>
-<div data-id="217" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|217}}</div>
-<div data-id="218" data-star="3" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="10 13 12 1" data-skilltype2="10 13 12 1">{{CraftDesc|218}}</div>
-<div data-id="219" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="5 2 1 23" data-skilltype2="5 2 1 23">{{CraftDesc|219}}</div>
-<div data-id="220" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="7 5 8 23" data-skilltype2="7 5 8 23">{{CraftDesc|220}}</div>
-<div data-id="221" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="11 12 1" data-skilltype2="11 12 1">{{CraftDesc|221}}</div>
-<div data-id="222" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="11 12 1" data-skilltype2="11 12 1">{{CraftDesc|222}}</div>
-<div data-id="223" data-star="3" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|223}}</div>
-<div data-id="224" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="10 13 12 1" data-skilltype2="10 13 12 1">{{CraftDesc|224}}</div>
-<div data-id="225" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="5 24 1 2" data-skilltype2="5 24 1 2">{{CraftDesc|225}}</div>
-<div data-id="226" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="7 5 8 24" data-skilltype2="7 5 8 24">{{CraftDesc|226}}</div>
-<div data-id="227" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="7 5 8 25" data-skilltype2="7 5 8 25">{{CraftDesc|227}}</div>
-<div data-id="228" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="11 12 1" data-skilltype2="11 12 1">{{CraftDesc|228}}</div>
-<div data-id="229" data-star="3" data-attribute="4" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|229}}</div>
-<div data-id="230" data-star="3" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="10 13 12 1" data-skilltype2="10 13 12 1">{{CraftDesc|230}}</div>
-<div data-id="231" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="5 2 25 1" data-skilltype2="5 2 25 1">{{CraftDesc|231}}</div>
-<div data-id="232" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="26 5 2 1" data-skilltype2="26 5 2 1">{{CraftDesc|232}}</div>
-<div data-id="233" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="3 26 5 8" data-skilltype2="3 26 5 8">{{CraftDesc|233}}</div>
-<div data-id="234" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="11 12 1" data-skilltype2="11 12 1">{{CraftDesc|234}}</div>
-<div data-id="235" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|235}}</div>
-<div data-id="236" data-star="3" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="8" data-skilltype="10 13 12 1" data-skilltype2="10 13 12 1">{{CraftDesc|236}}</div>
-<div data-id="237" data-star="1" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="1" data-skilltype2="1">{{CraftDesc|237}}</div>
-<div data-id="238" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|238}}</div>
-<div data-id="239" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|239}}</div>
-<div data-id="240" data-star="3" data-attribute="0" data-racialtype="7" data-mode="1" data-charge="1" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|240}}</div>
-<div data-id="241" data-star="3" data-attribute="0" data-racialtype="7" data-mode="3" data-charge="8" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|241}}</div>
-<div data-id="242" data-star="3" data-attribute="0" data-racialtype="7" data-mode="4" data-charge="10" data-skilltype="15 7 1" data-skilltype2="15 7 1">{{CraftDesc|242}}</div>
-<div data-id="243" data-star="3" data-attribute="0" data-racialtype="7" data-mode="7" data-charge="1" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|243}}</div>
-<div data-id="244" data-star="3" data-attribute="0" data-racialtype="7" data-mode="2" data-charge="8" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|244}}</div>
-<div data-id="245" data-star="3" data-attribute="0" data-racialtype="7" data-mode="8" data-charge="10" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|245}}</div>
-<div data-id="246" data-star="1" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|246}}</div>
-<div data-id="247" data-star="2" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|247}}</div>
-<div data-id="248" data-star="2" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|248}}</div>
-<div data-id="249" data-star="2" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|249}}</div>
-<div data-id="250" data-star="2" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|250}}</div>
-<div data-id="251" data-star="2" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|251}}</div>
-<div data-id="252" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="11 2 1" data-skilltype2="11 2 1">{{CraftDesc|252}}</div>
-<div data-id="253" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="2 12 1" data-skilltype2="2 12 1">{{CraftDesc|253}}</div>
-<div data-id="254" data-star="3" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|254}}</div>
-<div data-id="255" data-star="3" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|255}}</div>
-<div data-id="256" data-star="3" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|256}}</div>
-<div data-id="257" data-star="3" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|257}}</div>
-<div data-id="258" data-star="3" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="7 4 1" data-skilltype2="7 4 1">{{CraftDesc|258}}</div>
-<div data-id="259" data-star="3" data-attribute="0" data-racialtype="3" data-mode="9" data-charge="8" data-skilltype="12 7 1" data-skilltype2="12 7 1">{{CraftDesc|259}}</div>
-<div data-id="260" data-star="3" data-attribute="0" data-racialtype="6" data-mode="9" data-charge="1" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|260}}</div>
-<div data-id="261" data-star="3" data-attribute="0" data-racialtype="1" data-mode="9" data-charge="8" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|261}}</div>
-<div data-id="262" data-star="3" data-attribute="0" data-racialtype="2" data-mode="9" data-charge="1" data-skilltype="7 4 1" data-skilltype2="7 4 1">{{CraftDesc|262}}</div>
-<div data-id="263" data-star="3" data-attribute="0" data-racialtype="4" data-mode="9" data-charge="8" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|263}}</div>
-<div data-id="264" data-star="3" data-attribute="0" data-racialtype="5" data-mode="9" data-charge="1" data-skilltype="15 7 1" data-skilltype2="15 7 1">{{CraftDesc|264}}</div>
-<div data-id="265" data-star="3" data-attribute="0" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|265}}</div>
-<div data-id="266" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="7 5 1 23" data-skilltype2="7 5 1 23">{{CraftDesc|266}}</div>
-<div data-id="267" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="5 30 1" data-skilltype2="5 30 1">{{CraftDesc|267}}</div>
-<div data-id="268" data-star="3" data-attribute="1" data-racialtype="6" data-mode="1" data-charge="2" data-skilltype="7 6 1" data-skilltype2="7 6 1">{{CraftDesc|268}}</div>
-<div data-id="269" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="3 5 22 1" data-skilltype2="3 5 22 1">{{CraftDesc|269}}</div>
-<div data-id="270" data-star="3" data-attribute="1" data-racialtype="3" data-mode="2" data-charge="2" data-skilltype="15 13 12 1" data-skilltype2="15 13 12 1">{{CraftDesc|270}}</div>
-<div data-id="271" data-star="3" data-attribute="1" data-racialtype="5" data-mode="4" data-charge="2" data-skilltype="9 7 1" data-skilltype2="9 7 1">{{CraftDesc|271}}</div>
-<div data-id="272" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="11 6 1" data-skilltype2="11 6 1">{{CraftDesc|272}}</div>
-<div data-id="273" data-star="3" data-attribute="2" data-racialtype="4" data-mode="3" data-charge="3" data-skilltype="3 7 1" data-skilltype2="3 7 1">{{CraftDesc|273}}</div>
-<div data-id="274" data-star="3" data-attribute="2" data-racialtype="2" data-mode="7" data-charge="3" data-skilltype="7 5 1 23" data-skilltype2="7 5 1 23">{{CraftDesc|274}}</div>
-<div data-id="275" data-star="3" data-attribute="3" data-racialtype="2" data-mode="1" data-charge="4" data-skilltype="15 13 12 1" data-skilltype2="15 13 12 1">{{CraftDesc|275}}</div>
-<div data-id="276" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|276}}</div>
-<div data-id="277" data-star="3" data-attribute="3" data-racialtype="1" data-mode="2" data-charge="4" data-skilltype="4 6 1" data-skilltype2="4 6 1">{{CraftDesc|277}}</div>
-<div data-id="278" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="5 7 30 1" data-skilltype2="5 7 30 1">{{CraftDesc|278}}</div>
-<div data-id="279" data-star="3" data-attribute="4" data-racialtype="4" data-mode="1" data-charge="5" data-skilltype="31 5 7 1" data-skilltype2="31 5 7 1">{{CraftDesc|279}}</div>
-<div data-id="280" data-star="3" data-attribute="4" data-racialtype="2" data-mode="3" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|280}}</div>
-<div data-id="281" data-star="3" data-attribute="4" data-racialtype="6" data-mode="7" data-charge="5" data-skilltype="16 5 25 1" data-skilltype2="16 5 25 1">{{CraftDesc|281}}</div>
-<div data-id="282" data-star="3" data-attribute="4" data-racialtype="1" data-mode="4" data-charge="5" data-skilltype="7 13 12 1" data-skilltype2="7 13 12 1">{{CraftDesc|282}}</div>
-<div data-id="283" data-star="3" data-attribute="5" data-racialtype="5" data-mode="1" data-charge="6" data-skilltype="9 7 1" data-skilltype2="9 7 1">{{CraftDesc|283}}</div>
-<div data-id="284" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="15 26 5 1" data-skilltype2="15 26 5 1">{{CraftDesc|284}}</div>
-<div data-id="285" data-star="3" data-attribute="5" data-racialtype="4" data-mode="2" data-charge="6" data-skilltype="11 8 1" data-skilltype2="11 8 1">{{CraftDesc|285}}</div>
-<div data-id="286" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="32 5 7 1" data-skilltype2="32 5 7 1">{{CraftDesc|286}}</div>
-<div data-id="287" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="7 2 12 1" data-skilltype2="7 2 12 1">{{CraftDesc|287}}</div>
-<div data-id="288" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="7 2 12 1" data-skilltype2="7 2 12 1">{{CraftDesc|288}}</div>
-<div data-id="289" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="7 2 12 1" data-skilltype2="7 2 12 1">{{CraftDesc|289}}</div>
-<div data-id="290" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="7 2 12 1" data-skilltype2="7 2 12 1">{{CraftDesc|290}}</div>
-<div data-id="291" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="7 2 12 1" data-skilltype2="7 2 12 1">{{CraftDesc|291}}</div>
-<div data-id="292" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="2 12 6 1" data-skilltype2="2 12 6 1">{{CraftDesc|292}}</div>
-<div data-id="293" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|293}}</div>
-<div data-id="294" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|294}}</div>
-<div data-id="295" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|295}}</div>
-<div data-id="296" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|296}}</div>
-<div data-id="297" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|297}}</div>
-<div data-id="298" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|298}}</div>
-<div data-id="299" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="7 9 24 5" data-skilltype2="7 9 24 5">{{CraftDesc|299}}</div>
-<div data-id="300" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="7 9 22 5" data-skilltype2="7 9 22 5">{{CraftDesc|300}}</div>
-<div data-id="301" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="9 7 5 23" data-skilltype2="9 7 5 23">{{CraftDesc|301}}</div>
-<div data-id="302" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="26 9 7 5" data-skilltype2="26 9 7 5">{{CraftDesc|302}}</div>
-<div data-id="303" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="25 9 7 5" data-skilltype2="25 9 7 5">{{CraftDesc|303}}</div>
-<div data-id="304" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="3 6 1" data-skilltype2="3 6 1">{{CraftDesc|304}}</div>
-<div data-id="305" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|305}}</div>
-<div data-id="306" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="26 5 7 1" data-skilltype2="26 5 7 1">{{CraftDesc|306}}</div>
-<div data-id="307" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="12 1" data-skilltype2="12 1">{{CraftDesc|307}}</div>
-<div data-id="308" data-star="2" data-attribute="1" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|308}}</div>
-<div data-id="309" data-star="2" data-attribute="2" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|309}}</div>
-<div data-id="310" data-star="2" data-attribute="3" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|310}}</div>
-<div data-id="311" data-star="2" data-attribute="4" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|311}}</div>
-<div data-id="312" data-star="2" data-attribute="5" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|312}}</div>
-<div data-id="313" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="12 1" data-skilltype2="12 1">{{CraftDesc|313}}</div>
-<div data-id="314" data-star="2" data-attribute="1" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|314}}</div>
-<div data-id="315" data-star="2" data-attribute="2" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|315}}</div>
-<div data-id="316" data-star="2" data-attribute="3" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|316}}</div>
-<div data-id="317" data-star="2" data-attribute="4" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|317}}</div>
-<div data-id="318" data-star="2" data-attribute="5" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|318}}</div>
-<div data-id="319" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="15 9 1" data-skilltype2="15 9 1">{{CraftDesc|319}}</div>
-<div data-id="320" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="14 9 1" data-skilltype2="14 9 1">{{CraftDesc|320}}</div>
-<div data-id="321" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|321}}</div>
-<div data-id="322" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="31 11 5 3" data-skilltype2="31 11 5 3">{{CraftDesc|322}}</div>
-<div data-id="323" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|323}}</div>
-<div data-id="324" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="15 9 1" data-skilltype2="15 9 1">{{CraftDesc|324}}</div>
-<div data-id="325" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="14 9 1" data-skilltype2="14 9 1">{{CraftDesc|325}}</div>
-<div data-id="326" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|326}}</div>
-<div data-id="327" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="31 11 5 3" data-skilltype2="31 11 5 3">{{CraftDesc|327}}</div>
-<div data-id="328" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="7 16 1" data-skilltype2="7 16 1">{{CraftDesc|328}}</div>
-<div data-id="329" data-star="1" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|329}}</div>
-<div data-id="330" data-star="1" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|330}}</div>
+<div data-id="1" data-star="1" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C01|虛之狂暴龍紋}}</div>
+<div data-id="2" data-star="1" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C02|虛之狂暴龍印}}</div>
+<div data-id="3" data-star="1" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C03|虛之狂暴龍咒}}</div>
+<div data-id="4" data-star="2" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="2" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C04|漩之屏息龍紋}}</div>
+<div data-id="5" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C05|煉之屏息龍咒}}</div>
+<div data-id="6" data-star="2" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C06|森之屏息龍紋}}</div>
+<div data-id="7" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C07|耀之屏息龍印}}</div>
+<div data-id="8" data-star="2" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C08|影之屏息龍咒}}</div>
+<div data-id="9" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="10" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C09|連之愈時龍紋}}</div>
+<div data-id="10" data-star="3" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="7" data-skilltype="1 14" data-skilltype2="1 14">{{CraftDesc|C10|祈之圖騰龍印}}</div>
+<div data-id="11" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="8" data-skilltype="15 1" data-skilltype2="15 1">{{CraftDesc|C11|攻之原色龍咒}}</div>
+<div data-id="12" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="7" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C12|祈之衝鋒龍紋}}</div>
+<div data-id="13" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="9" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C13|抵之愈時龍印}}</div>
+<div data-id="14" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C14|攻之愈時龍咒}}</div>
+<div data-id="15" data-star="2" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C15|攻之屏息龍印}}</div>
+<div data-id="16" data-star="2" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C16|攻之屏息龍咒}}</div>
+<div data-id="17" data-star="1" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="9" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C17|抵之狂暴龍紋}}</div>
+<div data-id="18" data-star="2" data-attribute="0" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C18|攻之鐵壁龍印}}</div>
+<div data-id="19" data-star="2" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C19|攻之炮擊龍印}}</div>
+<div data-id="20" data-star="2" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="10" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C20|連之鐵壁龍印}}</div>
+<div data-id="21" data-star="2" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="9" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C21|抵之炮擊龍咒}}</div>
+<div data-id="22" data-star="2" data-attribute="0" data-racialtype="5" data-mode="1" data-charge="7" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C22|祈之炮擊龍紋}}</div>
+<div data-id="23" data-star="2" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="10" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C23|連之炮擊龍印}}</div>
+<div data-id="24" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C24|漩之狂暴龍印}}</div>
+<div data-id="25" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="3" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C25|煉之狂暴龍紋}}</div>
+<div data-id="26" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="4" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C26|森之狂暴龍咒}}</div>
+<div data-id="27" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="1 4 2" data-skilltype2="1 4 2">{{CraftDesc|C27|耀之狂暴龍印}}</div>
+<div data-id="28" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="1 4 2" data-skilltype2="1 4 2">{{CraftDesc|C28|影之狂暴龍咒}}</div>
+<div data-id="29" data-star="2" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="7" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C29|祈之鐵壁龍咒}}</div>
+<div data-id="30" data-star="2" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="9" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C30|抵之屏息龍咒}}</div>
+<div data-id="31" data-star="2" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C31|攻之屏息龍紋}}</div>
+<div data-id="32" data-star="2" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="10" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C32|連之屏息龍印}}</div>
+<div data-id="33" data-star="2" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="7" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C33|祈之屏息龍印}}</div>
+<div data-id="34" data-star="2" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C34|連之鐵壁龍紋}}</div>
+<div data-id="35" data-star="1" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="7" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C35|祈之狂暴龍符}}</div>
+<div data-id="36" data-star="2" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C36|連之王暴龍符}}</div>
+<div data-id="37" data-star="2" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="8" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C37|攻之獸暴龍符}}</div>
+<div data-id="38" data-star="2" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C38|連之神暴龍符}}</div>
+<div data-id="39" data-star="2" data-attribute="0" data-racialtype="4" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C39|連之龍暴龍符}}</div>
+<div data-id="40" data-star="2" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C40|抵之妖暴龍符}}</div>
+<div data-id="41" data-star="2" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="8" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C41|攻之魔暴龍符}}</div>
+<div data-id="42" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C42|漩之威嚇龍符}}</div>
+<div data-id="43" data-star="2" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C43|煉之威嚇龍符}}</div>
+<div data-id="44" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="4" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C44|森之威嚇龍印}}</div>
+<div data-id="45" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C45|耀之威嚇龍符}}</div>
+<div data-id="46" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C46|影之威嚇龍印}}</div>
+<div data-id="47" data-star="3" data-attribute="1" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="15 1" data-skilltype2="15 1">{{CraftDesc|C47|攻之原色龍印}}</div>
+<div data-id="48" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="8" data-skilltype="1 14" data-skilltype2="1 14">{{CraftDesc|C48|攻之圖騰龍咒}}</div>
+<div data-id="49" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C49|連之衝鋒龍符}}</div>
+<div data-id="50" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C50|攻之王暴龍紋}}</div>
+<div data-id="51" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C51|連之屏息龍符}}</div>
+<div data-id="52" data-star="3" data-attribute="1" data-racialtype="3" data-mode="3" data-charge="2" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C52|漩之絕境龍咒}}</div>
+<div data-id="53" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C53|煉之絕境龍符}}</div>
+<div data-id="54" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C54|森之絕境龍紋}}</div>
+<div data-id="55" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="8 1 7" data-skilltype2="8 1 7">{{CraftDesc|C55|耀之鐵壁龍符}}</div>
+<div data-id="56" data-star="3" data-attribute="5" data-racialtype="3" data-mode="2" data-charge="6" data-skilltype="8 1 7" data-skilltype2="8 1 7">{{CraftDesc|C56|影之鐵壁龍印}}</div>
+<div data-id="57" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="8" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C57|攻之狂暴龍符}}</div>
+<div data-id="58" data-star="1" data-attribute="0" data-racialtype="0" data-mode="5" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C58|虛之狂暴龍玉}}</div>
+<div data-id="59" data-star="2" data-attribute="1" data-racialtype="0" data-mode="5" data-charge="2" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C59|漩之狂暴龍玉}}</div>
+<div data-id="60" data-star="2" data-attribute="2" data-racialtype="0" data-mode="5" data-charge="3" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C60|煉之狂暴龍玉}}</div>
+<div data-id="61" data-star="2" data-attribute="3" data-racialtype="0" data-mode="5" data-charge="4" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C61|森之狂暴龍玉}}</div>
+<div data-id="62" data-star="2" data-attribute="4" data-racialtype="0" data-mode="5" data-charge="5" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C62|耀之狂暴龍玉}}</div>
+<div data-id="63" data-star="2" data-attribute="5" data-racialtype="0" data-mode="5" data-charge="6" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C63|影之狂暴龍玉}}</div>
+<div data-id="64" data-star="3" data-attribute="0" data-racialtype="3" data-mode="5" data-charge="10" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C64|連之越時龍玉}}</div>
+<div data-id="65" data-star="2" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C65|漩之狂暴龍咒}}</div>
+<div data-id="66" data-star="2" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="3" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C66|煉之狂暴龍印}}</div>
+<div data-id="67" data-star="2" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C67|森之屏息龍符}}</div>
+<div data-id="68" data-star="2" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C68|耀之狂暴龍紋}}</div>
+<div data-id="69" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C69|影之狂暴龍印}}</div>
+<div data-id="70" data-star="3" data-attribute="1" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C70|漩之神療龍紋}}</div>
+<div data-id="71" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="1" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C71|森之魔暴龍咒}}</div>
+<div data-id="72" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C72|虛之獸暴龍符}}</div>
+<div data-id="73" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C73|虛之衝鋒龍符}}</div>
+<div data-id="74" data-star="3" data-attribute="2" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="1 4" data-skilltype2="1 4">{{CraftDesc|C74|煉之魔暴龍印}}</div>
+<div data-id="75" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C75|虛之狂暴龍刃}}</div>
+<div data-id="76" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C76|森之狂暴龍刃}}</div>
+<div data-id="77" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C77|漩之狂暴龍刃}}</div>
+<div data-id="78" data-star="2" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C78|耀之狂暴龍刃}}</div>
+<div data-id="79" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C79|煉之狂暴龍刃}}</div>
+<div data-id="80" data-star="2" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C80|影之狂暴龍刃}}</div>
+<div data-id="81" data-star="3" data-attribute="1" data-racialtype="6" data-mode="6" data-charge="2" data-skilltype="3 1 8" data-skilltype2="3 1 8">{{CraftDesc|C81|漩之魔障龍刃}}</div>
+<div data-id="82" data-star="3" data-attribute="0" data-racialtype="5" data-mode="6" data-charge="7" data-skilltype="27 5 7 2" data-skilltype2="27 5 7 2">{{CraftDesc|C82|祈之妖療龍刃}}</div>
+<div data-id="83" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C83|耀之玲瓏龍刃}}</div>
+<div data-id="84" data-star="3" data-attribute="0" data-racialtype="1" data-mode="6" data-charge="10" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C84|連之越時龍刃}}</div>
+<div data-id="85" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C85|漩之復生龍符}}</div>
+<div data-id="86" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C86|煉之復生龍咒}}</div>
+<div data-id="87" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C87|森之復生龍印}}</div>
+<div data-id="88" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C88|耀之復生龍符}}</div>
+<div data-id="89" data-star="2" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C89|影之復生龍紋}}</div>
+<div data-id="90" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="7" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C90|祈之龍療龍印}}</div>
+<div data-id="91" data-star="3" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="10" data-skilltype="3 1 12 6" data-skilltype2="3 1 12 6">{{CraftDesc|C91|連之王療龍咒}}</div>
+<div data-id="92" data-star="3" data-attribute="2" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C92|煉之越時龍紋}}</div>
+<div data-id="93" data-star="3" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="10 1" data-skilltype2="10 1">{{CraftDesc|C93|連之魔暴龍紋}}</div>
+<div data-id="94" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="1 8 2" data-skilltype2="1 8 2">{{CraftDesc|C94|連之屏息龍咒}}</div>
+<div data-id="95" data-star="3" data-attribute="0" data-racialtype="2" data-mode="1" data-charge="8" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C95|攻之復生龍紋}}</div>
+<div data-id="96" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|C96|漩之幻變龍符}}</div>
+<div data-id="97" data-star="2" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|C97|煉之幻變龍紋}}</div>
+<div data-id="98" data-star="2" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|C98|森之幻變龍咒}}</div>
+<div data-id="99" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|C99|耀之幻變龍印}}</div>
+<div data-id="100" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="9 5 39" data-skilltype2="9 5 39">{{CraftDesc|C100|影之幻變龍印}}</div>
+<div data-id="101" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="15 1 2" data-skilltype2="15 1 2">{{CraftDesc|C101|煉之原色龍符}}</div>
+<div data-id="102" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="10" data-skilltype="3 1 6" data-skilltype2="3 1 6">{{CraftDesc|C102|連之神療龍咒}}</div>
+<div data-id="103" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="8" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C103|攻之嗜血龍咒}}</div>
+<div data-id="104" data-star="3" data-attribute="4" data-racialtype="6" data-mode="1" data-charge="5" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C104|耀之嗜血龍紋}}</div>
+<div data-id="105" data-star="3" data-attribute="5" data-racialtype="6" data-mode="4" data-charge="6" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C105|影之嗜血龍符}}</div>
+<div data-id="106" data-star="3" data-attribute="3" data-racialtype="4" data-mode="2" data-charge="4" data-skilltype="3 1 12" data-skilltype2="3 1 12">{{CraftDesc|C106|森之龍療龍印}}</div>
+<div data-id="107" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="10" data-skilltype="3 16 1" data-skilltype2="3 16 1">{{CraftDesc|C107|連之龍療龍紋}}</div>
+<div data-id="108" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="14 1 8" data-skilltype2="14 1 8">{{CraftDesc|C108|虛之魔暴龍符}}</div>
+<div data-id="109" data-star="3" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="8" data-skilltype="10 1 6" data-skilltype2="10 1 6">{{CraftDesc|C109|攻之神暴龍印}}</div>
+<div data-id="110" data-star="3" data-attribute="0" data-racialtype="5" data-mode="5" data-charge="10" data-skilltype="33 5 1 2" data-skilltype2="33 5 1 2">{{CraftDesc|C110|連之直流龍玉}}</div>
+<div data-id="111" data-star="3" data-attribute="0" data-racialtype="1" data-mode="5" data-charge="10" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C111|連之王暴龍玉}}</div>
+<div data-id="112" data-star="1" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C112|虛之狂暴龍璃}}</div>
+<div data-id="113" data-star="2" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="2" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C113|漩之威嚇龍璃}}</div>
+<div data-id="114" data-star="2" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C114|煉之威嚇龍璃}}</div>
+<div data-id="115" data-star="2" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C115|森之威嚇龍璃}}</div>
+<div data-id="116" data-star="2" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="5" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C116|耀之威嚇龍璃}}</div>
+<div data-id="117" data-star="2" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="6" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C117|影之威嚇龍璃}}</div>
+<div data-id="118" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C118|連之玲瓏龍璃}}</div>
+<div data-id="119" data-star="3" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="3 27 5 1" data-skilltype2="3 27 5 1">{{CraftDesc|C119|連之屏息龍璃}}</div>
+<div data-id="120" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="1" data-skilltype="1 8 2" data-skilltype2="1 8 2">{{CraftDesc|C120|虛之魔暴龍璃}}</div>
+<div data-id="121" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="6" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C121|影之狂暴龍紋}}</div>
+<div data-id="122" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="1 14 6" data-skilltype2="1 14 6">{{CraftDesc|C122|漩之圖騰龍咒}}</div>
+<div data-id="123" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="8" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C123|攻之魔暴龍璃}}</div>
+<div data-id="124" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="3 1 6" data-skilltype2="3 1 6">{{CraftDesc|C124|森之狂暴龍璃}}</div>
+<div data-id="125" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="3 1 6" data-skilltype2="3 1 6">{{CraftDesc|C125|煉之狂暴龍符}}</div>
+<div data-id="126" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="3 25 5 11" data-skilltype2="3 25 5 11">{{CraftDesc|C126|耀之威嚇龍紋}}</div>
+<div data-id="127" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="21 1 14" data-skilltype2="21 1 14">{{CraftDesc|C127|耀之圖騰龍璃}}</div>
+<div data-id="128" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="5 1 7" data-skilltype2="5 1 7">{{CraftDesc|C128|煉之加冕龍咒}}</div>
+<div data-id="129" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="5 1 7" data-skilltype2="5 1 7">{{CraftDesc|C129|森之加冕龍紋}}</div>
+<div data-id="130" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="3 1 6" data-skilltype2="3 1 6">{{CraftDesc|C130|虛之屏息龍印}}</div>
+<div data-id="131" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C131|漩之破甲龍符}}</div>
+<div data-id="132" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="3 19 1" data-skilltype2="3 19 1">{{CraftDesc|C132|煉之狂暴龍璃}}</div>
+<div data-id="133" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="7" data-skilltype="13 5 12 2 39" data-skilltype2="13 5 12 2 39">{{CraftDesc|C133|虛之妖療龍咒}}</div>
+<div data-id="134" data-star="3" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="10" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C134|連之神盾龍紋}}</div>
+<div data-id="135" data-star="3" data-attribute="0" data-racialtype="4" data-mode="7" data-charge="1" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C135|虛之越時龍璃}}</div>
+<div data-id="136" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="10 1 14 6" data-skilltype2="10 1 14 6">{{CraftDesc|C136|虛之圖騰龍符}}</div>
+<div data-id="137" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="27 16 5 1" data-skilltype2="27 16 5 1">{{CraftDesc|C137|攻之狂暴龍咒}}</div>
+<div data-id="138" data-star="3" data-attribute="5" data-racialtype="1" data-mode="1" data-charge="6" data-skilltype="13 12 1 8" data-skilltype2="13 12 1 8">{{CraftDesc|C138|影之王暴龍紋}}</div>
+<div data-id="139" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="5 1 2 15 30" data-skilltype2="5 1 2 15 30">{{CraftDesc|C139|森之玲瓏龍符}}</div>
+<div data-id="140" data-star="3" data-attribute="5" data-racialtype="6" data-mode="1" data-charge="6" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C140|影之衝鋒龍紋}}</div>
+<div data-id="141" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="10" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C141|森之魔暴龍璃}}</div>
+<div data-id="142" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C142|耀之王暴龍璃}}</div>
+<div data-id="143" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="1 11 6" data-skilltype2="1 11 6">{{CraftDesc|C143|虛之妖暴龍符}}</div>
+<div data-id="144" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="3 33 5 8" data-skilltype2="3 33 5 8">{{CraftDesc|C144|攻之屏息龍符}}</div>
+<div data-id="145" data-star="3" data-attribute="2" data-racialtype="6" data-mode="1" data-charge="3" data-skilltype="1 14 20" data-skilltype2="1 14 20">{{CraftDesc|C145|煉之魔暴龍紋}}</div>
+<div data-id="146" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="15 32 5 1" data-skilltype2="15 32 5 1">{{CraftDesc|C146|影之直流龍咒}}</div>
+<div data-id="147" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="11 1 4 6" data-skilltype2="11 1 4 6">{{CraftDesc|C147|攻之狂暴龍印}}</div>
+<div data-id="148" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="1" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C148|虛之復生龍符}}</div>
+<div data-id="149" data-star="3" data-attribute="0" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="3 1 7 2" data-skilltype2="3 1 7 2">{{CraftDesc|C149|連之越時龍璃}}</div>
+<div data-id="150" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="5 1 28 6" data-skilltype2="5 1 28 6">{{CraftDesc|C150|漩之邃矚龍咒}}</div>
+<div data-id="151" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="5 29 1 6" data-skilltype2="5 29 1 6">{{CraftDesc|C151|煉之邃矚龍璃}}</div>
+<div data-id="152" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C152|森之邃矚龍紋}}</div>
+<div data-id="153" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="9 31 5 1" data-skilltype2="9 31 5 1">{{CraftDesc|C153|耀之靈巧龍印}}</div>
+<div data-id="154" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="6" data-skilltype="9 1 7" data-skilltype2="9 1 7">{{CraftDesc|C154|影之靈巧龍符}}</div>
+<div data-id="155" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="1 11 2" data-skilltype2="1 11 2">{{CraftDesc|C155|攻之屏息龍紋}}</div>
+<div data-id="156" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="8 1 7" data-skilltype2="8 1 7">{{CraftDesc|C156|連之神暴龍璃}}</div>
+<div data-id="157" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="10 5 1 23" data-skilltype2="10 5 1 23">{{CraftDesc|C157|攻之魔暴龍咒}}</div>
+<div data-id="158" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="7 2" data-skilltype2="7 2">{{CraftDesc|C158|虛之妖療龍符}}</div>
+<div data-id="159" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="10" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C159|連之獸暴龍咒}}</div>
+<div data-id="160" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="1" data-skilltype="15 24 5 1" data-skilltype2="15 24 5 1">{{CraftDesc|C160|虛之龍暴龍印}}</div>
+<div data-id="161" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="3" data-skilltype="3 5 29 1" data-skilltype2="3 5 29 1">{{CraftDesc|C161|煉之王暴龍咒}}</div>
+<div data-id="162" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C162|虛之屏息龍咒}}</div>
+<div data-id="163" data-star="3" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="10" data-skilltype="15 5 26 7" data-skilltype2="15 5 26 7">{{CraftDesc|C163|連之越時龍咒}}</div>
+<div data-id="164" data-star="3" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="8" data-skilltype="10 1" data-skilltype2="10 1">{{CraftDesc|C164|攻之魔暴龍印}}</div>
+<div data-id="165" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C165|森之神暴龍璃}}</div>
+<div data-id="166" data-star="3" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="8" data-skilltype="25 5 1 7" data-skilltype2="25 5 1 7">{{CraftDesc|C166|攻之越時龍符}}</div>
+<div data-id="167" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="9" data-skilltype="31 5 1 7" data-skilltype2="31 5 1 7">{{CraftDesc|C167|耀之龍暴龍印}}</div>
+<div data-id="168" data-star="3" data-attribute="0" data-racialtype="2" data-mode="7" data-charge="10" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C168|連之邃矚龍璃}}</div>
+<div data-id="169" data-star="3" data-attribute="5" data-racialtype="5" data-mode="4" data-charge="7" data-skilltype="27 5 1 8" data-skilltype2="27 5 1 8">{{CraftDesc|C169|影之鐵壁龍符}}</div>
+<div data-id="170" data-star="3" data-attribute="1" data-racialtype="2" data-mode="1" data-charge="1" data-skilltype="9 1 14" data-skilltype2="9 1 14">{{CraftDesc|C170|漩之獸暴龍紋}}</div>
+<div data-id="171" data-star="1" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C171|虛之狂暴龍結}}</div>
+<div data-id="172" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C172|攻之鐵壁龍結}}</div>
+<div data-id="173" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="1" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C173|虛之屏息龍結}}</div>
+<div data-id="174" data-star="3" data-attribute="0" data-racialtype="3" data-mode="8" data-charge="8" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C174|攻之神暴龍結}}</div>
+<div data-id="175" data-star="3" data-attribute="1" data-racialtype="0" data-mode="8" data-charge="2" data-skilltype="22 5 1 14" data-skilltype2="22 5 1 14">{{CraftDesc|C175|漩之狂暴龍結}}</div>
+<div data-id="176" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="1 12" data-skilltype2="1 12">{{CraftDesc|C176|連之炮擊龍結}}</div>
+<div data-id="177" data-star="3" data-attribute="4" data-racialtype="0" data-mode="8" data-charge="5" data-skilltype="15 25 5 1" data-skilltype2="15 25 5 1">{{CraftDesc|C177|耀之狂暴龍結}}</div>
+<div data-id="178" data-star="3" data-attribute="0" data-racialtype="6" data-mode="8" data-charge="10" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C178|連之魔暴龍結}}</div>
+<div data-id="179" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C179|攻之玲瓏龍刃}}</div>
+<div data-id="180" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C180|連之王暴龍刃}}</div>
+<div data-id="181" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C181|漩之越時龍刃}}</div>
+<div data-id="182" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="3" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C182|煉之越時龍刃}}</div>
+<div data-id="183" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="4" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C183|森之越時龍刃}}</div>
+<div data-id="184" data-star="3" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="6" data-skilltype="15 5 26 1" data-skilltype2="15 5 26 1">{{CraftDesc|C184|影之王暴龍刃}}</div>
+<div data-id="185" data-star="3" data-attribute="0" data-racialtype="6" data-mode="6" data-charge="8" data-skilltype="10 1 6" data-skilltype2="10 1 6">{{CraftDesc|C185|攻之魔暴龍刃}}</div>
+<div data-id="186" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="31 5 11 7" data-skilltype2="31 5 11 7">{{CraftDesc|C186|耀之直流龍刃}}</div>
+<div data-id="187" data-star="3" data-attribute="0" data-racialtype="4" data-mode="6" data-charge="10" data-skilltype="24 5 1 7" data-skilltype2="24 5 1 7">{{CraftDesc|C187|連之幻變龍刃}}</div>
+<div data-id="188" data-star="3" data-attribute="0" data-racialtype="3" data-mode="6" data-charge="10" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C188|連之神暴龍刃}}</div>
+<div data-id="189" data-star="3" data-attribute="0" data-racialtype="2" data-mode="6" data-charge="1" data-skilltype="5 29 8 7" data-skilltype2="5 29 8 7">{{CraftDesc|C189|虛之鐵壁龍刃}}</div>
+<div data-id="190" data-star="3" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="22 16 5 1" data-skilltype2="22 16 5 1">{{CraftDesc|C190|漩之王暴龍刃}}</div>
+<div data-id="191" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="22 5 1 7" data-skilltype2="22 5 1 7">{{CraftDesc|C191|漩之幻變龍印}}</div>
+<div data-id="192" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="15 5 28 6" data-skilltype2="15 5 28 6">{{CraftDesc|C192|漩之直流龍符}}</div>
+<div data-id="193" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="7 5 1 23" data-skilltype2="7 5 1 23">{{CraftDesc|C193|煉之狂暴龍咒}}</div>
+<div data-id="194" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="10 5 29 7" data-skilltype2="10 5 29 7">{{CraftDesc|C194|煉之直流龍咒}}</div>
+<div data-id="195" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="24 5 1 7" data-skilltype2="24 5 1 7">{{CraftDesc|C195|森之幻變龍璃}}</div>
+<div data-id="196" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="9" data-skilltype="16 5 30" data-skilltype2="16 5 30">{{CraftDesc|C196|森之直流龍符}}</div>
+<div data-id="197" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="25 5 1 7" data-skilltype2="25 5 1 7">{{CraftDesc|C197|耀之幻變龍紋}}</div>
+<div data-id="198" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="3 31 5 11" data-skilltype2="3 31 5 11">{{CraftDesc|C198|耀之直流龍璃}}</div>
+<div data-id="199" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="7" data-skilltype="5 26 1 7" data-skilltype2="5 26 1 7">{{CraftDesc|C199|影之越時龍印}}</div>
+<div data-id="200" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="13 5 32 12 11" data-skilltype2="13 5 32 12 11">{{CraftDesc|C200|影之直流龍符}}</div>
+<div data-id="201" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C201|煉之原色龍紋}}</div>
+<div data-id="202" data-star="3" data-attribute="5" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C202|攻之獸暴龍印}}</div>
+<div data-id="203" data-star="3" data-attribute="1" data-racialtype="5" data-mode="3" data-charge="2" data-skilltype="22 10 5 1" data-skilltype2="22 10 5 1">{{CraftDesc|C203|漩之妖暴龍咒}}</div>
+<div data-id="204" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="15 5 26 1" data-skilltype2="15 5 26 1">{{CraftDesc|C204|影之龍暴龍紋}}</div>
+<div data-id="205" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C205|耀之圖騰龍符}}</div>
+<div data-id="206" data-star="3" data-attribute="3" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="30 5 1 6" data-skilltype2="30 5 1 6">{{CraftDesc|C206|森之直流龍印}}</div>
+<div data-id="207" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="10" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C207|連之妖暴龍咒}}</div>
+<div data-id="208" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="8" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C208|攻之妖暴龍符}}</div>
+<div data-id="209" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C209|抵之越時龍符}}</div>
+<div data-id="210" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="1" data-skilltype="27 11 5 7" data-skilltype2="27 11 5 7">{{CraftDesc|C210|虛之越時龍印}}</div>
+<div data-id="211" data-star="3" data-attribute="0" data-racialtype="5" data-mode="7" data-charge="1" data-skilltype="33 5 1 6" data-skilltype2="33 5 1 6">{{CraftDesc|C211|虛之妖暴龍璃}}</div>
+<div data-id="212" data-star="3" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="13 10 1 12" data-skilltype2="13 10 1 12">{{CraftDesc|C212|漩之重炮龍紋}}</div>
+<div data-id="213" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="22 5 1 2" data-skilltype2="22 5 1 2">{{CraftDesc|C213|漩之屏息龍印}}</div>
+<div data-id="214" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="22 5 7 8" data-skilltype2="22 5 7 8">{{CraftDesc|C214|漩之幻變龍咒}}</div>
+<div data-id="215" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="11 1 12" data-skilltype2="11 1 12">{{CraftDesc|C215|漩之狂暴龍符}}</div>
+<div data-id="216" data-star="3" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C216|漩之嗜血龍璃}}</div>
+<div data-id="217" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C217|煉之嗜血龍紋}}</div>
+<div data-id="218" data-star="3" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="13 10 1 12" data-skilltype2="13 10 1 12">{{CraftDesc|C218|煉之重炮龍印}}</div>
+<div data-id="219" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="5 1 23 2" data-skilltype2="5 1 23 2">{{CraftDesc|C219|煉之幻變龍咒}}</div>
+<div data-id="220" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="23 5 7 8" data-skilltype2="23 5 7 8">{{CraftDesc|C220|煉之幻變龍符}}</div>
+<div data-id="221" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="11 1 12" data-skilltype2="11 1 12">{{CraftDesc|C221|煉之炮擊龍璃}}</div>
+<div data-id="222" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="11 1 12" data-skilltype2="11 1 12">{{CraftDesc|C222|森之狂暴龍紋}}</div>
+<div data-id="223" data-star="3" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C223|森之嗜血龍印}}</div>
+<div data-id="224" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="13 10 1 12" data-skilltype2="13 10 1 12">{{CraftDesc|C224|森之重炮龍咒}}</div>
+<div data-id="225" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="24 5 1 2" data-skilltype2="24 5 1 2">{{CraftDesc|C225|森之屏息龍符}}</div>
+<div data-id="226" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="24 5 7 8" data-skilltype2="24 5 7 8">{{CraftDesc|C226|森之鐵壁龍璃}}</div>
+<div data-id="227" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="25 5 7 8" data-skilltype2="25 5 7 8">{{CraftDesc|C227|耀之鐵壁龍紋}}</div>
+<div data-id="228" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="11 1 12" data-skilltype2="11 1 12">{{CraftDesc|C228|耀之炮擊龍印}}</div>
+<div data-id="229" data-star="3" data-attribute="4" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C229|耀之嗜血龍咒}}</div>
+<div data-id="230" data-star="3" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="13 10 1 12" data-skilltype2="13 10 1 12">{{CraftDesc|C230|耀之重炮龍符}}</div>
+<div data-id="231" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="25 5 1 2" data-skilltype2="25 5 1 2">{{CraftDesc|C231|耀之屏息龍璃}}</div>
+<div data-id="232" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="5 26 1 2" data-skilltype2="5 26 1 2">{{CraftDesc|C232|影之屏息龍紋}}</div>
+<div data-id="233" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="3 5 26 8" data-skilltype2="3 5 26 8">{{CraftDesc|C233|影之屏息龍印}}</div>
+<div data-id="234" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="11 1 12" data-skilltype2="11 1 12">{{CraftDesc|C234|影之炮擊龍咒}}</div>
+<div data-id="235" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C235|影之破甲龍符}}</div>
+<div data-id="236" data-star="3" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="8" data-skilltype="13 10 1 12" data-skilltype2="13 10 1 12">{{CraftDesc|C236|影之重炮龍璃}}</div>
+<div data-id="237" data-star="1" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C237|攻之機暴龍結}}</div>
+<div data-id="238" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C238|連之威嚇龍結}}</div>
+<div data-id="239" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C239|連之狂暴龍結}}</div>
+<div data-id="240" data-star="3" data-attribute="0" data-racialtype="7" data-mode="1" data-charge="1" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C240|虛之機暴龍紋}}</div>
+<div data-id="241" data-star="3" data-attribute="0" data-racialtype="7" data-mode="3" data-charge="8" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C241|攻之機暴龍咒}}</div>
+<div data-id="242" data-star="3" data-attribute="0" data-racialtype="7" data-mode="4" data-charge="10" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C242|連之機暴龍符}}</div>
+<div data-id="243" data-star="3" data-attribute="0" data-racialtype="7" data-mode="7" data-charge="1" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C243|虛之機暴龍璃}}</div>
+<div data-id="244" data-star="3" data-attribute="0" data-racialtype="7" data-mode="2" data-charge="8" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C244|攻之機暴龍印}}</div>
+<div data-id="245" data-star="3" data-attribute="0" data-racialtype="7" data-mode="8" data-charge="10" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C245|連之機暴龍結}}</div>
+<div data-id="246" data-star="1" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C246|虛之狂暴龍丸}}</div>
+<div data-id="247" data-star="2" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C247|漩之屏息龍丸}}</div>
+<div data-id="248" data-star="2" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C248|煉之屏息龍丸}}</div>
+<div data-id="249" data-star="2" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C249|森之屏息龍丸}}</div>
+<div data-id="250" data-star="2" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C250|耀之屏息龍丸}}</div>
+<div data-id="251" data-star="2" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C251|影之屏息龍丸}}</div>
+<div data-id="252" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="1 11 2" data-skilltype2="1 11 2">{{CraftDesc|C252|連之屏息龍丸}}</div>
+<div data-id="253" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="1 12 2" data-skilltype2="1 12 2">{{CraftDesc|C253|連之狂暴龍丸}}</div>
+<div data-id="254" data-star="3" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C254|漩之狂暴龍丸}}</div>
+<div data-id="255" data-star="3" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C255|煉之狂暴龍丸}}</div>
+<div data-id="256" data-star="3" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C256|森之狂暴龍丸}}</div>
+<div data-id="257" data-star="3" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C257|耀之狂暴龍丸}}</div>
+<div data-id="258" data-star="3" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C258|影之狂暴龍丸}}</div>
+<div data-id="259" data-star="3" data-attribute="0" data-racialtype="3" data-mode="9" data-charge="8" data-skilltype="12 1 7" data-skilltype2="12 1 7">{{CraftDesc|C259|連之越時龍丸}}</div>
+<div data-id="260" data-star="3" data-attribute="0" data-racialtype="6" data-mode="9" data-charge="1" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C260|虛之越時龍丸}}</div>
+<div data-id="261" data-star="3" data-attribute="0" data-racialtype="1" data-mode="9" data-charge="8" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C261|連之王暴龍丸}}</div>
+<div data-id="262" data-star="3" data-attribute="0" data-racialtype="2" data-mode="9" data-charge="1" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C262|虛之獸暴龍丸}}</div>
+<div data-id="263" data-star="3" data-attribute="0" data-racialtype="4" data-mode="9" data-charge="8" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C263|連之龍暴龍丸}}</div>
+<div data-id="264" data-star="3" data-attribute="0" data-racialtype="5" data-mode="9" data-charge="1" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C264|虛之妖暴龍丸}}</div>
+<div data-id="265" data-star="3" data-attribute="0" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C265|連之機暴龍丸}}</div>
+<div data-id="266" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="7 5 1 23" data-skilltype2="7 5 1 23">{{CraftDesc|C266|煉之機暴龍丸}}</div>
+<div data-id="267" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="5 1 30" data-skilltype2="5 1 30">{{CraftDesc|C267|森之機暴龍丸}}</div>
+<div data-id="268" data-star="3" data-attribute="1" data-racialtype="6" data-mode="1" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C268|漩之魔暴龍紋}}</div>
+<div data-id="269" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="22 3 5 1" data-skilltype2="22 3 5 1">{{CraftDesc|C269|漩之王暴龍咒}}</div>
+<div data-id="270" data-star="3" data-attribute="1" data-racialtype="3" data-mode="2" data-charge="2" data-skilltype="13 15 1 12" data-skilltype2="13 15 1 12">{{CraftDesc|C270|漩之神暴龍印}}</div>
+<div data-id="271" data-star="3" data-attribute="1" data-racialtype="5" data-mode="4" data-charge="2" data-skilltype="9 1 7" data-skilltype2="9 1 7">{{CraftDesc|C271|漩之妖暴龍符}}</div>
+<div data-id="272" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="1 11 6" data-skilltype2="1 11 6">{{CraftDesc|C272|煉之妖暴龍紋}}</div>
+<div data-id="273" data-star="3" data-attribute="2" data-racialtype="4" data-mode="3" data-charge="3" data-skilltype="3 1 7" data-skilltype2="3 1 7">{{CraftDesc|C273|煉之龍暴龍咒}}</div>
+<div data-id="274" data-star="3" data-attribute="2" data-racialtype="2" data-mode="7" data-charge="3" data-skilltype="7 5 1 23" data-skilltype2="7 5 1 23">{{CraftDesc|C274|煉之獸暴龍璃}}</div>
+<div data-id="275" data-star="3" data-attribute="3" data-racialtype="2" data-mode="1" data-charge="4" data-skilltype="13 15 1 12" data-skilltype2="13 15 1 12">{{CraftDesc|C275|森之獸暴龍紋}}</div>
+<div data-id="276" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C276|森之神暴龍紋}}</div>
+<div data-id="277" data-star="3" data-attribute="3" data-racialtype="1" data-mode="2" data-charge="4" data-skilltype="1 4 6" data-skilltype2="1 4 6">{{CraftDesc|C277|森之王暴龍印}}</div>
+<div data-id="278" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="5 1 7 30" data-skilltype2="5 1 7 30">{{CraftDesc|C278|森之妖暴龍符}}</div>
+<div data-id="279" data-star="3" data-attribute="4" data-racialtype="4" data-mode="1" data-charge="5" data-skilltype="31 5 1 7" data-skilltype2="31 5 1 7">{{CraftDesc|C279|耀之龍暴龍紋}}</div>
+<div data-id="280" data-star="3" data-attribute="4" data-racialtype="2" data-mode="3" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C280|耀之獸暴龍咒}}</div>
+<div data-id="281" data-star="3" data-attribute="4" data-racialtype="6" data-mode="7" data-charge="5" data-skilltype="16 25 5 1" data-skilltype2="16 25 5 1">{{CraftDesc|C281|耀之魔暴龍璃}}</div>
+<div data-id="282" data-star="3" data-attribute="4" data-racialtype="1" data-mode="4" data-charge="5" data-skilltype="13 7 1 12" data-skilltype2="13 7 1 12">{{CraftDesc|C282|耀之王暴龍符}}</div>
+<div data-id="283" data-star="3" data-attribute="5" data-racialtype="5" data-mode="1" data-charge="6" data-skilltype="9 1 7" data-skilltype2="9 1 7">{{CraftDesc|C283|影之妖暴龍紋}}</div>
+<div data-id="284" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="15 5 26 1" data-skilltype2="15 5 26 1">{{CraftDesc|C284|影之神暴龍咒}}</div>
+<div data-id="285" data-star="3" data-attribute="5" data-racialtype="4" data-mode="2" data-charge="6" data-skilltype="11 1 8" data-skilltype2="11 1 8">{{CraftDesc|C285|影之龍暴龍印}}</div>
+<div data-id="286" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="32 5 1 7" data-skilltype2="32 5 1 7">{{CraftDesc|C286|影之獸暴龍璃}}</div>
+<div data-id="287" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="7 1 12 2" data-skilltype2="7 1 12 2">{{CraftDesc|C287|虛之炮擊龍紋}}</div>
+<div data-id="288" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="7 1 12 2" data-skilltype2="7 1 12 2">{{CraftDesc|C288|虛之炮擊龍咒}}</div>
+<div data-id="289" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="7 1 12 2" data-skilltype2="7 1 12 2">{{CraftDesc|C289|虛之炮擊龍印}}</div>
+<div data-id="290" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="7 1 12 2" data-skilltype2="7 1 12 2">{{CraftDesc|C290|虛之炮擊龍符}}</div>
+<div data-id="291" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="7 1 12 2" data-skilltype2="7 1 12 2">{{CraftDesc|C291|虛之炮擊龍刃}}</div>
+<div data-id="292" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="6 1 12 2" data-skilltype2="6 1 12 2">{{CraftDesc|C292|虛之炮擊龍丸}}</div>
+<div data-id="293" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C293|攻之妖暴龍紋}}</div>
+<div data-id="294" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C294|攻之獸暴龍咒}}</div>
+<div data-id="295" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C295|攻之越時龍印}}</div>
+<div data-id="296" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C296|攻之神暴龍符}}</div>
+<div data-id="297" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C297|攻之王暴龍刃}}</div>
+<div data-id="298" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="8" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C298|攻之龍暴龍丸}}</div>
+<div data-id="299" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="9 24 5 7" data-skilltype2="9 24 5 7">{{CraftDesc|C299|連之幻變龍紋}}</div>
+<div data-id="300" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="9 5 7 22" data-skilltype2="9 5 7 22">{{CraftDesc|C300|連之幻變龍咒}}</div>
+<div data-id="301" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="9 5 7 23" data-skilltype2="9 5 7 23">{{CraftDesc|C301|連之幻變龍印}}</div>
+<div data-id="302" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="9 5 26 7" data-skilltype2="9 5 26 7">{{CraftDesc|C302|連之幻變龍符}}</div>
+<div data-id="303" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="9 25 5 7" data-skilltype2="9 25 5 7">{{CraftDesc|C303|連之靈巧龍刃}}</div>
+<div data-id="304" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="3 1 6" data-skilltype2="3 1 6">{{CraftDesc|C304|連之邃矚龍丸}}</div>
+<div data-id="305" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C305|耀之越時龍璃}}</div>
+<div data-id="306" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="5 26 1 7" data-skilltype2="5 26 1 7">{{CraftDesc|C306|影之越時龍丸}}</div>
+<div data-id="307" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 12" data-skilltype2="1 12">{{CraftDesc|C307|攻之炮擊龍弦}}</div>
+<div data-id="308" data-star="2" data-attribute="1" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C308|漩之屏息龍弦}}</div>
+<div data-id="309" data-star="2" data-attribute="2" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C309|煉之屏息龍弦}}</div>
+<div data-id="310" data-star="2" data-attribute="3" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C310|森之屏息龍弦}}</div>
+<div data-id="311" data-star="2" data-attribute="4" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C311|耀之屏息龍弦}}</div>
+<div data-id="312" data-star="2" data-attribute="5" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C312|影之屏息龍弦}}</div>
+<div data-id="313" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 12" data-skilltype2="1 12">{{CraftDesc|C313|攻之狂暴龍弦}}</div>
+<div data-id="314" data-star="2" data-attribute="1" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C314|漩之狂暴龍弦}}</div>
+<div data-id="315" data-star="2" data-attribute="2" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C315|煉之狂暴龍弦}}</div>
+<div data-id="316" data-star="2" data-attribute="3" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C316|森之狂暴龍弦}}</div>
+<div data-id="317" data-star="2" data-attribute="4" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C317|耀之狂暴龍弦}}</div>
+<div data-id="318" data-star="2" data-attribute="5" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C318|影之狂暴龍弦}}</div>
+<div data-id="319" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 15 1" data-skilltype2="9 15 1">{{CraftDesc|C319|漩之機暴龍弦}}</div>
+<div data-id="320" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 1 14" data-skilltype2="9 1 14">{{CraftDesc|C320|煉之機暴龍弦}}</div>
+<div data-id="321" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C321|森之機暴龍弦}}</div>
+<div data-id="322" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="3 31 5 11" data-skilltype2="3 31 5 11">{{CraftDesc|C322|耀之直流龍弦}}</div>
+<div data-id="323" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C323|影之機暴龍弦}}</div>
+<div data-id="324" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 15 1" data-skilltype2="9 15 1">{{CraftDesc|C324|漩之靈巧龍弦}}</div>
+<div data-id="325" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 1 14" data-skilltype2="9 1 14">{{CraftDesc|C325|煉之靈巧龍弦}}</div>
+<div data-id="326" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C326|森之越時龍弦}}</div>
+<div data-id="327" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="3 31 5 11" data-skilltype2="3 31 5 11">{{CraftDesc|C327|耀之威嚇龍弦}}</div>
+<div data-id="328" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C328|影之越時龍弦}}</div>
+<div data-id="329" data-star="1" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C329|攻之玲瓏龍弦 I}}</div>
+<div data-id="330" data-star="1" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C330|攻之玲瓏龍弦 II}}</div>
+<div data-id="331" data-star="3" data-attribute="1" data-racialtype="3" data-mode="9" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C331|漩之越時龍丸}}</div>
+<div data-id="332" data-star="3" data-attribute="1" data-racialtype="3" data-mode="7" data-charge="2" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C332|漩之越時龍璃}}</div>
+<div data-id="333" data-star="3" data-attribute="1" data-racialtype="3" data-mode="4" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C333|漩之靈巧龍符}}</div>
+<div data-id="334" data-star="3" data-attribute="1" data-racialtype="6" data-mode="7" data-charge="2" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C334|漩之衝鋒龍璃}}</div>
+<div data-id="335" data-star="3" data-attribute="1" data-racialtype="6" data-mode="2" data-charge="2" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C335|漩之魔暴龍印}}</div>
+<div data-id="336" data-star="3" data-attribute="1" data-racialtype="6" data-mode="9" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C336|漩之直流龍丸}}</div>
+<div data-id="337" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C337|漩之越時龍咒}}</div>
+<div data-id="338" data-star="3" data-attribute="1" data-racialtype="1" data-mode="7" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C338|漩之王暴龍璃}}</div>
+<div data-id="339" data-star="3" data-attribute="1" data-racialtype="1" data-mode="4" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C339|漩之靈巧龍符 II}}</div>
+<div data-id="340" data-star="3" data-attribute="1" data-racialtype="2" data-mode="2" data-charge="2" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C340|漩之越時龍印}}</div>
+<div data-id="341" data-star="3" data-attribute="1" data-racialtype="2" data-mode="9" data-charge="2" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C341|漩之獸暴龍丸}}</div>
+<div data-id="342" data-star="3" data-attribute="1" data-racialtype="2" data-mode="7" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C342|漩之直流龍璃}}</div>
+<div data-id="343" data-star="3" data-attribute="1" data-racialtype="4" data-mode="3" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C343|漩之破甲龍咒}}</div>
+<div data-id="344" data-star="3" data-attribute="1" data-racialtype="4" data-mode="9" data-charge="2" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C344|漩之龍暴龍丸}}</div>
+<div data-id="345" data-star="3" data-attribute="1" data-racialtype="4" data-mode="4" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C345|漩之靈巧龍符 III}}</div>
+<div data-id="346" data-star="3" data-attribute="1" data-racialtype="5" data-mode="1" data-charge="2" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C346|漩之狂暴龍紋}}</div>
+<div data-id="347" data-star="3" data-attribute="1" data-racialtype="5" data-mode="2" data-charge="2" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C347|漩之妖暴龍印}}</div>
+<div data-id="348" data-star="3" data-attribute="1" data-racialtype="5" data-mode="7" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C348|漩之靈巧龍璃}}</div>
+<div data-id="349" data-star="3" data-attribute="1" data-racialtype="7" data-mode="9" data-charge="2" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C349|漩之衝鋒龍丸}}</div>
+<div data-id="350" data-star="3" data-attribute="1" data-racialtype="7" data-mode="1" data-charge="2" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C350|漩之機暴龍紋}}</div>
+<div data-id="351" data-star="3" data-attribute="1" data-racialtype="7" data-mode="4" data-charge="2" data-skilltype="9 5 3 28" data-skilltype2="9 5 3 28">{{CraftDesc|C351|漩之靈巧龍符 IV}}</div>
+<div data-id="352" data-star="3" data-attribute="2" data-racialtype="3" data-mode="3" data-charge="3" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C352|煉之越時龍咒}}</div>
+<div data-id="353" data-star="3" data-attribute="2" data-racialtype="3" data-mode="9" data-charge="3" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C353|煉之越時龍丸}}</div>
+<div data-id="354" data-star="3" data-attribute="2" data-racialtype="3" data-mode="2" data-charge="3" data-skilltype="9 5 29 3" data-skilltype2="9 5 29 3">{{CraftDesc|C354|煉之直流龍印}}</div>
+<div data-id="355" data-star="3" data-attribute="2" data-racialtype="6" data-mode="3" data-charge="3" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C355|煉之威嚇龍咒}}</div>
+<div data-id="356" data-star="3" data-attribute="2" data-racialtype="6" data-mode="9" data-charge="3" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C356|煉之魔暴龍丸}}</div>
+<div data-id="357" data-star="3" data-attribute="2" data-racialtype="6" data-mode="4" data-charge="3" data-skilltype="9 5 29" data-skilltype2="9 5 29">{{CraftDesc|C357|煉之直流龍符}}</div>
+<div data-id="358" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C358|煉之衝鋒龍紋}}</div>
+<div data-id="359" data-star="3" data-attribute="2" data-racialtype="1" data-mode="7" data-charge="3" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C359|煉之越時龍璃}}</div>
+<div data-id="360" data-star="3" data-attribute="2" data-racialtype="1" data-mode="9" data-charge="3" data-skilltype="9 5 29 3" data-skilltype2="9 5 29 3">{{CraftDesc|C360|煉之直流龍丸}}</div>
+<div data-id="361" data-star="3" data-attribute="2" data-racialtype="2" data-mode="3" data-charge="3" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C361|煉之重炮龍咒}}</div>
+<div data-id="362" data-star="3" data-attribute="2" data-racialtype="2" data-mode="2" data-charge="3" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C362|煉之越時龍印}}</div>
+<div data-id="363" data-star="3" data-attribute="2" data-racialtype="2" data-mode="9" data-charge="3" data-skilltype="9 5 29 3" data-skilltype2="9 5 29 3">{{CraftDesc|C363|煉之靈巧龍丸}}</div>
+<div data-id="364" data-star="3" data-attribute="2" data-racialtype="4" data-mode="7" data-charge="3" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C364|煉之破甲龍璃}}</div>
+<div data-id="365" data-star="3" data-attribute="2" data-racialtype="4" data-mode="9" data-charge="3" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C365|煉之龍暴龍丸}}</div>
+<div data-id="366" data-star="3" data-attribute="2" data-racialtype="4" data-mode="4" data-charge="3" data-skilltype="9 5 29 3" data-skilltype2="9 5 29 3">{{CraftDesc|C366|煉之靈巧龍符}}</div>
+<div data-id="367" data-star="3" data-attribute="2" data-racialtype="5" data-mode="3" data-charge="3" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C367|煉之破甲龍咒}}</div>
+<div data-id="368" data-star="3" data-attribute="2" data-racialtype="5" data-mode="9" data-charge="3" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C368|煉之妖暴龍丸}}</div>
+<div data-id="369" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="9 5 29 3" data-skilltype2="9 5 29 3">{{CraftDesc|C369|煉之直流龍紋}}</div>
+<div data-id="370" data-star="3" data-attribute="2" data-racialtype="7" data-mode="7" data-charge="3" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C370|煉之嗜血龍璃}}</div>
+<div data-id="371" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="3" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C371|煉之原色龍丸}}</div>
+<div data-id="372" data-star="3" data-attribute="2" data-racialtype="7" data-mode="4" data-charge="3" data-skilltype="9 5 29 3" data-skilltype2="9 5 29 3">{{CraftDesc|C372|煉之復生龍符}}</div>
+<div data-id="373" data-star="3" data-attribute="3" data-racialtype="3" data-mode="3" data-charge="4" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C373|森之越時龍咒}}</div>
+<div data-id="374" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C374|森之越時龍紋}}</div>
+<div data-id="375" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="9 5 3 30" data-skilltype2="9 5 3 30">{{CraftDesc|C375|森之直流龍璃}}</div>
+<div data-id="376" data-star="3" data-attribute="3" data-racialtype="6" data-mode="9" data-charge="4" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C376|森之越時龍丸}}</div>
+<div data-id="377" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="4" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C377|森之原色龍咒}}</div>
+<div data-id="378" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="4" data-skilltype="9 5 30" data-skilltype2="9 5 30">{{CraftDesc|C378|森之靈巧龍璃}}</div>
+<div data-id="379" data-star="3" data-attribute="3" data-racialtype="1" data-mode="9" data-charge="4" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C379|森之絕境龍丸}}</div>
+<div data-id="380" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="4" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C380|森之越時龍符}}</div>
+<div data-id="381" data-star="3" data-attribute="3" data-racialtype="1" data-mode="1" data-charge="4" data-skilltype="9 5 3 30" data-skilltype2="9 5 3 30">{{CraftDesc|C381|森之直流龍紋}}</div>
+<div data-id="382" data-star="3" data-attribute="3" data-racialtype="2" data-mode="2" data-charge="4" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C382|森之狂暴龍印}}</div>
+<div data-id="383" data-star="3" data-attribute="3" data-racialtype="2" data-mode="9" data-charge="4" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C383|森之獸暴龍丸}}</div>
+<div data-id="384" data-star="3" data-attribute="3" data-racialtype="2" data-mode="4" data-charge="4" data-skilltype="9 5 3 30" data-skilltype2="9 5 3 30">{{CraftDesc|C384|森之靈巧龍符}}</div>
+<div data-id="385" data-star="3" data-attribute="3" data-racialtype="4" data-mode="7" data-charge="4" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C385|森之越時龍璃}}</div>
+<div data-id="386" data-star="3" data-attribute="3" data-racialtype="4" data-mode="3" data-charge="4" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C386|森之龍暴龍咒}}</div>
+<div data-id="387" data-star="3" data-attribute="3" data-racialtype="4" data-mode="9" data-charge="4" data-skilltype="9 5 3 30" data-skilltype2="9 5 3 30">{{CraftDesc|C387|森之直流龍丸}}</div>
+<div data-id="388" data-star="3" data-attribute="3" data-racialtype="5" data-mode="2" data-charge="4" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C388|森之衝鋒龍印}}</div>
+<div data-id="389" data-star="3" data-attribute="3" data-racialtype="5" data-mode="9" data-charge="4" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C389|森之妖暴龍丸}}</div>
+<div data-id="390" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="9 5 3 30" data-skilltype2="9 5 3 30">{{CraftDesc|C390|森之復生龍符}}</div>
+<div data-id="391" data-star="3" data-attribute="3" data-racialtype="7" data-mode="3" data-charge="4" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C391|森之衝鋒龍咒}}</div>
+<div data-id="392" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="4" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C392|森之嗜血龍丸}}</div>
+<div data-id="393" data-star="3" data-attribute="3" data-racialtype="7" data-mode="1" data-charge="4" data-skilltype="9 5 3 30" data-skilltype2="9 5 3 30">{{CraftDesc|C393|森之靈巧龍紋}}</div>
+<div data-id="394" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C394|耀之狂暴龍符}}</div>
+<div data-id="395" data-star="3" data-attribute="4" data-racialtype="3" data-mode="7" data-charge="5" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C395|耀之神暴龍璃}}</div>
+<div data-id="396" data-star="3" data-attribute="4" data-racialtype="3" data-mode="2" data-charge="5" data-skilltype="9 31 5 3" data-skilltype2="9 31 5 3">{{CraftDesc|C396|耀之直流龍印}}</div>
+<div data-id="397" data-star="3" data-attribute="4" data-racialtype="6" data-mode="9" data-charge="5" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C397|耀之越時龍丸}}</div>
+<div data-id="398" data-star="3" data-attribute="4" data-racialtype="6" data-mode="3" data-charge="5" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C398|耀之越時龍咒}}</div>
+<div data-id="399" data-star="3" data-attribute="4" data-racialtype="6" data-mode="9" data-charge="5" data-skilltype="9 31 5 3" data-skilltype2="9 31 5 3">{{CraftDesc|C399|耀之直流龍丸}}</div>
+<div data-id="400" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="5" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C400|耀之越時龍紋}}</div>
+<div data-id="401" data-star="3" data-attribute="4" data-racialtype="1" data-mode="3" data-charge="5" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C401|耀之王暴龍咒}}</div>
+<div data-id="402" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="9 31 5" data-skilltype2="9 31 5">{{CraftDesc|C402|耀之靈巧龍璃}}</div>
+<div data-id="403" data-star="3" data-attribute="4" data-racialtype="2" data-mode="9" data-charge="5" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C403|耀之原色龍丸}}</div>
+<div data-id="404" data-star="3" data-attribute="4" data-racialtype="2" data-mode="2" data-charge="5" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C404|耀之越時龍印}}</div>
+<div data-id="405" data-star="3" data-attribute="4" data-racialtype="2" data-mode="9" data-charge="5" data-skilltype="9 31 5 3" data-skilltype2="9 31 5 3">{{CraftDesc|C405|耀之靈巧龍丸}}</div>
+<div data-id="406" data-star="3" data-attribute="4" data-racialtype="4" data-mode="4" data-charge="5" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C406|耀之越時龍符}}</div>
+<div data-id="407" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="5" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C407|耀之圖騰龍印}}</div>
+<div data-id="408" data-star="3" data-attribute="4" data-racialtype="4" data-mode="9" data-charge="5" data-skilltype="9 31 5 3" data-skilltype2="9 31 5 3">{{CraftDesc|C408|耀之復生龍丸}}</div>
+<div data-id="409" data-star="3" data-attribute="4" data-racialtype="5" data-mode="3" data-charge="5" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C409|耀之重炮龍咒}}</div>
+<div data-id="410" data-star="3" data-attribute="4" data-racialtype="5" data-mode="1" data-charge="5" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C410|耀之妖暴龍紋}}</div>
+<div data-id="411" data-star="3" data-attribute="4" data-racialtype="5" data-mode="7" data-charge="5" data-skilltype="9 31 5 3" data-skilltype2="9 31 5 3">{{CraftDesc|C411|耀之復生龍璃}}</div>
+<div data-id="412" data-star="3" data-attribute="4" data-racialtype="7" data-mode="9" data-charge="5" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C412|耀之嗜血龍丸}}</div>
+<div data-id="413" data-star="3" data-attribute="4" data-racialtype="7" data-mode="1" data-charge="5" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C413|耀之機暴龍紋}}</div>
+<div data-id="414" data-star="3" data-attribute="4" data-racialtype="7" data-mode="4" data-charge="5" data-skilltype="9 31 5 3" data-skilltype2="9 31 5 3">{{CraftDesc|C414|耀之直流龍符}}</div>
+<div data-id="415" data-star="3" data-attribute="5" data-racialtype="3" data-mode="7" data-charge="6" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C415|影之狂暴龍璃}}</div>
+<div data-id="416" data-star="3" data-attribute="5" data-racialtype="3" data-mode="9" data-charge="6" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C416|影之神暴龍丸}}</div>
+<div data-id="417" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C417|影之靈巧龍咒}}</div>
+<div data-id="418" data-star="3" data-attribute="5" data-racialtype="6" data-mode="9" data-charge="6" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C418|影之破甲龍丸}}</div>
+<div data-id="419" data-star="3" data-attribute="5" data-racialtype="6" data-mode="2" data-charge="6" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C419|影之魔暴龍印}}</div>
+<div data-id="420" data-star="3" data-attribute="5" data-racialtype="6" data-mode="7" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C420|影之直流龍璃}}</div>
+<div data-id="421" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C421|影之狂暴龍丸 II}}</div>
+<div data-id="422" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="6" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C422|影之越時龍符}}</div>
+<div data-id="423" data-star="3" data-attribute="5" data-racialtype="1" data-mode="2" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C423|影之直流龍印}}</div>
+<div data-id="424" data-star="3" data-attribute="5" data-racialtype="2" data-mode="3" data-charge="6" data-skilltype="4 1 7" data-skilltype2="4 1 7">{{CraftDesc|C424|影之嗜血龍印}}</div>
+<div data-id="425" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C425|影之越時龍璃}}</div>
+<div data-id="426" data-star="3" data-attribute="5" data-racialtype="2" data-mode="9" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C426|影之直流龍丸}}</div>
+<div data-id="427" data-star="3" data-attribute="5" data-racialtype="4" data-mode="4" data-charge="6" data-skilltype="11 1 7" data-skilltype2="11 1 7">{{CraftDesc|C427|影之威嚇龍符}}</div>
+<div data-id="428" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="14 1 7" data-skilltype2="14 1 7">{{CraftDesc|C428|影之越時龍紋}}</div>
+<div data-id="429" data-star="3" data-attribute="5" data-racialtype="4" data-mode="9" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C429|影之靈巧龍丸}}</div>
+<div data-id="430" data-star="3" data-attribute="5" data-racialtype="5" data-mode="2" data-charge="6" data-skilltype="15 1 7" data-skilltype2="15 1 7">{{CraftDesc|C430|影之原色龍印}}</div>
+<div data-id="431" data-star="3" data-attribute="5" data-racialtype="5" data-mode="7" data-charge="6" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C431|影之妖暴龍璃}}</div>
+<div data-id="432" data-star="3" data-attribute="5" data-racialtype="5" data-mode="9" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C432|影之復生龍丸}}</div>
+<div data-id="433" data-star="3" data-attribute="5" data-racialtype="7" data-mode="7" data-charge="6" data-skilltype="16 1 7" data-skilltype2="16 1 7">{{CraftDesc|C433|影之衝鋒龍璃}}</div>
+<div data-id="434" data-star="3" data-attribute="5" data-racialtype="7" data-mode="1" data-charge="6" data-skilltype="10 1 7" data-skilltype2="10 1 7">{{CraftDesc|C434|影之機暴龍紋}}</div>
+<div data-id="435" data-star="3" data-attribute="5" data-racialtype="7" data-mode="9" data-charge="6" data-skilltype="9 3 5 32" data-skilltype2="9 3 5 32">{{CraftDesc|C435|影之直流龍丸 II}}</div>
