@@ -1,440 +1,461 @@
 <div data-id="1" data-star="1" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C01|店ぇ╣忌纒}}</div>
 <div data-id="2" data-star="1" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C02|店ぇ╣忌纒}}</div>
 <div data-id="3" data-star="1" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C03|店ぇ╣忌纒〨}}</div>
-<div data-id="4" data-star="2" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="2" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C04|簒ぇ纒}}</div>
-<div data-id="5" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C05|芬ぇ纒〨}}</div>
-<div data-id="6" data-star="2" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C06|此ぇ纒}}</div>
-<div data-id="7" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C07|模ぇ纒}}</div>
-<div data-id="8" data-star="2" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C08|紇ぇ纒〨}}</div>
-<div data-id="9" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="10" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C09|硈ぇ稶纒}}</div>
-<div data-id="10" data-star="3" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="7" data-skilltype="14 1" data-skilltype2="14 1">{{CraftDesc|C10|ぇ瓜乃纒}}</div>
+<div data-id="4" data-star="2" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="2" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C04|簒ぇ纒}}</div>
+<div data-id="5" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C05|芬ぇ纒〨}}</div>
+<div data-id="6" data-star="2" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C06|此ぇ纒}}</div>
+<div data-id="7" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C07|模ぇ纒}}</div>
+<div data-id="8" data-star="2" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C08|紇ぇ纒〨}}</div>
+<div data-id="9" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="10" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C09|硈ぇ稶纒}}</div>
+<div data-id="10" data-star="3" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="7" data-skilltype="1 14" data-skilltype2="1 14">{{CraftDesc|C10|ぇ瓜乃纒}}</div>
 <div data-id="11" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="8" data-skilltype="1 15" data-skilltype2="1 15">{{CraftDesc|C11|юぇ︹纒〨}}</div>
-<div data-id="12" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="7" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C12|ぇ侥網纒}}</div>
-<div data-id="13" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="9" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C13|╄ぇ稶纒}}</div>
-<div data-id="14" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C14|юぇ稶纒〨}}</div>
-<div data-id="15" data-star="2" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C15|юぇ纒}}</div>
-<div data-id="16" data-star="2" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C16|юぇ纒〨}}</div>
+<div data-id="12" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="7" data-skilltype="1 16" data-skilltype2="1 16">{{CraftDesc|C12|ぇ侥網纒}}</div>
+<div data-id="13" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="9" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C13|╄ぇ稶纒}}</div>
+<div data-id="14" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C14|юぇ稶纒〨}}</div>
+<div data-id="15" data-star="2" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C15|юぇ纒}}</div>
+<div data-id="16" data-star="2" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C16|юぇ纒〨}}</div>
 <div data-id="17" data-star="1" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="9" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C17|╄ぇ╣忌纒}}</div>
-<div data-id="18" data-star="2" data-attribute="0" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C18|юぇ臟纠纒}}</div>
-<div data-id="19" data-star="2" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C19|юぇ阑纒}}</div>
-<div data-id="20" data-star="2" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="10" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C20|硈ぇ臟纠纒}}</div>
-<div data-id="21" data-star="2" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="9" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C21|╄ぇ阑纒〨}}</div>
-<div data-id="22" data-star="2" data-attribute="0" data-racialtype="5" data-mode="1" data-charge="7" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C22|ぇ阑纒}}</div>
-<div data-id="23" data-star="2" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="10" data-skilltype="12 8" data-skilltype2="12 8">{{CraftDesc|C23|硈ぇ阑纒}}</div>
-<div data-id="24" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C24|簒ぇ╣忌纒}}</div>
-<div data-id="25" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="3" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C25|芬ぇ╣忌纒}}</div>
-<div data-id="26" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="4" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C26|此ぇ╣忌纒〨}}</div>
-<div data-id="27" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="1 2 4" data-skilltype2="1 2 4">{{CraftDesc|C27|模ぇ╣忌纒}}</div>
-<div data-id="28" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="1 2 4" data-skilltype2="1 2 4">{{CraftDesc|C28|紇ぇ╣忌纒〨}}</div>
-<div data-id="29" data-star="2" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="7" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|C29|ぇ臟纠纒〨}}</div>
-<div data-id="30" data-star="2" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="9" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C30|╄ぇ纒〨}}</div>
-<div data-id="31" data-star="2" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C31|юぇ纒}}</div>
-<div data-id="32" data-star="2" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="10" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C32|硈ぇ纒}}</div>
-<div data-id="33" data-star="2" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="7" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C33|ぇ纒}}</div>
-<div data-id="34" data-star="2" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|C34|硈ぇ臟纠纒}}</div>
+<div data-id="18" data-star="2" data-attribute="0" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="8 12" data-skilltype2="8 12">{{CraftDesc|C18|юぇ臟纠纒}}</div>
+<div data-id="19" data-star="2" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="8 12" data-skilltype2="8 12">{{CraftDesc|C19|юぇ阑纒}}</div>
+<div data-id="20" data-star="2" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="10" data-skilltype="8 12" data-skilltype2="8 12">{{CraftDesc|C20|硈ぇ臟纠纒}}</div>
+<div data-id="21" data-star="2" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="9" data-skilltype="8 12" data-skilltype2="8 12">{{CraftDesc|C21|╄ぇ阑纒〨}}</div>
+<div data-id="22" data-star="2" data-attribute="0" data-racialtype="5" data-mode="1" data-charge="7" data-skilltype="8 12" data-skilltype2="8 12">{{CraftDesc|C22|ぇ阑纒}}</div>
+<div data-id="23" data-star="2" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="10" data-skilltype="8 12" data-skilltype2="8 12">{{CraftDesc|C23|硈ぇ阑纒}}</div>
+<div data-id="24" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|C24|簒ぇ╣忌纒}}</div>
+<div data-id="25" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="3" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|C25|芬ぇ╣忌纒}}</div>
+<div data-id="26" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="4" data-skilltype="2 6 1" data-skilltype2="2 6 1">{{CraftDesc|C26|此ぇ╣忌纒〨}}</div>
+<div data-id="27" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="2 4 1" data-skilltype2="2 4 1">{{CraftDesc|C27|模ぇ╣忌纒}}</div>
+<div data-id="28" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="2 4 1" data-skilltype2="2 4 1">{{CraftDesc|C28|紇ぇ╣忌纒〨}}</div>
+<div data-id="29" data-star="2" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="7" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C29|ぇ臟纠纒〨}}</div>
+<div data-id="30" data-star="2" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="9" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C30|╄ぇ纒〨}}</div>
+<div data-id="31" data-star="2" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="8" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C31|юぇ纒}}</div>
+<div data-id="32" data-star="2" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="10" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C32|硈ぇ纒}}</div>
+<div data-id="33" data-star="2" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="7" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C33|ぇ纒}}</div>
+<div data-id="34" data-star="2" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C34|硈ぇ臟纠纒}}</div>
 <div data-id="35" data-star="1" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="7" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C35|ぇ╣忌纒才}}</div>
-<div data-id="36" data-star="2" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C36|硈ぇ忌纒才}}</div>
-<div data-id="37" data-star="2" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="8" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C37|юぇ脋忌纒才}}</div>
-<div data-id="38" data-star="2" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C38|硈ぇ忌纒才}}</div>
-<div data-id="39" data-star="2" data-attribute="0" data-racialtype="4" data-mode="4" data-charge="10" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C39|硈ぇ纒忌纒才}}</div>
-<div data-id="40" data-star="2" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C40|╄ぇН忌纒才}}</div>
-<div data-id="41" data-star="2" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="8" data-skilltype="21 1" data-skilltype2="21 1">{{CraftDesc|C41|юぇ臸忌纒才}}</div>
-<div data-id="42" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C42|簒ぇ纞纒才}}</div>
-<div data-id="43" data-star="2" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C43|芬ぇ纞纒才}}</div>
-<div data-id="44" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="4" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C44|此ぇ纞纒}}</div>
-<div data-id="45" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C45|模ぇ纞纒才}}</div>
-<div data-id="46" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C46|紇ぇ纞纒}}</div>
+<div data-id="36" data-star="2" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="1 21" data-skilltype2="1 21">{{CraftDesc|C36|硈ぇ忌纒才}}</div>
+<div data-id="37" data-star="2" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="8" data-skilltype="1 21" data-skilltype2="1 21">{{CraftDesc|C37|юぇ脋忌纒才}}</div>
+<div data-id="38" data-star="2" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="10" data-skilltype="1 21" data-skilltype2="1 21">{{CraftDesc|C38|硈ぇ忌纒才}}</div>
+<div data-id="39" data-star="2" data-attribute="0" data-racialtype="4" data-mode="4" data-charge="10" data-skilltype="1 21" data-skilltype2="1 21">{{CraftDesc|C39|硈ぇ纒忌纒才}}</div>
+<div data-id="40" data-star="2" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="1 21" data-skilltype2="1 21">{{CraftDesc|C40|╄ぇН忌纒才}}</div>
+<div data-id="41" data-star="2" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="8" data-skilltype="1 21" data-skilltype2="1 21">{{CraftDesc|C41|юぇ臸忌纒才}}</div>
+<div data-id="42" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C42|簒ぇ纞纒才}}</div>
+<div data-id="43" data-star="2" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C43|芬ぇ纞纒才}}</div>
+<div data-id="44" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="4" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C44|此ぇ纞纒}}</div>
+<div data-id="45" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C45|模ぇ纞纒才}}</div>
+<div data-id="46" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C46|紇ぇ纞纒}}</div>
 <div data-id="47" data-star="3" data-attribute="1" data-racialtype="1" data-mode="2" data-charge="8" data-skilltype="1 15" data-skilltype2="1 15">{{CraftDesc|C47|юぇ︹纒}}</div>
-<div data-id="48" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="8" data-skilltype="14 1" data-skilltype2="14 1">{{CraftDesc|C48|юぇ瓜乃纒〨}}</div>
-<div data-id="49" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C49|硈ぇ侥網纒才}}</div>
-<div data-id="50" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C50|юぇ忌纒}}</div>
-<div data-id="51" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C51|硈ぇ纒才}}</div>
-<div data-id="52" data-star="3" data-attribute="1" data-racialtype="3" data-mode="3" data-charge="2" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C52|簒ぇ荡挂纒〨}}</div>
-<div data-id="53" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C53|芬ぇ荡挂纒才}}</div>
-<div data-id="54" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C54|此ぇ荡挂纒}}</div>
-<div data-id="55" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="8 7 1" data-skilltype2="8 7 1">{{CraftDesc|C55|模ぇ臟纠纒才}}</div>
-<div data-id="56" data-star="3" data-attribute="5" data-racialtype="3" data-mode="2" data-charge="6" data-skilltype="8 7 1" data-skilltype2="8 7 1">{{CraftDesc|C56|紇ぇ臟纠纒}}</div>
-<div data-id="57" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="8" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C57|юぇ╣忌纒才}}</div>
+<div data-id="48" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="8" data-skilltype="1 14" data-skilltype2="1 14">{{CraftDesc|C48|юぇ瓜乃纒〨}}</div>
+<div data-id="49" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="1 16" data-skilltype2="1 16">{{CraftDesc|C49|硈ぇ侥網纒才}}</div>
+<div data-id="50" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C50|юぇ忌纒}}</div>
+<div data-id="51" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C51|硈ぇ纒才}}</div>
+<div data-id="52" data-star="3" data-attribute="1" data-racialtype="3" data-mode="3" data-charge="2" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C52|簒ぇ荡挂纒〨}}</div>
+<div data-id="53" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C53|芬ぇ荡挂纒才}}</div>
+<div data-id="54" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C54|此ぇ荡挂纒}}</div>
+<div data-id="55" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="1 7 8" data-skilltype2="1 7 8">{{CraftDesc|C55|模ぇ臟纠纒才}}</div>
+<div data-id="56" data-star="3" data-attribute="5" data-racialtype="3" data-mode="2" data-charge="6" data-skilltype="1 7 8" data-skilltype2="1 7 8">{{CraftDesc|C56|紇ぇ臟纠纒}}</div>
+<div data-id="57" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="8" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C57|юぇ╣忌纒才}}</div>
 <div data-id="58" data-star="1" data-attribute="0" data-racialtype="0" data-mode="5" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C58|店ぇ╣忌纒ド}}</div>
 <div data-id="59" data-star="2" data-attribute="1" data-racialtype="0" data-mode="5" data-charge="2" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C59|簒ぇ╣忌纒ド}}</div>
 <div data-id="60" data-star="2" data-attribute="2" data-racialtype="0" data-mode="5" data-charge="3" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C60|芬ぇ╣忌纒ド}}</div>
 <div data-id="61" data-star="2" data-attribute="3" data-racialtype="0" data-mode="5" data-charge="4" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C61|此ぇ╣忌纒ド}}</div>
 <div data-id="62" data-star="2" data-attribute="4" data-racialtype="0" data-mode="5" data-charge="5" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C62|模ぇ╣忌纒ド}}</div>
 <div data-id="63" data-star="2" data-attribute="5" data-racialtype="0" data-mode="5" data-charge="6" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C63|紇ぇ╣忌纒ド}}</div>
-<div data-id="64" data-star="3" data-attribute="0" data-racialtype="3" data-mode="5" data-charge="10" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C64|硈ぇ禫纒ド}}</div>
-<div data-id="65" data-star="2" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C65|簒ぇ╣忌纒〨}}</div>
-<div data-id="66" data-star="2" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="3" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C66|芬ぇ╣忌纒}}</div>
-<div data-id="67" data-star="2" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C67|此ぇ纒才}}</div>
-<div data-id="68" data-star="2" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C68|模ぇ╣忌纒}}</div>
-<div data-id="69" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C69|紇ぇ╣忌纒}}</div>
-<div data-id="70" data-star="3" data-attribute="1" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C70|簒ぇ励纒}}</div>
-<div data-id="71" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="1" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C71|此ぇ臸忌纒〨}}</div>
-<div data-id="72" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C72|店ぇ脋忌纒才}}</div>
-<div data-id="73" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C73|店ぇ侥網纒才}}</div>
+<div data-id="64" data-star="3" data-attribute="0" data-racialtype="3" data-mode="5" data-charge="10" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C64|硈ぇ禫纒ド}}</div>
+<div data-id="65" data-star="2" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|C65|簒ぇ╣忌纒〨}}</div>
+<div data-id="66" data-star="2" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="3" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|C66|芬ぇ╣忌纒}}</div>
+<div data-id="67" data-star="2" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|C67|此ぇ纒才}}</div>
+<div data-id="68" data-star="2" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|C68|模ぇ╣忌纒}}</div>
+<div data-id="69" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="6" data-skilltype="2 1" data-skilltype2="2 1">{{CraftDesc|C69|紇ぇ╣忌纒}}</div>
+<div data-id="70" data-star="3" data-attribute="1" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C70|簒ぇ励纒}}</div>
+<div data-id="71" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="1" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C71|此ぇ臸忌纒〨}}</div>
+<div data-id="72" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C72|店ぇ脋忌纒才}}</div>
+<div data-id="73" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="1 16" data-skilltype2="1 16">{{CraftDesc|C73|店ぇ侥網纒才}}</div>
 <div data-id="74" data-star="3" data-attribute="2" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="1 4" data-skilltype2="1 4">{{CraftDesc|C74|芬ぇ臸忌纒}}</div>
 <div data-id="75" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C75|店ぇ╣忌纒}}</div>
-<div data-id="76" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|C76|此ぇ╣忌纒}}</div>
-<div data-id="77" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|C77|簒ぇ╣忌纒}}</div>
-<div data-id="78" data-star="2" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|C78|模ぇ╣忌纒}}</div>
-<div data-id="79" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|C79|芬ぇ╣忌纒}}</div>
-<div data-id="80" data-star="2" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="6 1" data-skilltype2="6 1">{{CraftDesc|C80|紇ぇ╣忌纒}}</div>
-<div data-id="81" data-star="3" data-attribute="1" data-racialtype="6" data-mode="6" data-charge="2" data-skilltype="8 3 1" data-skilltype2="8 3 1">{{CraftDesc|C81|簒ぇ臸毁纒}}</div>
-<div data-id="82" data-star="3" data-attribute="0" data-racialtype="5" data-mode="6" data-charge="7" data-skilltype="27 5 7 2" data-skilltype2="27 5 7 2">{{CraftDesc|C82|ぇН励纒}}</div>
-<div data-id="83" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C83|模ぇ膎纒}}</div>
-<div data-id="84" data-star="3" data-attribute="0" data-racialtype="1" data-mode="6" data-charge="10" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C84|硈ぇ禫纒}}</div>
+<div data-id="76" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C76|此ぇ╣忌纒}}</div>
+<div data-id="77" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C77|簒ぇ╣忌纒}}</div>
+<div data-id="78" data-star="2" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C78|模ぇ╣忌纒}}</div>
+<div data-id="79" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C79|芬ぇ╣忌纒}}</div>
+<div data-id="80" data-star="2" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 6" data-skilltype2="1 6">{{CraftDesc|C80|紇ぇ╣忌纒}}</div>
+<div data-id="81" data-star="3" data-attribute="1" data-racialtype="6" data-mode="6" data-charge="2" data-skilltype="1 8 3" data-skilltype2="1 8 3">{{CraftDesc|C81|簒ぇ臸毁纒}}</div>
+<div data-id="82" data-star="3" data-attribute="0" data-racialtype="5" data-mode="6" data-charge="7" data-skilltype="2 7 5 27" data-skilltype2="2 7 5 27">{{CraftDesc|C82|ぇН励纒}}</div>
+<div data-id="83" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C83|模ぇ膎纒}}</div>
+<div data-id="84" data-star="3" data-attribute="0" data-racialtype="1" data-mode="6" data-charge="10" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C84|硈ぇ禫纒}}</div>
 <div data-id="85" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C85|簒ぇ確ネ纒才}}</div>
 <div data-id="86" data-star="2" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C86|芬ぇ確ネ纒〨}}</div>
 <div data-id="87" data-star="2" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C87|此ぇ確ネ纒}}</div>
 <div data-id="88" data-star="2" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C88|模ぇ確ネ纒才}}</div>
 <div data-id="89" data-star="2" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="3" data-skilltype2="3">{{CraftDesc|C89|紇ぇ確ネ纒}}</div>
-<div data-id="90" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="7" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C90|ぇ纒励纒}}</div>
-<div data-id="91" data-star="3" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="10" data-skilltype="12 6 3 1" data-skilltype2="12 6 3 1">{{CraftDesc|C91|硈ぇ励纒〨}}</div>
-<div data-id="92" data-star="3" data-attribute="2" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C92|芬ぇ禫纒}}</div>
-<div data-id="93" data-star="3" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="10 1" data-skilltype2="10 1">{{CraftDesc|C93|硈ぇ臸忌纒}}</div>
-<div data-id="94" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="8 1 2" data-skilltype2="8 1 2">{{CraftDesc|C94|硈ぇ纒〨}}</div>
-<div data-id="95" data-star="3" data-attribute="0" data-racialtype="2" data-mode="1" data-charge="8" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C95|юぇ確ネ纒}}</div>
-<div data-id="96" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="5 9 39" data-skilltype2="5 9 39">{{CraftDesc|C96|簒ぇほ跑纒才}}</div>
-<div data-id="97" data-star="2" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="5 9 39" data-skilltype2="5 9 39">{{CraftDesc|C97|芬ぇほ跑纒}}</div>
-<div data-id="98" data-star="2" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="5 9 39" data-skilltype2="5 9 39">{{CraftDesc|C98|此ぇほ跑纒〨}}</div>
-<div data-id="99" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="5 9 39" data-skilltype2="5 9 39">{{CraftDesc|C99|模ぇほ跑纒}}</div>
-<div data-id="100" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="5 9 39" data-skilltype2="5 9 39">{{CraftDesc|C100|紇ぇほ跑纒}}</div>
-<div data-id="101" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="1 2 15" data-skilltype2="1 2 15">{{CraftDesc|C101|芬ぇ︹纒才}}</div>
-<div data-id="102" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="10" data-skilltype="6 3 1" data-skilltype2="6 3 1">{{CraftDesc|C102|硈ぇ励纒〨}}</div>
-<div data-id="103" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="8" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C103|юぇ遁﹀纒〨}}</div>
-<div data-id="104" data-star="3" data-attribute="4" data-racialtype="6" data-mode="1" data-charge="5" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C104|模ぇ遁﹀纒}}</div>
-<div data-id="105" data-star="3" data-attribute="5" data-racialtype="6" data-mode="4" data-charge="6" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C105|紇ぇ遁﹀纒才}}</div>
-<div data-id="106" data-star="3" data-attribute="3" data-racialtype="4" data-mode="2" data-charge="4" data-skilltype="12 3 1" data-skilltype2="12 3 1">{{CraftDesc|C106|此ぇ纒励纒}}</div>
-<div data-id="107" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="10" data-skilltype="16 3 1" data-skilltype2="16 3 1">{{CraftDesc|C107|硈ぇ纒励纒}}</div>
-<div data-id="108" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="14 8 1" data-skilltype2="14 8 1">{{CraftDesc|C108|店ぇ臸忌纒才}}</div>
-<div data-id="109" data-star="3" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="8" data-skilltype="10 6 1" data-skilltype2="10 6 1">{{CraftDesc|C109|юぇ忌纒}}</div>
-<div data-id="110" data-star="3" data-attribute="0" data-racialtype="5" data-mode="5" data-charge="10" data-skilltype="33 5 1 2" data-skilltype2="33 5 1 2">{{CraftDesc|C110|硈ぇ瑈纒ド}}</div>
-<div data-id="111" data-star="3" data-attribute="0" data-racialtype="1" data-mode="5" data-charge="10" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C111|硈ぇ忌纒ド}}</div>
+<div data-id="90" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="7" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C90|ぇ纒励纒}}</div>
+<div data-id="91" data-star="3" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="10" data-skilltype="1 12 6 3" data-skilltype2="1 12 6 3">{{CraftDesc|C91|硈ぇ励纒〨}}</div>
+<div data-id="92" data-star="3" data-attribute="2" data-racialtype="3" data-mode="1" data-charge="1" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C92|芬ぇ禫纒}}</div>
+<div data-id="93" data-star="3" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="1 10" data-skilltype2="1 10">{{CraftDesc|C93|硈ぇ臸忌纒}}</div>
+<div data-id="94" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="1 8 2" data-skilltype2="1 8 2">{{CraftDesc|C94|硈ぇ纒〨}}</div>
+<div data-id="95" data-star="3" data-attribute="0" data-racialtype="2" data-mode="1" data-charge="8" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C95|юぇ確ネ纒}}</div>
+<div data-id="96" data-star="2" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="9 39 5" data-skilltype2="9 39 5">{{CraftDesc|C96|簒ぇほ跑纒才}}</div>
+<div data-id="97" data-star="2" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="9 39 5" data-skilltype2="9 39 5">{{CraftDesc|C97|芬ぇほ跑纒}}</div>
+<div data-id="98" data-star="2" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="9 39 5" data-skilltype2="9 39 5">{{CraftDesc|C98|此ぇほ跑纒〨}}</div>
+<div data-id="99" data-star="2" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="9 39 5" data-skilltype2="9 39 5">{{CraftDesc|C99|模ぇほ跑纒}}</div>
+<div data-id="100" data-star="2" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="9 39 5" data-skilltype2="9 39 5">{{CraftDesc|C100|紇ぇほ跑纒}}</div>
+<div data-id="101" data-star="3" data-attribute="2" data-racialtype="3" data-mode="4" data-charge="3" data-skilltype="1 15 2" data-skilltype2="1 15 2">{{CraftDesc|C101|芬ぇ︹纒才}}</div>
+<div data-id="102" data-star="3" data-attribute="0" data-racialtype="3" data-mode="3" data-charge="10" data-skilltype="1 6 3" data-skilltype2="1 6 3">{{CraftDesc|C102|硈ぇ励纒〨}}</div>
+<div data-id="103" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="8" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C103|юぇ遁﹀纒〨}}</div>
+<div data-id="104" data-star="3" data-attribute="4" data-racialtype="6" data-mode="1" data-charge="5" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C104|模ぇ遁﹀纒}}</div>
+<div data-id="105" data-star="3" data-attribute="5" data-racialtype="6" data-mode="4" data-charge="6" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C105|紇ぇ遁﹀纒才}}</div>
+<div data-id="106" data-star="3" data-attribute="3" data-racialtype="4" data-mode="2" data-charge="4" data-skilltype="1 12 3" data-skilltype2="1 12 3">{{CraftDesc|C106|此ぇ纒励纒}}</div>
+<div data-id="107" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="10" data-skilltype="1 3 16" data-skilltype2="1 3 16">{{CraftDesc|C107|硈ぇ纒励纒}}</div>
+<div data-id="108" data-star="3" data-attribute="0" data-racialtype="6" data-mode="4" data-charge="1" data-skilltype="1 8 14" data-skilltype2="1 8 14">{{CraftDesc|C108|店ぇ臸忌纒才}}</div>
+<div data-id="109" data-star="3" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="8" data-skilltype="1 6 10" data-skilltype2="1 6 10">{{CraftDesc|C109|юぇ忌纒}}</div>
+<div data-id="110" data-star="3" data-attribute="0" data-racialtype="5" data-mode="5" data-charge="10" data-skilltype="2 1 33 5" data-skilltype2="2 1 33 5">{{CraftDesc|C110|硈ぇ瑈纒ド}}</div>
+<div data-id="111" data-star="3" data-attribute="0" data-racialtype="1" data-mode="5" data-charge="10" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C111|硈ぇ忌纒ド}}</div>
 <div data-id="112" data-star="1" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C112|店ぇ╣忌纒件}}</div>
-<div data-id="113" data-star="2" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="2" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C113|簒ぇ纞纒件}}</div>
-<div data-id="114" data-star="2" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C114|芬ぇ纞纒件}}</div>
-<div data-id="115" data-star="2" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C115|此ぇ纞纒件}}</div>
-<div data-id="116" data-star="2" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="5" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C116|模ぇ纞纒件}}</div>
-<div data-id="117" data-star="2" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="6" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C117|紇ぇ纞纒件}}</div>
-<div data-id="118" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C118|硈ぇ膎纒件}}</div>
-<div data-id="119" data-star="3" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="27 5 3 1" data-skilltype2="27 5 3 1">{{CraftDesc|C119|硈ぇ纒件}}</div>
-<div data-id="120" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="1" data-skilltype="8 1 2" data-skilltype2="8 1 2">{{CraftDesc|C120|店ぇ臸忌纒件}}</div>
-<div data-id="121" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="6" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C121|紇ぇ╣忌纒}}</div>
-<div data-id="122" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="14 6 1" data-skilltype2="14 6 1">{{CraftDesc|C122|簒ぇ瓜乃纒〨}}</div>
-<div data-id="123" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="8" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C123|юぇ臸忌纒件}}</div>
-<div data-id="124" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="6 3 1" data-skilltype2="6 3 1">{{CraftDesc|C124|此ぇ╣忌纒件}}</div>
-<div data-id="125" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="6 3 1" data-skilltype2="6 3 1">{{CraftDesc|C125|芬ぇ╣忌纒才}}</div>
-<div data-id="126" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="11 5 3 25" data-skilltype2="11 5 3 25">{{CraftDesc|C126|模ぇ纞纒}}</div>
-<div data-id="127" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="21 14 1" data-skilltype2="21 14 1">{{CraftDesc|C127|模ぇ瓜乃纒件}}</div>
-<div data-id="128" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="5 7 1" data-skilltype2="5 7 1">{{CraftDesc|C128|芬ぇ懊纒〨}}</div>
-<div data-id="129" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="5 7 1" data-skilltype2="5 7 1">{{CraftDesc|C129|此ぇ懊纒}}</div>
-<div data-id="130" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="6 3 1" data-skilltype2="6 3 1">{{CraftDesc|C130|店ぇ纒}}</div>
-<div data-id="131" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C131|簒ぇ瘆ヒ纒才}}</div>
-<div data-id="132" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="19 3 1" data-skilltype2="19 3 1">{{CraftDesc|C132|芬ぇ╣忌纒件}}</div>
-<div data-id="133" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="7" data-skilltype="13 39 12 5 2" data-skilltype2="13 39 12 5 2">{{CraftDesc|C133|店ぇН励纒〨}}</div>
-<div data-id="134" data-star="3" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="10" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|C134|硈ぇ纒}}</div>
-<div data-id="135" data-star="3" data-attribute="0" data-racialtype="4" data-mode="7" data-charge="1" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C135|店ぇ禫纒件}}</div>
-<div data-id="136" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="14 10 6 1" data-skilltype2="14 10 6 1">{{CraftDesc|C136|店ぇ瓜乃纒才}}</div>
-<div data-id="137" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="27 16 5 1" data-skilltype2="27 16 5 1">{{CraftDesc|C137|юぇ╣忌纒〨}}</div>
-<div data-id="138" data-star="3" data-attribute="5" data-racialtype="1" data-mode="1" data-charge="6" data-skilltype="12 8 13 1" data-skilltype2="12 8 13 1">{{CraftDesc|C138|紇ぇ忌纒}}</div>
-<div data-id="139" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="1 5 30 2 15" data-skilltype2="1 5 30 2 15">{{CraftDesc|C139|此ぇ膎纒才}}</div>
-<div data-id="140" data-star="3" data-attribute="5" data-racialtype="6" data-mode="1" data-charge="6" data-skilltype="16 1" data-skilltype2="16 1">{{CraftDesc|C140|紇ぇ侥網纒}}</div>
-<div data-id="141" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="10" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C141|此ぇ臸忌纒件}}</div>
-<div data-id="142" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C142|模ぇ忌纒件}}</div>
-<div data-id="143" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="11 6 1" data-skilltype2="11 6 1">{{CraftDesc|C143|店ぇН忌纒才}}</div>
-<div data-id="144" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="8 5 3 33" data-skilltype2="8 5 3 33">{{CraftDesc|C144|юぇ纒才}}</div>
-<div data-id="145" data-star="3" data-attribute="2" data-racialtype="6" data-mode="1" data-charge="3" data-skilltype="14 1 20" data-skilltype2="14 1 20">{{CraftDesc|C145|芬ぇ臸忌纒}}</div>
-<div data-id="146" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="5 1 32 15" data-skilltype2="5 1 32 15">{{CraftDesc|C146|紇ぇ瑈纒〨}}</div>
-<div data-id="147" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="11 6 1 4" data-skilltype2="11 6 1 4">{{CraftDesc|C147|юぇ╣忌纒}}</div>
-<div data-id="148" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="1" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C148|店ぇ確ネ纒才}}</div>
-<div data-id="149" data-star="3" data-attribute="0" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="7 3 1 2" data-skilltype2="7 3 1 2">{{CraftDesc|C149|硈ぇ禫纒件}}</div>
-<div data-id="150" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="5 6 1 28" data-skilltype2="5 6 1 28">{{CraftDesc|C150|簒ぇ裸苀纒〨}}</div>
-<div data-id="151" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="5 6 1 29" data-skilltype2="5 6 1 29">{{CraftDesc|C151|芬ぇ裸苀纒件}}</div>
-<div data-id="152" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="6 1 7" data-skilltype2="6 1 7">{{CraftDesc|C152|此ぇ裸苀纒}}</div>
-<div data-id="153" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="5 31 9 1" data-skilltype2="5 31 9 1">{{CraftDesc|C153|模ぇ艶ォ纒}}</div>
-<div data-id="154" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="6" data-skilltype="7 9 1" data-skilltype2="7 9 1">{{CraftDesc|C154|紇ぇ艶ォ纒才}}</div>
-<div data-id="155" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="11 1 2" data-skilltype2="11 1 2">{{CraftDesc|C155|юぇ纒}}</div>
-<div data-id="156" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="8 7 1" data-skilltype2="8 7 1">{{CraftDesc|C156|硈ぇ忌纒件}}</div>
-<div data-id="157" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="5 1 10 23" data-skilltype2="5 1 10 23">{{CraftDesc|C157|юぇ臸忌纒〨}}</div>
-<div data-id="158" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="7 2" data-skilltype2="7 2">{{CraftDesc|C158|店ぇН励纒才}}</div>
-<div data-id="159" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="10" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C159|硈ぇ脋忌纒〨}}</div>
-<div data-id="160" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="1" data-skilltype="5 1 24 15" data-skilltype2="5 1 24 15">{{CraftDesc|C160|店ぇ纒忌纒}}</div>
-<div data-id="161" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="3" data-skilltype="5 3 1 29" data-skilltype2="5 3 1 29">{{CraftDesc|C161|芬ぇ忌纒〨}}</div>
-<div data-id="162" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="6 1 2" data-skilltype2="6 1 2">{{CraftDesc|C162|店ぇ纒〨}}</div>
-<div data-id="163" data-star="3" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="10" data-skilltype="5 7 26 15" data-skilltype2="5 7 26 15">{{CraftDesc|C163|硈ぇ禫纒〨}}</div>
-<div data-id="164" data-star="3" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="8" data-skilltype="10 1" data-skilltype2="10 1">{{CraftDesc|C164|юぇ臸忌纒}}</div>
-<div data-id="165" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C165|此ぇ忌纒件}}</div>
-<div data-id="166" data-star="3" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="8" data-skilltype="5 7 25 1" data-skilltype2="5 7 25 1">{{CraftDesc|C166|юぇ禫纒才}}</div>
-<div data-id="167" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="9" data-skilltype="5 7 1 31" data-skilltype2="5 7 1 31">{{CraftDesc|C167|模ぇ纒忌纒}}</div>
-<div data-id="168" data-star="3" data-attribute="0" data-racialtype="2" data-mode="7" data-charge="10" data-skilltype="6 1 7" data-skilltype2="6 1 7">{{CraftDesc|C168|硈ぇ裸苀纒件}}</div>
-<div data-id="169" data-star="3" data-attribute="5" data-racialtype="5" data-mode="4" data-charge="7" data-skilltype="27 5 8 1" data-skilltype2="27 5 8 1">{{CraftDesc|C169|紇ぇ臟纠纒才}}</div>
-<div data-id="170" data-star="3" data-attribute="1" data-racialtype="2" data-mode="1" data-charge="1" data-skilltype="14 9 1" data-skilltype2="14 9 1">{{CraftDesc|C170|簒ぇ脋忌纒}}</div>
+<div data-id="113" data-star="2" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="2" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C113|簒ぇ纞纒件}}</div>
+<div data-id="114" data-star="2" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C114|芬ぇ纞纒件}}</div>
+<div data-id="115" data-star="2" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C115|此ぇ纞纒件}}</div>
+<div data-id="116" data-star="2" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="5" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C116|模ぇ纞纒件}}</div>
+<div data-id="117" data-star="2" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="6" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C117|紇ぇ纞纒件}}</div>
+<div data-id="118" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C118|硈ぇ膎纒件}}</div>
+<div data-id="119" data-star="3" data-attribute="0" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="1 5 3 27" data-skilltype2="1 5 3 27">{{CraftDesc|C119|硈ぇ纒件}}</div>
+<div data-id="120" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="1" data-skilltype="1 8 2" data-skilltype2="1 8 2">{{CraftDesc|C120|店ぇ臸忌纒件}}</div>
+<div data-id="121" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="6" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C121|紇ぇ╣忌纒}}</div>
+<div data-id="122" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="1 14 6" data-skilltype2="1 14 6">{{CraftDesc|C122|簒ぇ瓜乃纒〨}}</div>
+<div data-id="123" data-star="3" data-attribute="0" data-racialtype="6" data-mode="7" data-charge="8" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C123|юぇ臸忌纒件}}</div>
+<div data-id="124" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="1 6 3" data-skilltype2="1 6 3">{{CraftDesc|C124|此ぇ╣忌纒件}}</div>
+<div data-id="125" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="3" data-skilltype="1 6 3" data-skilltype2="1 6 3">{{CraftDesc|C125|芬ぇ╣忌纒才}}</div>
+<div data-id="126" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="3 25 11 5" data-skilltype2="3 25 11 5">{{CraftDesc|C126|模ぇ纞纒}}</div>
+<div data-id="127" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="1 14 21" data-skilltype2="1 14 21">{{CraftDesc|C127|模ぇ瓜乃纒件}}</div>
+<div data-id="128" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="1 7 5" data-skilltype2="1 7 5">{{CraftDesc|C128|芬ぇ懊纒〨}}</div>
+<div data-id="129" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="1 7 5" data-skilltype2="1 7 5">{{CraftDesc|C129|此ぇ懊纒}}</div>
+<div data-id="130" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="1 6 3" data-skilltype2="1 6 3">{{CraftDesc|C130|店ぇ纒}}</div>
+<div data-id="131" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C131|簒ぇ瘆ヒ纒才}}</div>
+<div data-id="132" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="1 3 19" data-skilltype2="1 3 19">{{CraftDesc|C132|芬ぇ╣忌纒件}}</div>
+<div data-id="133" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="7" data-skilltype="39 2 12 13 5" data-skilltype2="39 2 12 13 5">{{CraftDesc|C133|店ぇН励纒〨}}</div>
+<div data-id="134" data-star="3" data-attribute="0" data-racialtype="3" data-mode="1" data-charge="10" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C134|硈ぇ纒}}</div>
+<div data-id="135" data-star="3" data-attribute="0" data-racialtype="4" data-mode="7" data-charge="1" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C135|店ぇ禫纒件}}</div>
+<div data-id="136" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="1" data-skilltype="1 14 6 10" data-skilltype2="1 14 6 10">{{CraftDesc|C136|店ぇ瓜乃纒才}}</div>
+<div data-id="137" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="1 27 5 16" data-skilltype2="1 27 5 16">{{CraftDesc|C137|юぇ╣忌纒〨}}</div>
+<div data-id="138" data-star="3" data-attribute="5" data-racialtype="1" data-mode="1" data-charge="6" data-skilltype="1 8 12 13" data-skilltype2="1 8 12 13">{{CraftDesc|C138|紇ぇ忌纒}}</div>
+<div data-id="139" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="4" data-skilltype="15 30 2 1 5" data-skilltype2="15 30 2 1 5">{{CraftDesc|C139|此ぇ膎纒才}}</div>
+<div data-id="140" data-star="3" data-attribute="5" data-racialtype="6" data-mode="1" data-charge="6" data-skilltype="1 16" data-skilltype2="1 16">{{CraftDesc|C140|紇ぇ侥網纒}}</div>
+<div data-id="141" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="10" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C141|此ぇ臸忌纒件}}</div>
+<div data-id="142" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C142|模ぇ忌纒件}}</div>
+<div data-id="143" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="1 6 11" data-skilltype2="1 6 11">{{CraftDesc|C143|店ぇН忌纒才}}</div>
+<div data-id="144" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="33 8 3 5" data-skilltype2="33 8 3 5">{{CraftDesc|C144|юぇ纒才}}</div>
+<div data-id="145" data-star="3" data-attribute="2" data-racialtype="6" data-mode="1" data-charge="3" data-skilltype="1 20 14" data-skilltype2="1 20 14">{{CraftDesc|C145|芬ぇ臸忌纒}}</div>
+<div data-id="146" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="1 15 32 5" data-skilltype2="1 15 32 5">{{CraftDesc|C146|紇ぇ瑈纒〨}}</div>
+<div data-id="147" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="4 6 11 1" data-skilltype2="4 6 11 1">{{CraftDesc|C147|юぇ╣忌纒}}</div>
+<div data-id="148" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="1" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C148|店ぇ確ネ纒才}}</div>
+<div data-id="149" data-star="3" data-attribute="0" data-racialtype="1" data-mode="7" data-charge="10" data-skilltype="1 7 3 2" data-skilltype2="1 7 3 2">{{CraftDesc|C149|硈ぇ禫纒件}}</div>
+<div data-id="150" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="2" data-skilltype="1 6 28 5" data-skilltype2="1 6 28 5">{{CraftDesc|C150|簒ぇ裸苀纒〨}}</div>
+<div data-id="151" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="1 29 6 5" data-skilltype2="1 29 6 5">{{CraftDesc|C151|芬ぇ裸苀纒件}}</div>
+<div data-id="152" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C152|此ぇ裸苀纒}}</div>
+<div data-id="153" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="5" data-skilltype="9 31 5 1" data-skilltype2="9 31 5 1">{{CraftDesc|C153|模ぇ艶ォ纒}}</div>
+<div data-id="154" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="6" data-skilltype="9 7 1" data-skilltype2="9 7 1">{{CraftDesc|C154|紇ぇ艶ォ纒才}}</div>
+<div data-id="155" data-star="3" data-attribute="0" data-racialtype="1" data-mode="1" data-charge="8" data-skilltype="2 11 1" data-skilltype2="2 11 1">{{CraftDesc|C155|юぇ纒}}</div>
+<div data-id="156" data-star="3" data-attribute="0" data-racialtype="3" data-mode="7" data-charge="10" data-skilltype="1 7 8" data-skilltype2="1 7 8">{{CraftDesc|C156|硈ぇ忌纒件}}</div>
+<div data-id="157" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="8" data-skilltype="1 23 10 5" data-skilltype2="1 23 10 5">{{CraftDesc|C157|юぇ臸忌纒〨}}</div>
+<div data-id="158" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="2 7" data-skilltype2="2 7">{{CraftDesc|C158|店ぇН励纒才}}</div>
+<div data-id="159" data-star="3" data-attribute="0" data-racialtype="2" data-mode="3" data-charge="10" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C159|硈ぇ脋忌纒〨}}</div>
+<div data-id="160" data-star="3" data-attribute="0" data-racialtype="4" data-mode="2" data-charge="1" data-skilltype="1 15 24 5" data-skilltype2="1 15 24 5">{{CraftDesc|C160|店ぇ纒忌纒}}</div>
+<div data-id="161" data-star="3" data-attribute="2" data-racialtype="1" data-mode="3" data-charge="3" data-skilltype="1 29 3 5" data-skilltype2="1 29 3 5">{{CraftDesc|C161|芬ぇ忌纒〨}}</div>
+<div data-id="162" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="1 6 2" data-skilltype2="1 6 2">{{CraftDesc|C162|店ぇ纒〨}}</div>
+<div data-id="163" data-star="3" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="10" data-skilltype="15 7 5 26" data-skilltype2="15 7 5 26">{{CraftDesc|C163|硈ぇ禫纒〨}}</div>
+<div data-id="164" data-star="3" data-attribute="0" data-racialtype="6" data-mode="2" data-charge="8" data-skilltype="1 10" data-skilltype2="1 10">{{CraftDesc|C164|юぇ臸忌纒}}</div>
+<div data-id="165" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C165|此ぇ忌纒件}}</div>
+<div data-id="166" data-star="3" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="8" data-skilltype="1 7 25 5" data-skilltype2="1 7 25 5">{{CraftDesc|C166|юぇ禫纒才}}</div>
+<div data-id="167" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="9" data-skilltype="1 7 31 5" data-skilltype2="1 7 31 5">{{CraftDesc|C167|模ぇ纒忌纒}}</div>
+<div data-id="168" data-star="3" data-attribute="0" data-racialtype="2" data-mode="7" data-charge="10" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C168|硈ぇ裸苀纒件}}</div>
+<div data-id="169" data-star="3" data-attribute="5" data-racialtype="5" data-mode="4" data-charge="7" data-skilltype="1 27 8 5" data-skilltype2="1 27 8 5">{{CraftDesc|C169|紇ぇ臟纠纒才}}</div>
+<div data-id="170" data-star="3" data-attribute="1" data-racialtype="2" data-mode="1" data-charge="1" data-skilltype="9 14 1" data-skilltype2="9 14 1">{{CraftDesc|C170|簒ぇ脋忌纒}}</div>
 <div data-id="171" data-star="1" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C171|店ぇ╣忌纒挡}}</div>
-<div data-id="172" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="8 1" data-skilltype2="8 1">{{CraftDesc|C172|юぇ臟纠纒挡}}</div>
+<div data-id="172" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="1 8" data-skilltype2="1 8">{{CraftDesc|C172|юぇ臟纠纒挡}}</div>
 <div data-id="173" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="1" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C173|店ぇ纒挡}}</div>
-<div data-id="174" data-star="3" data-attribute="0" data-racialtype="3" data-mode="8" data-charge="8" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C174|юぇ忌纒挡}}</div>
-<div data-id="175" data-star="3" data-attribute="1" data-racialtype="0" data-mode="8" data-charge="2" data-skilltype="14 22 5 1" data-skilltype2="14 22 5 1">{{CraftDesc|C175|簒ぇ╣忌纒挡}}</div>
-<div data-id="176" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="12 1" data-skilltype2="12 1">{{CraftDesc|C176|硈ぇ阑纒挡}}</div>
-<div data-id="177" data-star="3" data-attribute="4" data-racialtype="0" data-mode="8" data-charge="5" data-skilltype="5 25 1 15" data-skilltype2="5 25 1 15">{{CraftDesc|C177|模ぇ╣忌纒挡}}</div>
-<div data-id="178" data-star="3" data-attribute="0" data-racialtype="6" data-mode="8" data-charge="10" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C178|硈ぇ臸忌纒挡}}</div>
+<div data-id="174" data-star="3" data-attribute="0" data-racialtype="3" data-mode="8" data-charge="8" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C174|юぇ忌纒挡}}</div>
+<div data-id="175" data-star="3" data-attribute="1" data-racialtype="0" data-mode="8" data-charge="2" data-skilltype="1 14 22 5" data-skilltype2="1 14 22 5">{{CraftDesc|C175|簒ぇ╣忌纒挡}}</div>
+<div data-id="176" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="1 12" data-skilltype2="1 12">{{CraftDesc|C176|硈ぇ阑纒挡}}</div>
+<div data-id="177" data-star="3" data-attribute="4" data-racialtype="0" data-mode="8" data-charge="5" data-skilltype="1 15 25 5" data-skilltype2="1 15 25 5">{{CraftDesc|C177|模ぇ╣忌纒挡}}</div>
+<div data-id="178" data-star="3" data-attribute="0" data-racialtype="6" data-mode="8" data-charge="10" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C178|硈ぇ臸忌纒挡}}</div>
 <div data-id="179" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C179|юぇ膎纒}}</div>
 <div data-id="180" data-star="1" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C180|硈ぇ忌纒}}</div>
-<div data-id="181" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="2" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C181|簒ぇ禫纒}}</div>
-<div data-id="182" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="3" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C182|芬ぇ禫纒}}</div>
-<div data-id="183" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="4" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C183|此ぇ禫纒}}</div>
-<div data-id="184" data-star="3" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="6" data-skilltype="5 1 26 15" data-skilltype2="5 1 26 15">{{CraftDesc|C184|紇ぇ忌纒}}</div>
-<div data-id="185" data-star="3" data-attribute="0" data-racialtype="6" data-mode="6" data-charge="8" data-skilltype="10 6 1" data-skilltype2="10 6 1">{{CraftDesc|C185|юぇ臸忌纒}}</div>
-<div data-id="186" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="11 5 7 31" data-skilltype2="11 5 7 31">{{CraftDesc|C186|模ぇ瑈纒}}</div>
-<div data-id="187" data-star="3" data-attribute="0" data-racialtype="4" data-mode="6" data-charge="10" data-skilltype="5 7 1 24" data-skilltype2="5 7 1 24">{{CraftDesc|C187|硈ぇほ跑纒}}</div>
-<div data-id="188" data-star="3" data-attribute="0" data-racialtype="3" data-mode="6" data-charge="10" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C188|硈ぇ忌纒}}</div>
-<div data-id="189" data-star="3" data-attribute="0" data-racialtype="2" data-mode="6" data-charge="1" data-skilltype="5 8 7 29" data-skilltype2="5 8 7 29">{{CraftDesc|C189|店ぇ臟纠纒}}</div>
-<div data-id="190" data-star="3" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="22 5 16 1" data-skilltype2="22 5 16 1">{{CraftDesc|C190|簒ぇ忌纒}}</div>
-<div data-id="191" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="22 5 7 1" data-skilltype2="22 5 7 1">{{CraftDesc|C191|簒ぇほ跑纒}}</div>
-<div data-id="192" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="5 6 15 28" data-skilltype2="5 6 15 28">{{CraftDesc|C192|簒ぇ瑈纒才}}</div>
-<div data-id="193" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="5 7 1 23" data-skilltype2="5 7 1 23">{{CraftDesc|C193|芬ぇ╣忌纒〨}}</div>
-<div data-id="194" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="5 7 10 29" data-skilltype2="5 7 10 29">{{CraftDesc|C194|芬ぇ瑈纒〨}}</div>
-<div data-id="195" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="5 7 1 24" data-skilltype2="5 7 1 24">{{CraftDesc|C195|此ぇほ跑纒件}}</div>
-<div data-id="196" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="9" data-skilltype="16 5 30" data-skilltype2="16 5 30">{{CraftDesc|C196|此ぇ瑈纒才}}</div>
-<div data-id="197" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="5 7 25 1" data-skilltype2="5 7 25 1">{{CraftDesc|C197|模ぇほ跑纒}}</div>
-<div data-id="198" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="11 5 3 31" data-skilltype2="11 5 3 31">{{CraftDesc|C198|模ぇ瑈纒件}}</div>
-<div data-id="199" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="7" data-skilltype="5 7 1 26" data-skilltype2="5 7 1 26">{{CraftDesc|C199|紇ぇ禫纒}}</div>
-<div data-id="200" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="13 11 32 12 5" data-skilltype2="13 11 32 12 5">{{CraftDesc|C200|紇ぇ瑈纒才}}</div>
-<div data-id="201" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C201|芬ぇ︹纒}}</div>
-<div data-id="202" data-star="3" data-attribute="5" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C202|юぇ脋忌纒}}</div>
-<div data-id="203" data-star="3" data-attribute="1" data-racialtype="5" data-mode="3" data-charge="2" data-skilltype="22 5 1 10" data-skilltype2="22 5 1 10">{{CraftDesc|C203|簒ぇН忌纒〨}}</div>
-<div data-id="204" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="5 1 26 15" data-skilltype2="5 1 26 15">{{CraftDesc|C204|紇ぇ纒忌纒}}</div>
-<div data-id="205" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C205|模ぇ瓜乃纒才}}</div>
-<div data-id="206" data-star="3" data-attribute="3" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="5 6 30 1" data-skilltype2="5 6 30 1">{{CraftDesc|C206|此ぇ瑈纒}}</div>
-<div data-id="207" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="10" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C207|硈ぇН忌纒〨}}</div>
-<div data-id="208" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="8" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C208|юぇН忌纒才}}</div>
-<div data-id="209" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C209|╄ぇ禫纒才}}</div>
-<div data-id="210" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="1" data-skilltype="27 11 5 7" data-skilltype2="27 11 5 7">{{CraftDesc|C210|店ぇ禫纒}}</div>
-<div data-id="211" data-star="3" data-attribute="0" data-racialtype="5" data-mode="7" data-charge="1" data-skilltype="5 6 1 33" data-skilltype2="5 6 1 33">{{CraftDesc|C211|店ぇН忌纒件}}</div>
-<div data-id="212" data-star="3" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="12 10 13 1" data-skilltype2="12 10 13 1">{{CraftDesc|C212|簒ぇ纒}}</div>
-<div data-id="213" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="22 5 1 2" data-skilltype2="22 5 1 2">{{CraftDesc|C213|簒ぇ纒}}</div>
-<div data-id="214" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="22 8 5 7" data-skilltype2="22 8 5 7">{{CraftDesc|C214|簒ぇほ跑纒〨}}</div>
-<div data-id="215" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="12 11 1" data-skilltype2="12 11 1">{{CraftDesc|C215|簒ぇ╣忌纒才}}</div>
-<div data-id="216" data-star="3" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|C216|簒ぇ遁﹀纒件}}</div>
-<div data-id="217" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|C217|芬ぇ遁﹀纒}}</div>
-<div data-id="218" data-star="3" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="12 10 13 1" data-skilltype2="12 10 13 1">{{CraftDesc|C218|芬ぇ纒}}</div>
-<div data-id="219" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="5 1 2 23" data-skilltype2="5 1 2 23">{{CraftDesc|C219|芬ぇほ跑纒〨}}</div>
-<div data-id="220" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="8 5 7 23" data-skilltype2="8 5 7 23">{{CraftDesc|C220|芬ぇほ跑纒才}}</div>
-<div data-id="221" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="12 11 1" data-skilltype2="12 11 1">{{CraftDesc|C221|芬ぇ阑纒件}}</div>
-<div data-id="222" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="12 11 1" data-skilltype2="12 11 1">{{CraftDesc|C222|此ぇ╣忌纒}}</div>
-<div data-id="223" data-star="3" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|C223|此ぇ遁﹀纒}}</div>
-<div data-id="224" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="12 10 13 1" data-skilltype2="12 10 13 1">{{CraftDesc|C224|此ぇ纒〨}}</div>
-<div data-id="225" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="2 5 1 24" data-skilltype2="2 5 1 24">{{CraftDesc|C225|此ぇ纒才}}</div>
-<div data-id="226" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="7 8 5 24" data-skilltype2="7 8 5 24">{{CraftDesc|C226|此ぇ臟纠纒件}}</div>
-<div data-id="227" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="8 5 25 7" data-skilltype2="8 5 25 7">{{CraftDesc|C227|模ぇ臟纠纒}}</div>
-<div data-id="228" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="12 11 1" data-skilltype2="12 11 1">{{CraftDesc|C228|模ぇ阑纒}}</div>
-<div data-id="229" data-star="3" data-attribute="4" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|C229|模ぇ遁﹀纒〨}}</div>
-<div data-id="230" data-star="3" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="12 10 13 1" data-skilltype2="12 10 13 1">{{CraftDesc|C230|模ぇ纒才}}</div>
-<div data-id="231" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="1 5 25 2" data-skilltype2="1 5 25 2">{{CraftDesc|C231|模ぇ纒件}}</div>
-<div data-id="232" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="2 5 1 26" data-skilltype2="2 5 1 26">{{CraftDesc|C232|紇ぇ纒}}</div>
-<div data-id="233" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="8 5 3 26" data-skilltype2="8 5 3 26">{{CraftDesc|C233|紇ぇ纒}}</div>
-<div data-id="234" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="12 11 1" data-skilltype2="12 11 1">{{CraftDesc|C234|紇ぇ阑纒〨}}</div>
-<div data-id="235" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="6 4" data-skilltype2="6 4">{{CraftDesc|C235|紇ぇ瘆ヒ纒才}}</div>
-<div data-id="236" data-star="3" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="8" data-skilltype="12 10 13 1" data-skilltype2="12 10 13 1">{{CraftDesc|C236|紇ぇ纒件}}</div>
+<div data-id="181" data-star="2" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C181|簒ぇ禫纒}}</div>
+<div data-id="182" data-star="2" data-attribute="2" data-racialtype="0" data-mode="6" data-charge="3" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C182|芬ぇ禫纒}}</div>
+<div data-id="183" data-star="2" data-attribute="3" data-racialtype="0" data-mode="6" data-charge="4" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C183|此ぇ禫纒}}</div>
+<div data-id="184" data-star="3" data-attribute="5" data-racialtype="0" data-mode="6" data-charge="6" data-skilltype="1 15 5 26" data-skilltype2="1 15 5 26">{{CraftDesc|C184|紇ぇ忌纒}}</div>
+<div data-id="185" data-star="3" data-attribute="0" data-racialtype="6" data-mode="6" data-charge="8" data-skilltype="1 6 10" data-skilltype2="1 6 10">{{CraftDesc|C185|юぇ臸忌纒}}</div>
+<div data-id="186" data-star="3" data-attribute="4" data-racialtype="0" data-mode="6" data-charge="5" data-skilltype="31 7 11 5" data-skilltype2="31 7 11 5">{{CraftDesc|C186|模ぇ瑈纒}}</div>
+<div data-id="187" data-star="3" data-attribute="0" data-racialtype="4" data-mode="6" data-charge="10" data-skilltype="1 7 24 5" data-skilltype2="1 7 24 5">{{CraftDesc|C187|硈ぇほ跑纒}}</div>
+<div data-id="188" data-star="3" data-attribute="0" data-racialtype="3" data-mode="6" data-charge="10" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C188|硈ぇ忌纒}}</div>
+<div data-id="189" data-star="3" data-attribute="0" data-racialtype="2" data-mode="6" data-charge="1" data-skilltype="7 8 5 29" data-skilltype2="7 8 5 29">{{CraftDesc|C189|店ぇ臟纠纒}}</div>
+<div data-id="190" data-star="3" data-attribute="1" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="1 22 5 16" data-skilltype2="1 22 5 16">{{CraftDesc|C190|簒ぇ忌纒}}</div>
+<div data-id="191" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="1 7 22 5" data-skilltype2="1 7 22 5">{{CraftDesc|C191|簒ぇほ跑纒}}</div>
+<div data-id="192" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="15 6 28 5" data-skilltype2="15 6 28 5">{{CraftDesc|C192|簒ぇ瑈纒才}}</div>
+<div data-id="193" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="3" data-skilltype="1 7 23 5" data-skilltype2="1 7 23 5">{{CraftDesc|C193|芬ぇ╣忌纒〨}}</div>
+<div data-id="194" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="7 29 10 5" data-skilltype2="7 29 10 5">{{CraftDesc|C194|芬ぇ瑈纒〨}}</div>
+<div data-id="195" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="4" data-skilltype="1 7 24 5" data-skilltype2="1 7 24 5">{{CraftDesc|C195|此ぇほ跑纒件}}</div>
+<div data-id="196" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="9" data-skilltype="30 5 16" data-skilltype2="30 5 16">{{CraftDesc|C196|此ぇ瑈纒才}}</div>
+<div data-id="197" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="5" data-skilltype="1 7 25 5" data-skilltype2="1 7 25 5">{{CraftDesc|C197|模ぇほ跑纒}}</div>
+<div data-id="198" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="31 3 5 11" data-skilltype2="31 3 5 11">{{CraftDesc|C198|模ぇ瑈纒件}}</div>
+<div data-id="199" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="7" data-skilltype="1 7 5 26" data-skilltype2="1 7 5 26">{{CraftDesc|C199|紇ぇ禫纒}}</div>
+<div data-id="200" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="11 32 12 13 5" data-skilltype2="11 32 12 13 5">{{CraftDesc|C200|紇ぇ瑈纒才}}</div>
+<div data-id="201" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="15 7 1" data-skilltype2="15 7 1">{{CraftDesc|C201|芬ぇ︹纒}}</div>
+<div data-id="202" data-star="3" data-attribute="5" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C202|юぇ脋忌纒}}</div>
+<div data-id="203" data-star="3" data-attribute="1" data-racialtype="5" data-mode="3" data-charge="2" data-skilltype="1 22 10 5" data-skilltype2="1 22 10 5">{{CraftDesc|C203|簒ぇН忌纒〨}}</div>
+<div data-id="204" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="1 15 5 26" data-skilltype2="1 15 5 26">{{CraftDesc|C204|紇ぇ纒忌纒}}</div>
+<div data-id="205" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C205|模ぇ瓜乃纒才}}</div>
+<div data-id="206" data-star="3" data-attribute="3" data-racialtype="6" data-mode="2" data-charge="1" data-skilltype="1 6 30 5" data-skilltype2="1 6 30 5">{{CraftDesc|C206|此ぇ瑈纒}}</div>
+<div data-id="207" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="10" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C207|硈ぇН忌纒〨}}</div>
+<div data-id="208" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="8" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C208|юぇН忌纒才}}</div>
+<div data-id="209" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="9" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C209|╄ぇ禫纒才}}</div>
+<div data-id="210" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="1" data-skilltype="27 7 5 11" data-skilltype2="27 7 5 11">{{CraftDesc|C210|店ぇ禫纒}}</div>
+<div data-id="211" data-star="3" data-attribute="0" data-racialtype="5" data-mode="7" data-charge="1" data-skilltype="1 33 6 5" data-skilltype2="1 33 6 5">{{CraftDesc|C211|店ぇН忌纒件}}</div>
+<div data-id="212" data-star="3" data-attribute="1" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="1 12 13 10" data-skilltype2="1 12 13 10">{{CraftDesc|C212|簒ぇ纒}}</div>
+<div data-id="213" data-star="3" data-attribute="1" data-racialtype="0" data-mode="2" data-charge="2" data-skilltype="2 22 5 1" data-skilltype2="2 22 5 1">{{CraftDesc|C213|簒ぇ纒}}</div>
+<div data-id="214" data-star="3" data-attribute="1" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="7 8 22 5" data-skilltype2="7 8 22 5">{{CraftDesc|C214|簒ぇほ跑纒〨}}</div>
+<div data-id="215" data-star="3" data-attribute="1" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="1 12 11" data-skilltype2="1 12 11">{{CraftDesc|C215|簒ぇ╣忌纒才}}</div>
+<div data-id="216" data-star="3" data-attribute="1" data-racialtype="0" data-mode="7" data-charge="10" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C216|簒ぇ遁﹀纒件}}</div>
+<div data-id="217" data-star="3" data-attribute="2" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C217|芬ぇ遁﹀纒}}</div>
+<div data-id="218" data-star="3" data-attribute="2" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="1 12 13 10" data-skilltype2="1 12 13 10">{{CraftDesc|C218|芬ぇ纒}}</div>
+<div data-id="219" data-star="3" data-attribute="2" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="2 23 5 1" data-skilltype2="2 23 5 1">{{CraftDesc|C219|芬ぇほ跑纒〨}}</div>
+<div data-id="220" data-star="3" data-attribute="2" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="7 8 5 23" data-skilltype2="7 8 5 23">{{CraftDesc|C220|芬ぇほ跑纒才}}</div>
+<div data-id="221" data-star="3" data-attribute="2" data-racialtype="0" data-mode="7" data-charge="3" data-skilltype="1 12 11" data-skilltype2="1 12 11">{{CraftDesc|C221|芬ぇ阑纒件}}</div>
+<div data-id="222" data-star="3" data-attribute="3" data-racialtype="0" data-mode="1" data-charge="4" data-skilltype="1 12 11" data-skilltype2="1 12 11">{{CraftDesc|C222|此ぇ╣忌纒}}</div>
+<div data-id="223" data-star="3" data-attribute="3" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C223|此ぇ遁﹀纒}}</div>
+<div data-id="224" data-star="3" data-attribute="3" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="1 12 13 10" data-skilltype2="1 12 13 10">{{CraftDesc|C224|此ぇ纒〨}}</div>
+<div data-id="225" data-star="3" data-attribute="3" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="2 24 5 1" data-skilltype2="2 24 5 1">{{CraftDesc|C225|此ぇ纒才}}</div>
+<div data-id="226" data-star="3" data-attribute="3" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="7 8 24 5" data-skilltype2="7 8 24 5">{{CraftDesc|C226|此ぇ臟纠纒件}}</div>
+<div data-id="227" data-star="3" data-attribute="4" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="7 8 25 5" data-skilltype2="7 8 25 5">{{CraftDesc|C227|模ぇ臟纠纒}}</div>
+<div data-id="228" data-star="3" data-attribute="4" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="1 12 11" data-skilltype2="1 12 11">{{CraftDesc|C228|模ぇ阑纒}}</div>
+<div data-id="229" data-star="3" data-attribute="4" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C229|模ぇ遁﹀纒〨}}</div>
+<div data-id="230" data-star="3" data-attribute="4" data-racialtype="0" data-mode="4" data-charge="5" data-skilltype="1 12 13 10" data-skilltype2="1 12 13 10">{{CraftDesc|C230|模ぇ纒才}}</div>
+<div data-id="231" data-star="3" data-attribute="4" data-racialtype="0" data-mode="7" data-charge="1" data-skilltype="2 25 5 1" data-skilltype2="2 25 5 1">{{CraftDesc|C231|模ぇ纒件}}</div>
+<div data-id="232" data-star="3" data-attribute="5" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="2 1 5 26" data-skilltype2="2 1 5 26">{{CraftDesc|C232|紇ぇ纒}}</div>
+<div data-id="233" data-star="3" data-attribute="5" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="8 3 5 26" data-skilltype2="8 3 5 26">{{CraftDesc|C233|紇ぇ纒}}</div>
+<div data-id="234" data-star="3" data-attribute="5" data-racialtype="0" data-mode="3" data-charge="6" data-skilltype="1 12 11" data-skilltype2="1 12 11">{{CraftDesc|C234|紇ぇ阑纒〨}}</div>
+<div data-id="235" data-star="3" data-attribute="5" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="4 6" data-skilltype2="4 6">{{CraftDesc|C235|紇ぇ瘆ヒ纒才}}</div>
+<div data-id="236" data-star="3" data-attribute="5" data-racialtype="0" data-mode="7" data-charge="8" data-skilltype="1 12 13 10" data-skilltype2="1 12 13 10">{{CraftDesc|C236|紇ぇ纒件}}</div>
 <div data-id="237" data-star="1" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="8" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C237|юぇ诀忌纒挡}}</div>
-<div data-id="238" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C238|硈ぇ纞纒挡}}</div>
-<div data-id="239" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="11 1" data-skilltype2="11 1">{{CraftDesc|C239|硈ぇ╣忌纒挡}}</div>
-<div data-id="240" data-star="3" data-attribute="0" data-racialtype="7" data-mode="1" data-charge="1" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C240|店ぇ诀忌纒}}</div>
-<div data-id="241" data-star="3" data-attribute="0" data-racialtype="7" data-mode="3" data-charge="8" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C241|юぇ诀忌纒〨}}</div>
-<div data-id="242" data-star="3" data-attribute="0" data-racialtype="7" data-mode="4" data-charge="10" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C242|硈ぇ诀忌纒才}}</div>
-<div data-id="243" data-star="3" data-attribute="0" data-racialtype="7" data-mode="7" data-charge="1" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C243|店ぇ诀忌纒件}}</div>
-<div data-id="244" data-star="3" data-attribute="0" data-racialtype="7" data-mode="2" data-charge="8" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C244|юぇ诀忌纒}}</div>
-<div data-id="245" data-star="3" data-attribute="0" data-racialtype="7" data-mode="8" data-charge="10" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C245|硈ぇ诀忌纒挡}}</div>
+<div data-id="238" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C238|硈ぇ纞纒挡}}</div>
+<div data-id="239" data-star="2" data-attribute="0" data-racialtype="0" data-mode="8" data-charge="10" data-skilltype="1 11" data-skilltype2="1 11">{{CraftDesc|C239|硈ぇ╣忌纒挡}}</div>
+<div data-id="240" data-star="3" data-attribute="0" data-racialtype="7" data-mode="1" data-charge="1" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C240|店ぇ诀忌纒}}</div>
+<div data-id="241" data-star="3" data-attribute="0" data-racialtype="7" data-mode="3" data-charge="8" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C241|юぇ诀忌纒〨}}</div>
+<div data-id="242" data-star="3" data-attribute="0" data-racialtype="7" data-mode="4" data-charge="10" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C242|硈ぇ诀忌纒才}}</div>
+<div data-id="243" data-star="3" data-attribute="0" data-racialtype="7" data-mode="7" data-charge="1" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C243|店ぇ诀忌纒件}}</div>
+<div data-id="244" data-star="3" data-attribute="0" data-racialtype="7" data-mode="2" data-charge="8" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C244|юぇ诀忌纒}}</div>
+<div data-id="245" data-star="3" data-attribute="0" data-racialtype="7" data-mode="8" data-charge="10" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C245|硈ぇ诀忌纒挡}}</div>
 <div data-id="246" data-star="1" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="1" data-skilltype2="1">{{CraftDesc|C246|店ぇ╣忌纒}}</div>
 <div data-id="247" data-star="2" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C247|簒ぇ纒}}</div>
 <div data-id="248" data-star="2" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C248|芬ぇ纒}}</div>
 <div data-id="249" data-star="2" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C249|此ぇ纒}}</div>
 <div data-id="250" data-star="2" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C250|模ぇ纒}}</div>
 <div data-id="251" data-star="2" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C251|紇ぇ纒}}</div>
-<div data-id="252" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="11 1 2" data-skilltype2="11 1 2">{{CraftDesc|C252|硈ぇ纒}}</div>
-<div data-id="253" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="12 1 2" data-skilltype2="12 1 2">{{CraftDesc|C253|硈ぇ╣忌纒}}</div>
-<div data-id="254" data-star="3" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C254|簒ぇ╣忌纒}}</div>
-<div data-id="255" data-star="3" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C255|芬ぇ╣忌纒}}</div>
-<div data-id="256" data-star="3" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C256|此ぇ╣忌纒}}</div>
-<div data-id="257" data-star="3" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C257|模ぇ╣忌纒}}</div>
-<div data-id="258" data-star="3" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C258|紇ぇ╣忌纒}}</div>
-<div data-id="259" data-star="3" data-attribute="0" data-racialtype="3" data-mode="9" data-charge="8" data-skilltype="12 7 1" data-skilltype2="12 7 1">{{CraftDesc|C259|硈ぇ禫纒}}</div>
-<div data-id="260" data-star="3" data-attribute="0" data-racialtype="6" data-mode="9" data-charge="1" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C260|店ぇ禫纒}}</div>
-<div data-id="261" data-star="3" data-attribute="0" data-racialtype="1" data-mode="9" data-charge="8" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C261|硈ぇ忌纒}}</div>
-<div data-id="262" data-star="3" data-attribute="0" data-racialtype="2" data-mode="9" data-charge="1" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C262|店ぇ脋忌纒}}</div>
-<div data-id="263" data-star="3" data-attribute="0" data-racialtype="4" data-mode="9" data-charge="8" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C263|硈ぇ纒忌纒}}</div>
-<div data-id="264" data-star="3" data-attribute="0" data-racialtype="5" data-mode="9" data-charge="1" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C264|店ぇН忌纒}}</div>
-<div data-id="265" data-star="3" data-attribute="0" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C265|硈ぇ诀忌纒}}</div>
-<div data-id="266" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="5 7 1 23" data-skilltype2="5 7 1 23">{{CraftDesc|C266|芬ぇ诀忌纒}}</div>
-<div data-id="267" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="5 30 1" data-skilltype2="5 30 1">{{CraftDesc|C267|此ぇ诀忌纒}}</div>
-<div data-id="268" data-star="3" data-attribute="1" data-racialtype="6" data-mode="1" data-charge="2" data-skilltype="6 1 7" data-skilltype2="6 1 7">{{CraftDesc|C268|簒ぇ臸忌纒}}</div>
-<div data-id="269" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="22 5 3 1" data-skilltype2="22 5 3 1">{{CraftDesc|C269|簒ぇ忌纒〨}}</div>
-<div data-id="270" data-star="3" data-attribute="1" data-racialtype="3" data-mode="2" data-charge="2" data-skilltype="12 13 1 15" data-skilltype2="12 13 1 15">{{CraftDesc|C270|簒ぇ忌纒}}</div>
-<div data-id="271" data-star="3" data-attribute="1" data-racialtype="5" data-mode="4" data-charge="2" data-skilltype="7 9 1" data-skilltype2="7 9 1">{{CraftDesc|C271|簒ぇН忌纒才}}</div>
-<div data-id="272" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="11 6 1" data-skilltype2="11 6 1">{{CraftDesc|C272|芬ぇН忌纒}}</div>
-<div data-id="273" data-star="3" data-attribute="2" data-racialtype="4" data-mode="3" data-charge="3" data-skilltype="7 3 1" data-skilltype2="7 3 1">{{CraftDesc|C273|芬ぇ纒忌纒〨}}</div>
-<div data-id="274" data-star="3" data-attribute="2" data-racialtype="2" data-mode="7" data-charge="3" data-skilltype="5 7 1 23" data-skilltype2="5 7 1 23">{{CraftDesc|C274|芬ぇ脋忌纒件}}</div>
-<div data-id="275" data-star="3" data-attribute="3" data-racialtype="2" data-mode="1" data-charge="4" data-skilltype="12 13 1 15" data-skilltype2="12 13 1 15">{{CraftDesc|C275|此ぇ脋忌纒}}</div>
-<div data-id="276" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C276|此ぇ忌纒}}</div>
-<div data-id="277" data-star="3" data-attribute="3" data-racialtype="1" data-mode="2" data-charge="4" data-skilltype="6 1 4" data-skilltype2="6 1 4">{{CraftDesc|C277|此ぇ忌纒}}</div>
-<div data-id="278" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="5 7 30 1" data-skilltype2="5 7 30 1">{{CraftDesc|C278|此ぇН忌纒才}}</div>
-<div data-id="279" data-star="3" data-attribute="4" data-racialtype="4" data-mode="1" data-charge="5" data-skilltype="5 7 1 31" data-skilltype2="5 7 1 31">{{CraftDesc|C279|模ぇ纒忌纒}}</div>
-<div data-id="280" data-star="3" data-attribute="4" data-racialtype="2" data-mode="3" data-charge="5" data-skilltype="3 1" data-skilltype2="3 1">{{CraftDesc|C280|模ぇ脋忌纒〨}}</div>
-<div data-id="281" data-star="3" data-attribute="4" data-racialtype="6" data-mode="7" data-charge="5" data-skilltype="16 5 25 1" data-skilltype2="16 5 25 1">{{CraftDesc|C281|模ぇ臸忌纒件}}</div>
-<div data-id="282" data-star="3" data-attribute="4" data-racialtype="1" data-mode="4" data-charge="5" data-skilltype="12 7 13 1" data-skilltype2="12 7 13 1">{{CraftDesc|C282|模ぇ忌纒才}}</div>
-<div data-id="283" data-star="3" data-attribute="5" data-racialtype="5" data-mode="1" data-charge="6" data-skilltype="7 9 1" data-skilltype2="7 9 1">{{CraftDesc|C283|紇ぇН忌纒}}</div>
-<div data-id="284" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="5 1 26 15" data-skilltype2="5 1 26 15">{{CraftDesc|C284|紇ぇ忌纒〨}}</div>
-<div data-id="285" data-star="3" data-attribute="5" data-racialtype="4" data-mode="2" data-charge="6" data-skilltype="11 8 1" data-skilltype2="11 8 1">{{CraftDesc|C285|紇ぇ纒忌纒}}</div>
-<div data-id="286" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="5 7 1 32" data-skilltype2="5 7 1 32">{{CraftDesc|C286|紇ぇ脋忌纒件}}</div>
-<div data-id="287" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="12 7 1 2" data-skilltype2="12 7 1 2">{{CraftDesc|C287|店ぇ阑纒}}</div>
-<div data-id="288" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="12 7 1 2" data-skilltype2="12 7 1 2">{{CraftDesc|C288|店ぇ阑纒〨}}</div>
-<div data-id="289" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="12 7 1 2" data-skilltype2="12 7 1 2">{{CraftDesc|C289|店ぇ阑纒}}</div>
-<div data-id="290" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="12 7 1 2" data-skilltype2="12 7 1 2">{{CraftDesc|C290|店ぇ阑纒才}}</div>
-<div data-id="291" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="12 7 1 2" data-skilltype2="12 7 1 2">{{CraftDesc|C291|店ぇ阑纒}}</div>
-<div data-id="292" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="12 6 1 2" data-skilltype2="12 6 1 2">{{CraftDesc|C292|店ぇ阑纒}}</div>
-<div data-id="293" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C293|юぇН忌纒}}</div>
-<div data-id="294" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C294|юぇ脋忌纒〨}}</div>
-<div data-id="295" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C295|юぇ禫纒}}</div>
-<div data-id="296" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C296|юぇ忌纒才}}</div>
-<div data-id="297" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C297|юぇ忌纒}}</div>
-<div data-id="298" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="8" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C298|юぇ纒忌纒}}</div>
-<div data-id="299" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="5 7 9 24" data-skilltype2="5 7 9 24">{{CraftDesc|C299|硈ぇほ跑纒}}</div>
-<div data-id="300" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="22 5 7 9" data-skilltype2="22 5 7 9">{{CraftDesc|C300|硈ぇほ跑纒〨}}</div>
-<div data-id="301" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="5 7 9 23" data-skilltype2="5 7 9 23">{{CraftDesc|C301|硈ぇほ跑纒}}</div>
-<div data-id="302" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="5 7 9 26" data-skilltype2="5 7 9 26">{{CraftDesc|C302|硈ぇほ跑纒才}}</div>
-<div data-id="303" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="5 7 9 25" data-skilltype2="5 7 9 25">{{CraftDesc|C303|硈ぇ艶ォ纒}}</div>
-<div data-id="304" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="6 3 1" data-skilltype2="6 3 1">{{CraftDesc|C304|硈ぇ裸苀纒}}</div>
-<div data-id="305" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C305|模ぇ禫纒件}}</div>
-<div data-id="306" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="5 7 1 26" data-skilltype2="5 7 1 26">{{CraftDesc|C306|紇ぇ禫纒}}</div>
-<div data-id="307" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="12 1" data-skilltype2="12 1">{{CraftDesc|C307|юぇ阑纒┒}}</div>
+<div data-id="252" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="1 11 2" data-skilltype2="1 11 2">{{CraftDesc|C252|硈ぇ纒}}</div>
+<div data-id="253" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="1 12 2" data-skilltype2="1 12 2">{{CraftDesc|C253|硈ぇ╣忌纒}}</div>
+<div data-id="254" data-star="3" data-attribute="1" data-racialtype="0" data-mode="9" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C254|簒ぇ╣忌纒}}</div>
+<div data-id="255" data-star="3" data-attribute="2" data-racialtype="0" data-mode="9" data-charge="3" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C255|芬ぇ╣忌纒}}</div>
+<div data-id="256" data-star="3" data-attribute="3" data-racialtype="0" data-mode="9" data-charge="4" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C256|此ぇ╣忌纒}}</div>
+<div data-id="257" data-star="3" data-attribute="4" data-racialtype="0" data-mode="9" data-charge="5" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C257|模ぇ╣忌纒}}</div>
+<div data-id="258" data-star="3" data-attribute="5" data-racialtype="0" data-mode="9" data-charge="6" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C258|紇ぇ╣忌纒}}</div>
+<div data-id="259" data-star="3" data-attribute="0" data-racialtype="3" data-mode="9" data-charge="8" data-skilltype="1 7 12" data-skilltype2="1 7 12">{{CraftDesc|C259|硈ぇ禫纒}}</div>
+<div data-id="260" data-star="3" data-attribute="0" data-racialtype="6" data-mode="9" data-charge="1" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C260|店ぇ禫纒}}</div>
+<div data-id="261" data-star="3" data-attribute="0" data-racialtype="1" data-mode="9" data-charge="8" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C261|硈ぇ忌纒}}</div>
+<div data-id="262" data-star="3" data-attribute="0" data-racialtype="2" data-mode="9" data-charge="1" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C262|店ぇ脋忌纒}}</div>
+<div data-id="263" data-star="3" data-attribute="0" data-racialtype="4" data-mode="9" data-charge="8" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C263|硈ぇ纒忌纒}}</div>
+<div data-id="264" data-star="3" data-attribute="0" data-racialtype="5" data-mode="9" data-charge="1" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C264|店ぇН忌纒}}</div>
+<div data-id="265" data-star="3" data-attribute="0" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C265|硈ぇ诀忌纒}}</div>
+<div data-id="266" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="1 7 23 5" data-skilltype2="1 7 23 5">{{CraftDesc|C266|芬ぇ诀忌纒}}</div>
+<div data-id="267" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="8" data-skilltype="1 30 5" data-skilltype2="1 30 5">{{CraftDesc|C267|此ぇ诀忌纒}}</div>
+<div data-id="268" data-star="3" data-attribute="1" data-racialtype="6" data-mode="1" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C268|簒ぇ臸忌纒}}</div>
+<div data-id="269" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="1 22 3 5" data-skilltype2="1 22 3 5">{{CraftDesc|C269|簒ぇ忌纒〨}}</div>
+<div data-id="270" data-star="3" data-attribute="1" data-racialtype="3" data-mode="2" data-charge="2" data-skilltype="1 15 12 13" data-skilltype2="1 15 12 13">{{CraftDesc|C270|簒ぇ忌纒}}</div>
+<div data-id="271" data-star="3" data-attribute="1" data-racialtype="5" data-mode="4" data-charge="2" data-skilltype="9 7 1" data-skilltype2="9 7 1">{{CraftDesc|C271|簒ぇН忌纒才}}</div>
+<div data-id="272" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="1 6 11" data-skilltype2="1 6 11">{{CraftDesc|C272|芬ぇН忌纒}}</div>
+<div data-id="273" data-star="3" data-attribute="2" data-racialtype="4" data-mode="3" data-charge="3" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C273|芬ぇ纒忌纒〨}}</div>
+<div data-id="274" data-star="3" data-attribute="2" data-racialtype="2" data-mode="7" data-charge="3" data-skilltype="1 7 23 5" data-skilltype2="1 7 23 5">{{CraftDesc|C274|芬ぇ脋忌纒件}}</div>
+<div data-id="275" data-star="3" data-attribute="3" data-racialtype="2" data-mode="1" data-charge="4" data-skilltype="1 15 12 13" data-skilltype2="1 15 12 13">{{CraftDesc|C275|此ぇ脋忌纒}}</div>
+<div data-id="276" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C276|此ぇ忌纒}}</div>
+<div data-id="277" data-star="3" data-attribute="3" data-racialtype="1" data-mode="2" data-charge="4" data-skilltype="1 6 4" data-skilltype2="1 6 4">{{CraftDesc|C277|此ぇ忌纒}}</div>
+<div data-id="278" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="1 7 30 5" data-skilltype2="1 7 30 5">{{CraftDesc|C278|此ぇН忌纒才}}</div>
+<div data-id="279" data-star="3" data-attribute="4" data-racialtype="4" data-mode="1" data-charge="5" data-skilltype="1 7 31 5" data-skilltype2="1 7 31 5">{{CraftDesc|C279|模ぇ纒忌纒}}</div>
+<div data-id="280" data-star="3" data-attribute="4" data-racialtype="2" data-mode="3" data-charge="5" data-skilltype="1 3" data-skilltype2="1 3">{{CraftDesc|C280|模ぇ脋忌纒〨}}</div>
+<div data-id="281" data-star="3" data-attribute="4" data-racialtype="6" data-mode="7" data-charge="5" data-skilltype="1 25 5 16" data-skilltype2="1 25 5 16">{{CraftDesc|C281|模ぇ臸忌纒件}}</div>
+<div data-id="282" data-star="3" data-attribute="4" data-racialtype="1" data-mode="4" data-charge="5" data-skilltype="1 7 12 13" data-skilltype2="1 7 12 13">{{CraftDesc|C282|模ぇ忌纒才}}</div>
+<div data-id="283" data-star="3" data-attribute="5" data-racialtype="5" data-mode="1" data-charge="6" data-skilltype="9 7 1" data-skilltype2="9 7 1">{{CraftDesc|C283|紇ぇН忌纒}}</div>
+<div data-id="284" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="1 15 5 26" data-skilltype2="1 15 5 26">{{CraftDesc|C284|紇ぇ忌纒〨}}</div>
+<div data-id="285" data-star="3" data-attribute="5" data-racialtype="4" data-mode="2" data-charge="6" data-skilltype="1 8 11" data-skilltype2="1 8 11">{{CraftDesc|C285|紇ぇ纒忌纒}}</div>
+<div data-id="286" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="1 7 32 5" data-skilltype2="1 7 32 5">{{CraftDesc|C286|紇ぇ脋忌纒件}}</div>
+<div data-id="287" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="1" data-skilltype="1 7 12 2" data-skilltype2="1 7 12 2">{{CraftDesc|C287|店ぇ阑纒}}</div>
+<div data-id="288" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="1" data-skilltype="1 7 12 2" data-skilltype2="1 7 12 2">{{CraftDesc|C288|店ぇ阑纒〨}}</div>
+<div data-id="289" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="1" data-skilltype="1 7 12 2" data-skilltype2="1 7 12 2">{{CraftDesc|C289|店ぇ阑纒}}</div>
+<div data-id="290" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="1" data-skilltype="1 7 12 2" data-skilltype2="1 7 12 2">{{CraftDesc|C290|店ぇ阑纒才}}</div>
+<div data-id="291" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="1" data-skilltype="1 7 12 2" data-skilltype2="1 7 12 2">{{CraftDesc|C291|店ぇ阑纒}}</div>
+<div data-id="292" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="1" data-skilltype="1 12 6 2" data-skilltype2="1 12 6 2">{{CraftDesc|C292|店ぇ阑纒}}</div>
+<div data-id="293" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C293|юぇН忌纒}}</div>
+<div data-id="294" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C294|юぇ脋忌纒〨}}</div>
+<div data-id="295" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C295|юぇ禫纒}}</div>
+<div data-id="296" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C296|юぇ忌纒才}}</div>
+<div data-id="297" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C297|юぇ忌纒}}</div>
+<div data-id="298" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="8" data-skilltype="2 7 1" data-skilltype2="2 7 1">{{CraftDesc|C298|юぇ纒忌纒}}</div>
+<div data-id="299" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="9 7 24 5" data-skilltype2="9 7 24 5">{{CraftDesc|C299|硈ぇほ跑纒}}</div>
+<div data-id="300" data-star="3" data-attribute="0" data-racialtype="0" data-mode="3" data-charge="10" data-skilltype="9 7 22 5" data-skilltype2="9 7 22 5">{{CraftDesc|C300|硈ぇほ跑纒〨}}</div>
+<div data-id="301" data-star="3" data-attribute="0" data-racialtype="0" data-mode="2" data-charge="10" data-skilltype="9 7 23 5" data-skilltype2="9 7 23 5">{{CraftDesc|C301|硈ぇほ跑纒}}</div>
+<div data-id="302" data-star="3" data-attribute="0" data-racialtype="0" data-mode="4" data-charge="10" data-skilltype="9 7 5 26" data-skilltype2="9 7 5 26">{{CraftDesc|C302|硈ぇほ跑纒才}}</div>
+<div data-id="303" data-star="3" data-attribute="0" data-racialtype="0" data-mode="6" data-charge="10" data-skilltype="9 7 25 5" data-skilltype2="9 7 25 5">{{CraftDesc|C303|硈ぇ艶ォ纒}}</div>
+<div data-id="304" data-star="3" data-attribute="0" data-racialtype="0" data-mode="9" data-charge="10" data-skilltype="1 6 3" data-skilltype2="1 6 3">{{CraftDesc|C304|硈ぇ裸苀纒}}</div>
+<div data-id="305" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C305|模ぇ禫纒件}}</div>
+<div data-id="306" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="1 7 5 26" data-skilltype2="1 7 5 26">{{CraftDesc|C306|紇ぇ禫纒}}</div>
+<div data-id="307" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 12" data-skilltype2="1 12">{{CraftDesc|C307|юぇ阑纒┒}}</div>
 <div data-id="308" data-star="2" data-attribute="1" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C308|簒ぇ纒┒}}</div>
 <div data-id="309" data-star="2" data-attribute="2" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C309|芬ぇ纒┒}}</div>
 <div data-id="310" data-star="2" data-attribute="3" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C310|此ぇ纒┒}}</div>
 <div data-id="311" data-star="2" data-attribute="4" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C311|模ぇ纒┒}}</div>
 <div data-id="312" data-star="2" data-attribute="5" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C312|紇ぇ纒┒}}</div>
-<div data-id="313" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="12 1" data-skilltype2="12 1">{{CraftDesc|C313|юぇ╣忌纒┒}}</div>
+<div data-id="313" data-star="2" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 12" data-skilltype2="1 12">{{CraftDesc|C313|юぇ╣忌纒┒}}</div>
 <div data-id="314" data-star="2" data-attribute="1" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C314|簒ぇ╣忌纒┒}}</div>
 <div data-id="315" data-star="2" data-attribute="2" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C315|芬ぇ╣忌纒┒}}</div>
 <div data-id="316" data-star="2" data-attribute="3" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C316|此ぇ╣忌纒┒}}</div>
 <div data-id="317" data-star="2" data-attribute="4" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C317|模ぇ╣忌纒┒}}</div>
 <div data-id="318" data-star="2" data-attribute="5" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C318|紇ぇ╣忌纒┒}}</div>
-<div data-id="319" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 1 15" data-skilltype2="9 1 15">{{CraftDesc|C319|簒ぇ诀忌纒┒}}</div>
-<div data-id="320" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="14 9 1" data-skilltype2="14 9 1">{{CraftDesc|C320|芬ぇ诀忌纒┒}}</div>
-<div data-id="321" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C321|此ぇ诀忌纒┒}}</div>
-<div data-id="322" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="11 5 3 31" data-skilltype2="11 5 3 31">{{CraftDesc|C322|模ぇ瑈纒┒}}</div>
-<div data-id="323" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C323|紇ぇ诀忌纒┒}}</div>
-<div data-id="324" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 1 15" data-skilltype2="9 1 15">{{CraftDesc|C324|簒ぇ艶ォ纒┒}}</div>
-<div data-id="325" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="14 9 1" data-skilltype2="14 9 1">{{CraftDesc|C325|芬ぇ艶ォ纒┒}}</div>
-<div data-id="326" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C326|此ぇ禫纒┒}}</div>
-<div data-id="327" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="11 5 3 31" data-skilltype2="11 5 3 31">{{CraftDesc|C327|模ぇ纞纒┒}}</div>
-<div data-id="328" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C328|紇ぇ禫纒┒}}</div>
+<div data-id="319" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 15 1" data-skilltype2="9 15 1">{{CraftDesc|C319|簒ぇ诀忌纒┒}}</div>
+<div data-id="320" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 14 1" data-skilltype2="9 14 1">{{CraftDesc|C320|芬ぇ诀忌纒┒}}</div>
+<div data-id="321" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C321|此ぇ诀忌纒┒}}</div>
+<div data-id="322" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="31 3 5 11" data-skilltype2="31 3 5 11">{{CraftDesc|C322|模ぇ瑈纒┒}}</div>
+<div data-id="323" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C323|紇ぇ诀忌纒┒}}</div>
+<div data-id="324" data-star="3" data-attribute="1" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 15 1" data-skilltype2="9 15 1">{{CraftDesc|C324|簒ぇ艶ォ纒┒}}</div>
+<div data-id="325" data-star="3" data-attribute="2" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="9 14 1" data-skilltype2="9 14 1">{{CraftDesc|C325|芬ぇ艶ォ纒┒}}</div>
+<div data-id="326" data-star="3" data-attribute="3" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C326|此ぇ禫纒┒}}</div>
+<div data-id="327" data-star="3" data-attribute="4" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="31 3 5 11" data-skilltype2="31 3 5 11">{{CraftDesc|C327|模ぇ纞纒┒}}</div>
+<div data-id="328" data-star="3" data-attribute="5" data-racialtype="7" data-mode="10" data-charge="8" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C328|紇ぇ禫纒┒}}</div>
 <div data-id="329" data-star="1" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C329|юぇ膎纒┒ I}}</div>
 <div data-id="330" data-star="1" data-attribute="0" data-racialtype="0" data-mode="10" data-charge="8" data-skilltype="1 2" data-skilltype2="1 2">{{CraftDesc|C330|юぇ膎纒┒ II}}</div>
-<div data-id="331" data-star="3" data-attribute="1" data-racialtype="3" data-mode="9" data-charge="2" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C331|簒ぇ禫纒}}</div>
-<div data-id="332" data-star="3" data-attribute="1" data-racialtype="3" data-mode="7" data-charge="2" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C332|簒ぇ禫纒件}}</div>
-<div data-id="333" data-star="3" data-attribute="1" data-racialtype="3" data-mode="4" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C333|簒ぇ艶ォ纒才}}</div>
-<div data-id="334" data-star="3" data-attribute="1" data-racialtype="6" data-mode="7" data-charge="2" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C334|簒ぇ侥網纒件}}</div>
-<div data-id="335" data-star="3" data-attribute="1" data-racialtype="6" data-mode="2" data-charge="2" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C335|簒ぇ臸忌纒}}</div>
-<div data-id="336" data-star="3" data-attribute="1" data-racialtype="6" data-mode="9" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C336|簒ぇ瑈纒}}</div>
-<div data-id="337" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C337|簒ぇ禫纒〨}}</div>
-<div data-id="338" data-star="3" data-attribute="1" data-racialtype="1" data-mode="7" data-charge="2" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C338|簒ぇ忌纒件}}</div>
-<div data-id="339" data-star="3" data-attribute="1" data-racialtype="1" data-mode="4" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C339|簒ぇ艶ォ纒才 II}}</div>
-<div data-id="340" data-star="3" data-attribute="1" data-racialtype="2" data-mode="2" data-charge="2" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C340|簒ぇ禫纒}}</div>
-<div data-id="341" data-star="3" data-attribute="1" data-racialtype="2" data-mode="9" data-charge="2" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C341|簒ぇ脋忌纒}}</div>
-<div data-id="342" data-star="3" data-attribute="1" data-racialtype="2" data-mode="7" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C342|簒ぇ瑈纒件}}</div>
-<div data-id="343" data-star="3" data-attribute="1" data-racialtype="4" data-mode="3" data-charge="2" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C343|簒ぇ瘆ヒ纒〨}}</div>
-<div data-id="344" data-star="3" data-attribute="1" data-racialtype="4" data-mode="9" data-charge="2" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C344|簒ぇ纒忌纒}}</div>
-<div data-id="345" data-star="3" data-attribute="1" data-racialtype="4" data-mode="4" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C345|簒ぇ艶ォ纒才 III}}</div>
-<div data-id="346" data-star="3" data-attribute="1" data-racialtype="5" data-mode="1" data-charge="2" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C346|簒ぇ╣忌纒}}</div>
-<div data-id="347" data-star="3" data-attribute="1" data-racialtype="5" data-mode="2" data-charge="2" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C347|簒ぇН忌纒}}</div>
-<div data-id="348" data-star="3" data-attribute="1" data-racialtype="5" data-mode="7" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C348|簒ぇ艶ォ纒件}}</div>
-<div data-id="349" data-star="3" data-attribute="1" data-racialtype="7" data-mode="9" data-charge="2" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C349|簒ぇ侥網纒}}</div>
-<div data-id="350" data-star="3" data-attribute="1" data-racialtype="7" data-mode="1" data-charge="2" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C350|簒ぇ诀忌纒}}</div>
-<div data-id="351" data-star="3" data-attribute="1" data-racialtype="7" data-mode="4" data-charge="2" data-skilltype="5 28 9 3" data-skilltype2="5 28 9 3">{{CraftDesc|C351|簒ぇ艶ォ纒才 IV}}</div>
-<div data-id="352" data-star="3" data-attribute="2" data-racialtype="3" data-mode="3" data-charge="3" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C352|芬ぇ禫纒〨}}</div>
-<div data-id="353" data-star="3" data-attribute="2" data-racialtype="3" data-mode="9" data-charge="3" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C353|芬ぇ禫纒}}</div>
-<div data-id="354" data-star="3" data-attribute="2" data-racialtype="3" data-mode="2" data-charge="3" data-skilltype="5 9 3 29" data-skilltype2="5 9 3 29">{{CraftDesc|C354|芬ぇ瑈纒}}</div>
-<div data-id="355" data-star="3" data-attribute="2" data-racialtype="6" data-mode="3" data-charge="3" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C355|芬ぇ纞纒〨}}</div>
-<div data-id="356" data-star="3" data-attribute="2" data-racialtype="6" data-mode="9" data-charge="3" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C356|芬ぇ臸忌纒}}</div>
-<div data-id="357" data-star="3" data-attribute="2" data-racialtype="6" data-mode="4" data-charge="3" data-skilltype="5 9 29" data-skilltype2="5 9 29">{{CraftDesc|C357|芬ぇ瑈纒才}}</div>
-<div data-id="358" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C358|芬ぇ侥網纒}}</div>
-<div data-id="359" data-star="3" data-attribute="2" data-racialtype="1" data-mode="7" data-charge="3" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C359|芬ぇ禫纒件}}</div>
-<div data-id="360" data-star="3" data-attribute="2" data-racialtype="1" data-mode="9" data-charge="3" data-skilltype="5 9 3 29" data-skilltype2="5 9 3 29">{{CraftDesc|C360|芬ぇ瑈纒}}</div>
-<div data-id="361" data-star="3" data-attribute="2" data-racialtype="2" data-mode="3" data-charge="3" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C361|芬ぇ纒〨}}</div>
-<div data-id="362" data-star="3" data-attribute="2" data-racialtype="2" data-mode="2" data-charge="3" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C362|芬ぇ禫纒}}</div>
-<div data-id="363" data-star="3" data-attribute="2" data-racialtype="2" data-mode="9" data-charge="3" data-skilltype="5 9 3 29" data-skilltype2="5 9 3 29">{{CraftDesc|C363|芬ぇ艶ォ纒}}</div>
-<div data-id="364" data-star="3" data-attribute="2" data-racialtype="4" data-mode="7" data-charge="3" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C364|芬ぇ瘆ヒ纒件}}</div>
-<div data-id="365" data-star="3" data-attribute="2" data-racialtype="4" data-mode="9" data-charge="3" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C365|芬ぇ纒忌纒}}</div>
-<div data-id="366" data-star="3" data-attribute="2" data-racialtype="4" data-mode="4" data-charge="3" data-skilltype="5 9 3 29" data-skilltype2="5 9 3 29">{{CraftDesc|C366|芬ぇ艶ォ纒才}}</div>
-<div data-id="367" data-star="3" data-attribute="2" data-racialtype="5" data-mode="3" data-charge="3" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C367|芬ぇ瘆ヒ纒〨}}</div>
-<div data-id="368" data-star="3" data-attribute="2" data-racialtype="5" data-mode="9" data-charge="3" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C368|芬ぇН忌纒}}</div>
-<div data-id="369" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="5 9 3 29" data-skilltype2="5 9 3 29">{{CraftDesc|C369|芬ぇ瑈纒}}</div>
-<div data-id="370" data-star="3" data-attribute="2" data-racialtype="7" data-mode="7" data-charge="3" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C370|芬ぇ遁﹀纒件}}</div>
-<div data-id="371" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="3" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C371|芬ぇ︹纒}}</div>
-<div data-id="372" data-star="3" data-attribute="2" data-racialtype="7" data-mode="4" data-charge="3" data-skilltype="5 9 3 29" data-skilltype2="5 9 3 29">{{CraftDesc|C372|芬ぇ確ネ纒才}}</div>
-<div data-id="373" data-star="3" data-attribute="3" data-racialtype="3" data-mode="3" data-charge="4" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C373|此ぇ禫纒〨}}</div>
-<div data-id="374" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C374|此ぇ禫纒}}</div>
-<div data-id="375" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="5 9 30 3" data-skilltype2="5 9 30 3">{{CraftDesc|C375|此ぇ瑈纒件}}</div>
-<div data-id="376" data-star="3" data-attribute="3" data-racialtype="6" data-mode="9" data-charge="4" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C376|此ぇ禫纒}}</div>
-<div data-id="377" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="4" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C377|此ぇ︹纒〨}}</div>
-<div data-id="378" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="4" data-skilltype="5 9 30" data-skilltype2="5 9 30">{{CraftDesc|C378|此ぇ艶ォ纒件}}</div>
-<div data-id="379" data-star="3" data-attribute="3" data-racialtype="1" data-mode="9" data-charge="4" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C379|此ぇ荡挂纒}}</div>
-<div data-id="380" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="4" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C380|此ぇ禫纒才}}</div>
-<div data-id="381" data-star="3" data-attribute="3" data-racialtype="1" data-mode="1" data-charge="4" data-skilltype="5 9 30 3" data-skilltype2="5 9 30 3">{{CraftDesc|C381|此ぇ瑈纒}}</div>
-<div data-id="382" data-star="3" data-attribute="3" data-racialtype="2" data-mode="2" data-charge="4" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C382|此ぇ╣忌纒}}</div>
-<div data-id="383" data-star="3" data-attribute="3" data-racialtype="2" data-mode="9" data-charge="4" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C383|此ぇ脋忌纒}}</div>
-<div data-id="384" data-star="3" data-attribute="3" data-racialtype="2" data-mode="4" data-charge="4" data-skilltype="5 9 30 3" data-skilltype2="5 9 30 3">{{CraftDesc|C384|此ぇ艶ォ纒才}}</div>
-<div data-id="385" data-star="3" data-attribute="3" data-racialtype="4" data-mode="7" data-charge="4" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C385|此ぇ禫纒件}}</div>
-<div data-id="386" data-star="3" data-attribute="3" data-racialtype="4" data-mode="3" data-charge="4" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C386|此ぇ纒忌纒〨}}</div>
-<div data-id="387" data-star="3" data-attribute="3" data-racialtype="4" data-mode="9" data-charge="4" data-skilltype="5 9 30 3" data-skilltype2="5 9 30 3">{{CraftDesc|C387|此ぇ瑈纒}}</div>
-<div data-id="388" data-star="3" data-attribute="3" data-racialtype="5" data-mode="2" data-charge="4" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C388|此ぇ侥網纒}}</div>
-<div data-id="389" data-star="3" data-attribute="3" data-racialtype="5" data-mode="9" data-charge="4" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C389|此ぇН忌纒}}</div>
-<div data-id="390" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="5 9 30 3" data-skilltype2="5 9 30 3">{{CraftDesc|C390|此ぇ確ネ纒才}}</div>
-<div data-id="391" data-star="3" data-attribute="3" data-racialtype="7" data-mode="3" data-charge="4" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C391|此ぇ侥網纒〨}}</div>
-<div data-id="392" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="4" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C392|此ぇ遁﹀纒}}</div>
-<div data-id="393" data-star="3" data-attribute="3" data-racialtype="7" data-mode="1" data-charge="4" data-skilltype="5 9 30 3" data-skilltype2="5 9 30 3">{{CraftDesc|C393|此ぇ艶ォ纒}}</div>
-<div data-id="394" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C394|模ぇ╣忌纒才}}</div>
-<div data-id="395" data-star="3" data-attribute="4" data-racialtype="3" data-mode="7" data-charge="5" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C395|模ぇ忌纒件}}</div>
-<div data-id="396" data-star="3" data-attribute="4" data-racialtype="3" data-mode="2" data-charge="5" data-skilltype="5 9 31 3" data-skilltype2="5 9 31 3">{{CraftDesc|C396|模ぇ瑈纒}}</div>
-<div data-id="397" data-star="3" data-attribute="4" data-racialtype="6" data-mode="9" data-charge="5" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C397|模ぇ禫纒}}</div>
-<div data-id="398" data-star="3" data-attribute="4" data-racialtype="6" data-mode="3" data-charge="5" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C398|模ぇ禫纒〨}}</div>
-<div data-id="399" data-star="3" data-attribute="4" data-racialtype="6" data-mode="9" data-charge="5" data-skilltype="5 9 31 3" data-skilltype2="5 9 31 3">{{CraftDesc|C399|模ぇ瑈纒}}</div>
-<div data-id="400" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="5" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C400|模ぇ禫纒}}</div>
-<div data-id="401" data-star="3" data-attribute="4" data-racialtype="1" data-mode="3" data-charge="5" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C401|模ぇ忌纒〨}}</div>
-<div data-id="402" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="5 9 31" data-skilltype2="5 9 31">{{CraftDesc|C402|模ぇ艶ォ纒件}}</div>
-<div data-id="403" data-star="3" data-attribute="4" data-racialtype="2" data-mode="9" data-charge="5" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C403|模ぇ︹纒}}</div>
-<div data-id="404" data-star="3" data-attribute="4" data-racialtype="2" data-mode="2" data-charge="5" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C404|模ぇ禫纒}}</div>
-<div data-id="405" data-star="3" data-attribute="4" data-racialtype="2" data-mode="9" data-charge="5" data-skilltype="5 9 31 3" data-skilltype2="5 9 31 3">{{CraftDesc|C405|模ぇ艶ォ纒}}</div>
-<div data-id="406" data-star="3" data-attribute="4" data-racialtype="4" data-mode="4" data-charge="5" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C406|模ぇ禫纒才}}</div>
-<div data-id="407" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="5" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C407|模ぇ瓜乃纒}}</div>
-<div data-id="408" data-star="3" data-attribute="4" data-racialtype="4" data-mode="9" data-charge="5" data-skilltype="5 9 31 3" data-skilltype2="5 9 31 3">{{CraftDesc|C408|模ぇ確ネ纒}}</div>
-<div data-id="409" data-star="3" data-attribute="4" data-racialtype="5" data-mode="3" data-charge="5" data-skilltype="7 1 6" data-skilltype2="7 1 6">{{CraftDesc|C409|模ぇ纒〨}}</div>
-<div data-id="410" data-star="3" data-attribute="4" data-racialtype="5" data-mode="1" data-charge="5" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C410|模ぇН忌纒}}</div>
-<div data-id="411" data-star="3" data-attribute="4" data-racialtype="5" data-mode="7" data-charge="5" data-skilltype="5 9 31 3" data-skilltype2="5 9 31 3">{{CraftDesc|C411|模ぇ確ネ纒件}}</div>
-<div data-id="412" data-star="3" data-attribute="4" data-racialtype="7" data-mode="9" data-charge="5" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C412|模ぇ遁﹀纒}}</div>
-<div data-id="413" data-star="3" data-attribute="4" data-racialtype="7" data-mode="1" data-charge="5" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C413|模ぇ诀忌纒}}</div>
-<div data-id="414" data-star="3" data-attribute="4" data-racialtype="7" data-mode="4" data-charge="5" data-skilltype="5 9 31 3" data-skilltype2="5 9 31 3">{{CraftDesc|C414|模ぇ瑈纒才}}</div>
-<div data-id="415" data-star="3" data-attribute="5" data-racialtype="3" data-mode="7" data-charge="6" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C415|紇ぇ╣忌纒件}}</div>
-<div data-id="416" data-star="3" data-attribute="5" data-racialtype="3" data-mode="9" data-charge="6" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C416|紇ぇ忌纒}}</div>
-<div data-id="417" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C417|紇ぇ艶ォ纒〨}}</div>
-<div data-id="418" data-star="3" data-attribute="5" data-racialtype="6" data-mode="9" data-charge="6" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C418|紇ぇ瘆ヒ纒}}</div>
-<div data-id="419" data-star="3" data-attribute="5" data-racialtype="6" data-mode="2" data-charge="6" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C419|紇ぇ臸忌纒}}</div>
-<div data-id="420" data-star="3" data-attribute="5" data-racialtype="6" data-mode="7" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C420|紇ぇ瑈纒件}}</div>
-<div data-id="421" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C421|紇ぇ╣忌纒 II}}</div>
-<div data-id="422" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="6" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C422|紇ぇ禫纒才}}</div>
-<div data-id="423" data-star="3" data-attribute="5" data-racialtype="1" data-mode="2" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C423|紇ぇ瑈纒}}</div>
-<div data-id="424" data-star="3" data-attribute="5" data-racialtype="2" data-mode="3" data-charge="6" data-skilltype="7 1 4" data-skilltype2="7 1 4">{{CraftDesc|C424|紇ぇ遁﹀纒}}</div>
-<div data-id="425" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C425|紇ぇ禫纒件}}</div>
-<div data-id="426" data-star="3" data-attribute="5" data-racialtype="2" data-mode="9" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C426|紇ぇ瑈纒}}</div>
-<div data-id="427" data-star="3" data-attribute="5" data-racialtype="4" data-mode="4" data-charge="6" data-skilltype="11 7 1" data-skilltype2="11 7 1">{{CraftDesc|C427|紇ぇ纞纒才}}</div>
-<div data-id="428" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="14 7 1" data-skilltype2="14 7 1">{{CraftDesc|C428|紇ぇ禫纒}}</div>
-<div data-id="429" data-star="3" data-attribute="5" data-racialtype="4" data-mode="9" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C429|紇ぇ艶ォ纒}}</div>
-<div data-id="430" data-star="3" data-attribute="5" data-racialtype="5" data-mode="2" data-charge="6" data-skilltype="7 1 15" data-skilltype2="7 1 15">{{CraftDesc|C430|紇ぇ︹纒}}</div>
-<div data-id="431" data-star="3" data-attribute="5" data-racialtype="5" data-mode="7" data-charge="6" data-skilltype="7 1" data-skilltype2="7 1">{{CraftDesc|C431|紇ぇН忌纒件}}</div>
-<div data-id="432" data-star="3" data-attribute="5" data-racialtype="5" data-mode="9" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C432|紇ぇ確ネ纒}}</div>
-<div data-id="433" data-star="3" data-attribute="5" data-racialtype="7" data-mode="7" data-charge="6" data-skilltype="16 7 1" data-skilltype2="16 7 1">{{CraftDesc|C433|紇ぇ侥網纒件}}</div>
-<div data-id="434" data-star="3" data-attribute="5" data-racialtype="7" data-mode="1" data-charge="6" data-skilltype="10 7 1" data-skilltype2="10 7 1">{{CraftDesc|C434|紇ぇ诀忌纒}}</div>
-<div data-id="435" data-star="3" data-attribute="5" data-racialtype="7" data-mode="9" data-charge="6" data-skilltype="3 5 9 32" data-skilltype2="3 5 9 32">{{CraftDesc|C435|紇ぇ瑈纒 II}}</div>
-<div data-id="436" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="11 1 2" data-skilltype2="11 1 2">{{CraftDesc|C436|み纞纒}}</div>
-<div data-id="437" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="14 1 2" data-skilltype2="14 1 2">{{CraftDesc|C437|み瓜乃纒}}</div>
-<div data-id="438" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="16 1 2" data-skilltype2="16 1 2">{{CraftDesc|C438|み侥網纒}}</div>
-<div data-id="439" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="3 1 2" data-skilltype2="3 1 2">{{CraftDesc|C439|み確ネ纒}}</div>
-<div data-id="440" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="7 1 2" data-skilltype2="7 1 2">{{CraftDesc|C440|み禫纒}}</div>
+<div data-id="331" data-star="3" data-attribute="1" data-racialtype="3" data-mode="9" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C331|簒ぇ禫纒}}</div>
+<div data-id="332" data-star="3" data-attribute="1" data-racialtype="3" data-mode="7" data-charge="2" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C332|簒ぇ禫纒件}}</div>
+<div data-id="333" data-star="3" data-attribute="1" data-racialtype="3" data-mode="4" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C333|簒ぇ艶ォ纒才}}</div>
+<div data-id="334" data-star="3" data-attribute="1" data-racialtype="6" data-mode="7" data-charge="2" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C334|簒ぇ侥網纒件}}</div>
+<div data-id="335" data-star="3" data-attribute="1" data-racialtype="6" data-mode="2" data-charge="2" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C335|簒ぇ臸忌纒}}</div>
+<div data-id="336" data-star="3" data-attribute="1" data-racialtype="6" data-mode="9" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C336|簒ぇ瑈纒}}</div>
+<div data-id="337" data-star="3" data-attribute="1" data-racialtype="1" data-mode="3" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C337|簒ぇ禫纒〨}}</div>
+<div data-id="338" data-star="3" data-attribute="1" data-racialtype="1" data-mode="7" data-charge="2" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C338|簒ぇ忌纒件}}</div>
+<div data-id="339" data-star="3" data-attribute="1" data-racialtype="1" data-mode="4" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C339|簒ぇ艶ォ纒才 II}}</div>
+<div data-id="340" data-star="3" data-attribute="1" data-racialtype="2" data-mode="2" data-charge="2" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C340|簒ぇ禫纒}}</div>
+<div data-id="341" data-star="3" data-attribute="1" data-racialtype="2" data-mode="9" data-charge="2" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C341|簒ぇ脋忌纒}}</div>
+<div data-id="342" data-star="3" data-attribute="1" data-racialtype="2" data-mode="7" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C342|簒ぇ瑈纒件}}</div>
+<div data-id="343" data-star="3" data-attribute="1" data-racialtype="4" data-mode="3" data-charge="2" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C343|簒ぇ瘆ヒ纒〨}}</div>
+<div data-id="344" data-star="3" data-attribute="1" data-racialtype="4" data-mode="9" data-charge="2" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C344|簒ぇ纒忌纒}}</div>
+<div data-id="345" data-star="3" data-attribute="1" data-racialtype="4" data-mode="4" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C345|簒ぇ艶ォ纒才 III}}</div>
+<div data-id="346" data-star="3" data-attribute="1" data-racialtype="5" data-mode="1" data-charge="2" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C346|簒ぇ╣忌纒}}</div>
+<div data-id="347" data-star="3" data-attribute="1" data-racialtype="5" data-mode="2" data-charge="2" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C347|簒ぇН忌纒}}</div>
+<div data-id="348" data-star="3" data-attribute="1" data-racialtype="5" data-mode="7" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C348|簒ぇ艶ォ纒件}}</div>
+<div data-id="349" data-star="3" data-attribute="1" data-racialtype="7" data-mode="9" data-charge="2" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C349|簒ぇ侥網纒}}</div>
+<div data-id="350" data-star="3" data-attribute="1" data-racialtype="7" data-mode="1" data-charge="2" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C350|簒ぇ诀忌纒}}</div>
+<div data-id="351" data-star="3" data-attribute="1" data-racialtype="7" data-mode="4" data-charge="2" data-skilltype="9 3 28 5" data-skilltype2="9 3 28 5">{{CraftDesc|C351|簒ぇ艶ォ纒才 IV}}</div>
+<div data-id="352" data-star="3" data-attribute="2" data-racialtype="3" data-mode="3" data-charge="3" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C352|芬ぇ禫纒〨}}</div>
+<div data-id="353" data-star="3" data-attribute="2" data-racialtype="3" data-mode="9" data-charge="3" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C353|芬ぇ禫纒}}</div>
+<div data-id="354" data-star="3" data-attribute="2" data-racialtype="3" data-mode="2" data-charge="3" data-skilltype="9 29 3 5" data-skilltype2="9 29 3 5">{{CraftDesc|C354|芬ぇ瑈纒}}</div>
+<div data-id="355" data-star="3" data-attribute="2" data-racialtype="6" data-mode="3" data-charge="3" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C355|芬ぇ纞纒〨}}</div>
+<div data-id="356" data-star="3" data-attribute="2" data-racialtype="6" data-mode="9" data-charge="3" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C356|芬ぇ臸忌纒}}</div>
+<div data-id="357" data-star="3" data-attribute="2" data-racialtype="6" data-mode="4" data-charge="3" data-skilltype="9 29 5" data-skilltype2="9 29 5">{{CraftDesc|C357|芬ぇ瑈纒才}}</div>
+<div data-id="358" data-star="3" data-attribute="2" data-racialtype="1" data-mode="1" data-charge="3" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C358|芬ぇ侥網纒}}</div>
+<div data-id="359" data-star="3" data-attribute="2" data-racialtype="1" data-mode="7" data-charge="3" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C359|芬ぇ禫纒件}}</div>
+<div data-id="360" data-star="3" data-attribute="2" data-racialtype="1" data-mode="9" data-charge="3" data-skilltype="9 29 3 5" data-skilltype2="9 29 3 5">{{CraftDesc|C360|芬ぇ瑈纒}}</div>
+<div data-id="361" data-star="3" data-attribute="2" data-racialtype="2" data-mode="3" data-charge="3" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C361|芬ぇ纒〨}}</div>
+<div data-id="362" data-star="3" data-attribute="2" data-racialtype="2" data-mode="2" data-charge="3" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C362|芬ぇ禫纒}}</div>
+<div data-id="363" data-star="3" data-attribute="2" data-racialtype="2" data-mode="9" data-charge="3" data-skilltype="9 29 3 5" data-skilltype2="9 29 3 5">{{CraftDesc|C363|芬ぇ艶ォ纒}}</div>
+<div data-id="364" data-star="3" data-attribute="2" data-racialtype="4" data-mode="7" data-charge="3" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C364|芬ぇ瘆ヒ纒件}}</div>
+<div data-id="365" data-star="3" data-attribute="2" data-racialtype="4" data-mode="9" data-charge="3" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C365|芬ぇ纒忌纒}}</div>
+<div data-id="366" data-star="3" data-attribute="2" data-racialtype="4" data-mode="4" data-charge="3" data-skilltype="9 29 3 5" data-skilltype2="9 29 3 5">{{CraftDesc|C366|芬ぇ艶ォ纒才}}</div>
+<div data-id="367" data-star="3" data-attribute="2" data-racialtype="5" data-mode="3" data-charge="3" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C367|芬ぇ瘆ヒ纒〨}}</div>
+<div data-id="368" data-star="3" data-attribute="2" data-racialtype="5" data-mode="9" data-charge="3" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C368|芬ぇН忌纒}}</div>
+<div data-id="369" data-star="3" data-attribute="2" data-racialtype="5" data-mode="1" data-charge="3" data-skilltype="9 29 3 5" data-skilltype2="9 29 3 5">{{CraftDesc|C369|芬ぇ瑈纒}}</div>
+<div data-id="370" data-star="3" data-attribute="2" data-racialtype="7" data-mode="7" data-charge="3" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C370|芬ぇ遁﹀纒件}}</div>
+<div data-id="371" data-star="3" data-attribute="2" data-racialtype="7" data-mode="9" data-charge="3" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C371|芬ぇ︹纒}}</div>
+<div data-id="372" data-star="3" data-attribute="2" data-racialtype="7" data-mode="4" data-charge="3" data-skilltype="9 29 3 5" data-skilltype2="9 29 3 5">{{CraftDesc|C372|芬ぇ確ネ纒才}}</div>
+<div data-id="373" data-star="3" data-attribute="3" data-racialtype="3" data-mode="3" data-charge="4" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C373|此ぇ禫纒〨}}</div>
+<div data-id="374" data-star="3" data-attribute="3" data-racialtype="3" data-mode="1" data-charge="4" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C374|此ぇ禫纒}}</div>
+<div data-id="375" data-star="3" data-attribute="3" data-racialtype="3" data-mode="7" data-charge="4" data-skilltype="9 3 30 5" data-skilltype2="9 3 30 5">{{CraftDesc|C375|此ぇ瑈纒件}}</div>
+<div data-id="376" data-star="3" data-attribute="3" data-racialtype="6" data-mode="9" data-charge="4" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C376|此ぇ禫纒}}</div>
+<div data-id="377" data-star="3" data-attribute="3" data-racialtype="6" data-mode="3" data-charge="4" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C377|此ぇ︹纒〨}}</div>
+<div data-id="378" data-star="3" data-attribute="3" data-racialtype="6" data-mode="7" data-charge="4" data-skilltype="9 30 5" data-skilltype2="9 30 5">{{CraftDesc|C378|此ぇ艶ォ纒件}}</div>
+<div data-id="379" data-star="3" data-attribute="3" data-racialtype="1" data-mode="9" data-charge="4" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C379|此ぇ荡挂纒}}</div>
+<div data-id="380" data-star="3" data-attribute="3" data-racialtype="1" data-mode="4" data-charge="4" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C380|此ぇ禫纒才}}</div>
+<div data-id="381" data-star="3" data-attribute="3" data-racialtype="1" data-mode="1" data-charge="4" data-skilltype="9 3 30 5" data-skilltype2="9 3 30 5">{{CraftDesc|C381|此ぇ瑈纒}}</div>
+<div data-id="382" data-star="3" data-attribute="3" data-racialtype="2" data-mode="2" data-charge="4" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C382|此ぇ╣忌纒}}</div>
+<div data-id="383" data-star="3" data-attribute="3" data-racialtype="2" data-mode="9" data-charge="4" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C383|此ぇ脋忌纒}}</div>
+<div data-id="384" data-star="3" data-attribute="3" data-racialtype="2" data-mode="4" data-charge="4" data-skilltype="9 3 30 5" data-skilltype2="9 3 30 5">{{CraftDesc|C384|此ぇ艶ォ纒才}}</div>
+<div data-id="385" data-star="3" data-attribute="3" data-racialtype="4" data-mode="7" data-charge="4" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C385|此ぇ禫纒件}}</div>
+<div data-id="386" data-star="3" data-attribute="3" data-racialtype="4" data-mode="3" data-charge="4" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C386|此ぇ纒忌纒〨}}</div>
+<div data-id="387" data-star="3" data-attribute="3" data-racialtype="4" data-mode="9" data-charge="4" data-skilltype="9 3 30 5" data-skilltype2="9 3 30 5">{{CraftDesc|C387|此ぇ瑈纒}}</div>
+<div data-id="388" data-star="3" data-attribute="3" data-racialtype="5" data-mode="2" data-charge="4" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C388|此ぇ侥網纒}}</div>
+<div data-id="389" data-star="3" data-attribute="3" data-racialtype="5" data-mode="9" data-charge="4" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C389|此ぇН忌纒}}</div>
+<div data-id="390" data-star="3" data-attribute="3" data-racialtype="5" data-mode="4" data-charge="4" data-skilltype="9 3 30 5" data-skilltype2="9 3 30 5">{{CraftDesc|C390|此ぇ確ネ纒才}}</div>
+<div data-id="391" data-star="3" data-attribute="3" data-racialtype="7" data-mode="3" data-charge="4" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C391|此ぇ侥網纒〨}}</div>
+<div data-id="392" data-star="3" data-attribute="3" data-racialtype="7" data-mode="9" data-charge="4" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C392|此ぇ遁﹀纒}}</div>
+<div data-id="393" data-star="3" data-attribute="3" data-racialtype="7" data-mode="1" data-charge="4" data-skilltype="9 3 30 5" data-skilltype2="9 3 30 5">{{CraftDesc|C393|此ぇ艶ォ纒}}</div>
+<div data-id="394" data-star="3" data-attribute="4" data-racialtype="3" data-mode="4" data-charge="5" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C394|模ぇ╣忌纒才}}</div>
+<div data-id="395" data-star="3" data-attribute="4" data-racialtype="3" data-mode="7" data-charge="5" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C395|模ぇ忌纒件}}</div>
+<div data-id="396" data-star="3" data-attribute="4" data-racialtype="3" data-mode="2" data-charge="5" data-skilltype="9 3 31 5" data-skilltype2="9 3 31 5">{{CraftDesc|C396|模ぇ瑈纒}}</div>
+<div data-id="397" data-star="3" data-attribute="4" data-racialtype="6" data-mode="9" data-charge="5" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C397|模ぇ禫纒}}</div>
+<div data-id="398" data-star="3" data-attribute="4" data-racialtype="6" data-mode="3" data-charge="5" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C398|模ぇ禫纒〨}}</div>
+<div data-id="399" data-star="3" data-attribute="4" data-racialtype="6" data-mode="9" data-charge="5" data-skilltype="9 3 31 5" data-skilltype2="9 3 31 5">{{CraftDesc|C399|模ぇ瑈纒}}</div>
+<div data-id="400" data-star="3" data-attribute="4" data-racialtype="1" data-mode="1" data-charge="5" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C400|模ぇ禫纒}}</div>
+<div data-id="401" data-star="3" data-attribute="4" data-racialtype="1" data-mode="3" data-charge="5" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C401|模ぇ忌纒〨}}</div>
+<div data-id="402" data-star="3" data-attribute="4" data-racialtype="1" data-mode="7" data-charge="5" data-skilltype="9 31 5" data-skilltype2="9 31 5">{{CraftDesc|C402|模ぇ艶ォ纒件}}</div>
+<div data-id="403" data-star="3" data-attribute="4" data-racialtype="2" data-mode="9" data-charge="5" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C403|模ぇ︹纒}}</div>
+<div data-id="404" data-star="3" data-attribute="4" data-racialtype="2" data-mode="2" data-charge="5" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C404|模ぇ禫纒}}</div>
+<div data-id="405" data-star="3" data-attribute="4" data-racialtype="2" data-mode="9" data-charge="5" data-skilltype="9 3 31 5" data-skilltype2="9 3 31 5">{{CraftDesc|C405|模ぇ艶ォ纒}}</div>
+<div data-id="406" data-star="3" data-attribute="4" data-racialtype="4" data-mode="4" data-charge="5" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C406|模ぇ禫纒才}}</div>
+<div data-id="407" data-star="3" data-attribute="4" data-racialtype="4" data-mode="2" data-charge="5" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C407|模ぇ瓜乃纒}}</div>
+<div data-id="408" data-star="3" data-attribute="4" data-racialtype="4" data-mode="9" data-charge="5" data-skilltype="9 3 31 5" data-skilltype2="9 3 31 5">{{CraftDesc|C408|模ぇ確ネ纒}}</div>
+<div data-id="409" data-star="3" data-attribute="4" data-racialtype="5" data-mode="3" data-charge="5" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C409|模ぇ纒〨}}</div>
+<div data-id="410" data-star="3" data-attribute="4" data-racialtype="5" data-mode="1" data-charge="5" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C410|模ぇН忌纒}}</div>
+<div data-id="411" data-star="3" data-attribute="4" data-racialtype="5" data-mode="7" data-charge="5" data-skilltype="9 3 31 5" data-skilltype2="9 3 31 5">{{CraftDesc|C411|模ぇ確ネ纒件}}</div>
+<div data-id="412" data-star="3" data-attribute="4" data-racialtype="7" data-mode="9" data-charge="5" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C412|模ぇ遁﹀纒}}</div>
+<div data-id="413" data-star="3" data-attribute="4" data-racialtype="7" data-mode="1" data-charge="5" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C413|模ぇ诀忌纒}}</div>
+<div data-id="414" data-star="3" data-attribute="4" data-racialtype="7" data-mode="4" data-charge="5" data-skilltype="9 3 31 5" data-skilltype2="9 3 31 5">{{CraftDesc|C414|模ぇ瑈纒才}}</div>
+<div data-id="415" data-star="3" data-attribute="5" data-racialtype="3" data-mode="7" data-charge="6" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C415|紇ぇ╣忌纒件}}</div>
+<div data-id="416" data-star="3" data-attribute="5" data-racialtype="3" data-mode="9" data-charge="6" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C416|紇ぇ忌纒}}</div>
+<div data-id="417" data-star="3" data-attribute="5" data-racialtype="3" data-mode="3" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C417|紇ぇ艶ォ纒〨}}</div>
+<div data-id="418" data-star="3" data-attribute="5" data-racialtype="6" data-mode="9" data-charge="6" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C418|紇ぇ瘆ヒ纒}}</div>
+<div data-id="419" data-star="3" data-attribute="5" data-racialtype="6" data-mode="2" data-charge="6" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C419|紇ぇ臸忌纒}}</div>
+<div data-id="420" data-star="3" data-attribute="5" data-racialtype="6" data-mode="7" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C420|紇ぇ瑈纒件}}</div>
+<div data-id="421" data-star="3" data-attribute="5" data-racialtype="1" data-mode="9" data-charge="6" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C421|紇ぇ╣忌纒 II}}</div>
+<div data-id="422" data-star="3" data-attribute="5" data-racialtype="1" data-mode="4" data-charge="6" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C422|紇ぇ禫纒才}}</div>
+<div data-id="423" data-star="3" data-attribute="5" data-racialtype="1" data-mode="2" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C423|紇ぇ瑈纒}}</div>
+<div data-id="424" data-star="3" data-attribute="5" data-racialtype="2" data-mode="3" data-charge="6" data-skilltype="1 7 4" data-skilltype2="1 7 4">{{CraftDesc|C424|紇ぇ遁﹀纒〨}}</div>
+<div data-id="425" data-star="3" data-attribute="5" data-racialtype="2" data-mode="7" data-charge="6" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C425|紇ぇ禫纒件}}</div>
+<div data-id="426" data-star="3" data-attribute="5" data-racialtype="2" data-mode="9" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C426|紇ぇ瑈纒}}</div>
+<div data-id="427" data-star="3" data-attribute="5" data-racialtype="4" data-mode="4" data-charge="6" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C427|紇ぇ纞纒才}}</div>
+<div data-id="428" data-star="3" data-attribute="5" data-racialtype="4" data-mode="1" data-charge="6" data-skilltype="1 7 14" data-skilltype2="1 7 14">{{CraftDesc|C428|紇ぇ禫纒}}</div>
+<div data-id="429" data-star="3" data-attribute="5" data-racialtype="4" data-mode="9" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C429|紇ぇ艶ォ纒}}</div>
+<div data-id="430" data-star="3" data-attribute="5" data-racialtype="5" data-mode="2" data-charge="6" data-skilltype="1 7 15" data-skilltype2="1 7 15">{{CraftDesc|C430|紇ぇ︹纒}}</div>
+<div data-id="431" data-star="3" data-attribute="5" data-racialtype="5" data-mode="7" data-charge="6" data-skilltype="1 7" data-skilltype2="1 7">{{CraftDesc|C431|紇ぇН忌纒件}}</div>
+<div data-id="432" data-star="3" data-attribute="5" data-racialtype="5" data-mode="9" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C432|紇ぇ確ネ纒}}</div>
+<div data-id="433" data-star="3" data-attribute="5" data-racialtype="7" data-mode="7" data-charge="6" data-skilltype="1 7 16" data-skilltype2="1 7 16">{{CraftDesc|C433|紇ぇ侥網纒件}}</div>
+<div data-id="434" data-star="3" data-attribute="5" data-racialtype="7" data-mode="1" data-charge="6" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C434|紇ぇ诀忌纒}}</div>
+<div data-id="435" data-star="3" data-attribute="5" data-racialtype="7" data-mode="9" data-charge="6" data-skilltype="9 3 32 5" data-skilltype2="9 3 32 5">{{CraftDesc|C435|紇ぇ瑈纒 II}}</div>
+<div data-id="436" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="1 11 2" data-skilltype2="1 11 2">{{CraftDesc|C436|み纞纒}}</div>
+<div data-id="437" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="1 14 2" data-skilltype2="1 14 2">{{CraftDesc|C437|み瓜乃纒}}</div>
+<div data-id="438" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="1 16 2" data-skilltype2="1 16 2">{{CraftDesc|C438|み侥網纒}}</div>
+<div data-id="439" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="1 12 3" data-skilltype2="1 12 3">{{CraftDesc|C439|み確ネ纒}}</div>
+<div data-id="440" data-star="3" data-attribute="0" data-racialtype="0" data-mode="1" data-charge="10" data-skilltype="1 7 2" data-skilltype2="1 7 2">{{CraftDesc|C440|み禫纒}}</div>
+<div data-id="441" data-star="3" data-attribute="0" data-racialtype="1" data-mode="3" data-charge="8" data-skilltype="1 7 30 5" data-skilltype2="1 7 30 5">{{CraftDesc|C441|юぇ禫纒〨}}</div>
+<div data-id="442" data-star="3" data-attribute="0" data-racialtype="1" data-mode="2" data-charge="1" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C442|店ぇ裸苀纒}}</div>
+<div data-id="443" data-star="3" data-attribute="0" data-racialtype="1" data-mode="4" data-charge="10" data-skilltype="1 7 25 5" data-skilltype2="1 7 25 5">{{CraftDesc|C443|硈ぇ禫纒才}}</div>
+<div data-id="444" data-star="3" data-attribute="0" data-racialtype="2" data-mode="9" data-charge="1" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C444|店ぇ纞纒}}</div>
+<div data-id="445" data-star="3" data-attribute="0" data-racialtype="2" data-mode="4" data-charge="10" data-skilltype="1 7 31 5" data-skilltype2="1 7 31 5">{{CraftDesc|C445|硈ぇ禫纒才}}</div>
+<div data-id="446" data-star="3" data-attribute="0" data-racialtype="2" data-mode="2" data-charge="8" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C446|юぇ確ネ纒}}</div>
+<div data-id="447" data-star="3" data-attribute="0" data-racialtype="5" data-mode="4" data-charge="1" data-skilltype="1 7 5 26" data-skilltype2="1 7 5 26">{{CraftDesc|C447|店ぇ禫纒才}}</div>
+<div data-id="448" data-star="3" data-attribute="0" data-racialtype="5" data-mode="3" data-charge="8" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C448|юぇ纞纒〨}}</div>
+<div data-id="449" data-star="3" data-attribute="0" data-racialtype="5" data-mode="2" data-charge="10" data-skilltype="1 7 28 5" data-skilltype2="1 7 28 5">{{CraftDesc|C449|硈ぇ禫纒}}</div>
+<div data-id="450" data-star="3" data-attribute="0" data-racialtype="4" data-mode="1" data-charge="10" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C450|硈ぇ纞纒}}</div>
+<div data-id="451" data-star="3" data-attribute="0" data-racialtype="4" data-mode="4" data-charge="1" data-skilltype="1 7 28 5" data-skilltype2="1 7 28 5">{{CraftDesc|C451|店ぇ禫纒才}}</div>
+<div data-id="452" data-star="3" data-attribute="0" data-racialtype="4" data-mode="3" data-charge="8" data-skilltype="1 7 3" data-skilltype2="1 7 3">{{CraftDesc|C452|юぇ確ネ纒〨}}</div>
+<div data-id="453" data-star="3" data-attribute="0" data-racialtype="3" data-mode="9" data-charge="1" data-skilltype="1 7 29 5" data-skilltype2="1 7 29 5">{{CraftDesc|C453|店ぇ禫纒}}</div>
+<div data-id="454" data-star="3" data-attribute="0" data-racialtype="3" data-mode="2" data-charge="10" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C454|硈ぇ裸苀纒}}</div>
+<div data-id="455" data-star="3" data-attribute="0" data-racialtype="3" data-mode="4" data-charge="1" data-skilltype="1 7 22 5" data-skilltype2="1 7 22 5">{{CraftDesc|C455|店ぇ禫纒才}}</div>
+<div data-id="456" data-star="3" data-attribute="0" data-racialtype="6" data-mode="9" data-charge="8" data-skilltype="1 7 10" data-skilltype2="1 7 10">{{CraftDesc|C456|юぇ荡挂纒}}</div>
+<div data-id="457" data-star="3" data-attribute="0" data-racialtype="6" data-mode="1" data-charge="10" data-skilltype="1 7 31 5" data-skilltype2="1 7 31 5">{{CraftDesc|C457|硈ぇ禫纒}}</div>
+<div data-id="458" data-star="3" data-attribute="0" data-racialtype="6" data-mode="3" data-charge="1" data-skilltype="1 7 11" data-skilltype2="1 7 11">{{CraftDesc|C458|店ぇ纞纒〨}}</div>
+<div data-id="459" data-star="3" data-attribute="0" data-racialtype="7" data-mode="3" data-charge="10" data-skilltype="1 7 24 5" data-skilltype2="1 7 24 5">{{CraftDesc|C459|硈ぇ禫纒〨}}</div>
+<div data-id="460" data-star="3" data-attribute="0" data-racialtype="7" data-mode="1" data-charge="1" data-skilltype="1 7 6" data-skilltype2="1 7 6">{{CraftDesc|C460|店ぇ裸苀纒}}</div>
+<div data-id="461" data-star="3" data-attribute="0" data-racialtype="7" data-mode="2" data-charge="10" data-skilltype="1 7 31 5" data-skilltype2="1 7 31 5">{{CraftDesc|C461|硈ぇ禫纒}}</div>
